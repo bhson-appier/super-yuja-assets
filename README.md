@@ -24,6 +24,8 @@ https://bhson-appier.github.io/super-yuja-storage/<버티컬>/<상품ID>/<그룹
 
 - **파일은 제자리에서 바뀌지 않습니다.** 사진이 바뀌면 내용이 달라져 새 이름이 생깁니다. 그래서 오래 캐시해도 됩니다.
 - 대체된 옛 파일은 14일 동안 남겨 두었다가 지웁니다(`_state.json`).
+- 기획전 그림은 `promo/<기획전ID>/<역할>-<순번>-<sha8>.jpg`(역할 `intro` 소개 사진 · `slide` 정사각 배너 · `banner` 가로 배너), 목록은 `promo/index.json`.
+- 사진마다 같은 이름에 `-w640.webp`·`-w960.webp`를 붙인 **크기별 WebP 사본**이 있습니다(원본보다 넓은 사본은 만들지 않음, 메타데이터 포함). 데모 사이트는 이 사본을 브라우저가 바로 받습니다.
 - 버티컬마다 `<버티컬>/index.json`에 상품별 대표 사진(`default_main`)·대표 착용 사진(`default_model`)과 모든 사진이 있습니다.
   `placeholder: true`는 사진이 승인되기 전까지 쓰는 **임시 그림**(AI 생성 아님)입니다.
 - 갤러리: https://bhson-appier.github.io/super-yuja-storage/
