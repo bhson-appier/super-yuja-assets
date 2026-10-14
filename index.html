@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>수퍼유자 상품 이미지</title>
+<style>
+:root { color-scheme: light dark; --bg: #ffffff; --fg: #17191c; --muted: #5d636b; --line: #e3e6ea; --card: #f4f5f7; }
+@media (prefers-color-scheme: dark) { :root { --bg: #121417; --fg: #eceef1; --muted: #a1a8b1; --line: #2a2e34; --card: #1b1e22; } }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 15px/1.55 "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif; }
+main { max-width: 1200px; margin: 0 auto; padding: 24px 16px 64px; }
+h1 { font-size: 22px; margin: 0 0 8px; }
+p.lead { color: var(--muted); margin: 0 0 4px; }
+code { font-size: 13px; overflow-wrap: anywhere; }
+.bar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 16px 0; }
+.bar input { flex: 1 1 220px; min-height: 40px; padding: 0 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--fg); font: inherit; }
+.count { color: var(--muted); font-size: 13px; }
+ul.grid { list-style: none; padding: 0; margin: 0; display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr)); }
+li.product { border: 1px solid var(--line); border-radius: 12px; padding: 10px; min-width: 0; }
+li.product h2 { font-size: 14px; margin: 0 0 8px; overflow-wrap: anywhere; }
+li.product h2 small { display: block; color: var(--muted); font-weight: 400; }
+.shots { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px; }
+figure { margin: 0; min-width: 0; }
+.ph { position: relative; aspect-ratio: 1; background: var(--card); border-radius: 8px; overflow: hidden; }
+.ph img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.badge { position: absolute; right: 6px; bottom: 6px; display: inline-flex; align-items: center; gap: 3px; padding: 2px 7px; border-radius: 999px;
+  background: rgb(0 0 0 / .55); color: #fff; font-size: 11px; line-height: 16px; font-weight: 600; pointer-events: none; }
+.badge.tmp { background: rgb(0 0 0 / .35); font-weight: 500; }
+figcaption { font-size: 12px; color: var(--muted); margin-top: 4px; overflow-wrap: anywhere; }
+figcaption a { color: inherit; }
+</style>
+</head>
+<body>
+<main>
+<h1>수퍼유자 상품 이미지</h1>
+<p class="lead">Appier Korea 데모 쇼핑몰 <b>수퍼유자</b>의 <b>AI로 생성한 가상 상품 사진</b>입니다. 실제 상점이 아니며, 상품·브랜드·모델은 실존하지 않습니다.</p>
+<p class="lead">주소: <code>https://bhson-appier.github.io/super-yuja-storage/&lt;버티컬&gt;/&lt;상품ID&gt;/&lt;그룹&gt;/&lt;종류&gt;-&lt;순번&gt;-&lt;sha8&gt;.jpg</code> · 파일은 제자리에서 바뀌지 않습니다.</p>
+<div class="bar"><input id="q" type="search" placeholder="상품 ID·이름으로 찾기" aria-label="상품 찾기"><span class="count" id="count" aria-live="polite"></span></div>
+<noscript><p>목록은 자바스크립트로 그립니다. 자료는 버티컬별 index.json에 있습니다: <a href="fashion/index.json">fashion/index.json</a></p></noscript>
+<ul class="grid" id="grid"></ul>
+</main>
+<script>
+const VERTICALS = ["fashion"];
+const KIND = { main: "상품", model: "착용" };
+const grid = document.getElementById("grid"), q = document.getElementById("q"), count = document.getElementById("count");
+let items = [];
+function el(tag, attrs, ...kids) { const e = document.createElement(tag); for (const [k, v] of Object.entries(attrs || {})) e.setAttribute(k, v); e.append(...kids); return e; }
+function card([id, p]) {
+  const shots = el("div", { class: "shots" });
+  for (const s of p.slots) {
+    const img = el("img", { src: s.url, alt: `${p.name.ko} ${KIND[s.kind] || s.kind} 사진${s.placeholder ? " (임시 그림)" : " (AI 생성 이미지)"}`, loading: "lazy", decoding: "async", width: "600", height: "600" });
+    const badge = el("span", { class: s.placeholder ? "badge tmp" : "badge", "aria-hidden": "true" }, s.placeholder ? "임시" : "✦ AI 생성");
+    const cap = el("figcaption", {}, el("a", { href: s.url }, `${s.group} · ${KIND[s.kind] || s.kind} ${s.seq}`));
+    shots.append(el("figure", {}, el("div", { class: "ph" }, img, badge), cap));
+  }
+  return el("li", { class: "product", "data-q": `${id} ${p.name.ko} ${p.name.en}`.toLowerCase() }, el("h2", {}, id, el("small", {}, p.name.ko)), shots);
+}
+function show() {
+  const term = q.value.trim().toLowerCase();
+  let n = 0;
+  for (const li of items) { const on = !term || li.dataset.q.includes(term); li.hidden = !on; if (on) n++; }
+  count.textContent = `상품 ${n}개`;
+}
+Promise.all(VERTICALS.map((v) => fetch(`${v}/index.json`).then((r) => r.json()))).then((all) => {
+  for (const ix of all) items.push(...Object.entries(ix.products).map(card));
+  grid.append(...items);
+  show();
+});
+q.addEventListener("input", show);
+</script>
+</body>
+</html>
