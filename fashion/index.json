@@ -5492,7 +5492,7 @@
         "en": "Kruzo Nylon Camera Crossbody Bag"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-BG-0029/black/main-1-58d98edd.jpg",
-      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-BG-0029/_/model-1-3bf18df1.jpg",
+      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-BG-0029/black/model-1-05ebd101.jpg",
       "slots": [
         {
           "group": "black",
@@ -5509,6 +5509,20 @@
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
+          "group": "black",
+          "kind": "model",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-BG-0029/black/model-1-05ebd101.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FA-BG-0029-model-v7",
+          "path": "fashion/FA-BG-0029/black/model-1-05ebd101.jpg",
+          "sha256": "05ebd101eecdcb220066eefc73f8c5931fcd856314cc887da89c1a08d52f0c75",
+          "bytes": 134212,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
           "group": "navy",
           "kind": "main",
           "seq": 1,
@@ -5521,20 +5535,6 @@
           "sha256": "4e8a986dcb2db3334599c5655c6dd37b89d2934d52c41d009efb44727b85daeb",
           "bytes": 127035,
           "digital_source_type": "trainedAlgorithmicMedia"
-        },
-        {
-          "group": "_",
-          "kind": "model",
-          "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-BG-0029/_/model-1-3bf18df1.jpg",
-          "w": 1200,
-          "h": 1200,
-          "placeholder": true,
-          "job_id": null,
-          "path": "fashion/FA-BG-0029/_/model-1-3bf18df1.jpg",
-          "sha256": "3bf18df11635c997834ba1eeb688a59599158583d6a491748d2e9ac5d10c28d1",
-          "bytes": 32853,
-          "digital_source_type": null
         }
       ]
     },
@@ -16663,50 +16663,50 @@
         "ko": "알타보 러버 하이 샌들",
         "en": "Altavo Rubber High Sandals"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-SH-0033/black/main-1-5f762ca7.jpg",
-      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-SH-0033/_/model-1-8e27f533.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-SH-0033/black/main-1-d690807e.jpg",
+      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-SH-0033/black/model-1-bf589cfa.jpg",
       "slots": [
         {
           "group": "black",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-SH-0033/black/main-1-5f762ca7.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-SH-0033/black/main-1-d690807e.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "job_id": "FA-SH-0033-black-garment-v1",
-          "path": "fashion/FA-SH-0033/black/main-1-5f762ca7.jpg",
-          "sha256": "5f762ca7c8f9f63875c0817846ad8fcba2e22bec31189febfb7f6e0f154fa200",
-          "bytes": 108938,
+          "job_id": "FA-SH-0033-black-garment-v2",
+          "path": "fashion/FA-SH-0033/black/main-1-d690807e.jpg",
+          "sha256": "d690807ee9443554d4127a4198ebe9aa268bb0084d076810172eb666d66eca07",
+          "bytes": 145093,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "black",
+          "kind": "model",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-SH-0033/black/model-1-bf589cfa.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FA-SH-0033-model-v13",
+          "path": "fashion/FA-SH-0033/black/model-1-bf589cfa.jpg",
+          "sha256": "bf589cfa2bfd51a9518760a755c1308a2f9aeb9d389677cb15489e338bcbda7c",
+          "bytes": 105010,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
           "group": "oat",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-SH-0033/oat/main-1-68f51d1c.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-SH-0033/oat/main-1-6f31ddd0.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "job_id": "FA-SH-0033-oat-recolor-v1",
-          "path": "fashion/FA-SH-0033/oat/main-1-68f51d1c.jpg",
-          "sha256": "68f51d1cbe8f2b4b50e9a7f43f0a99dcc5fa818916acb78a3ed1e2c80692c480",
-          "bytes": 95025,
+          "job_id": "FA-SH-0033-oat-recolor-v2",
+          "path": "fashion/FA-SH-0033/oat/main-1-6f31ddd0.jpg",
+          "sha256": "6f31ddd0915a7d2908b22f0c3c9f1b86817ac1d6c380445fa1ef51425edd9bc2",
+          "bytes": 129109,
           "digital_source_type": "trainedAlgorithmicMedia"
-        },
-        {
-          "group": "_",
-          "kind": "model",
-          "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-SH-0033/_/model-1-8e27f533.jpg",
-          "w": 1200,
-          "h": 1200,
-          "placeholder": true,
-          "job_id": null,
-          "path": "fashion/FA-SH-0033/_/model-1-8e27f533.jpg",
-          "sha256": "8e27f53347175eb1d7e3915b977c1089e2e56dc22fad541e34edeeea67d34ba7",
-          "bytes": 32616,
-          "digital_source_type": null
         }
       ]
     },
