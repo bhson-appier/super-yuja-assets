@@ -1458,14 +1458,14 @@
           "group": "burgundy",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-AC-0029/burgundy/main-1-e0c24fe4.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-AC-0029/burgundy/main-1-63d464d3.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "job_id": "FA-AC-0029-burgundy-recolor-v4",
-          "path": "fashion/FA-AC-0029/burgundy/main-1-e0c24fe4.jpg",
-          "sha256": "e0c24fe4e3fab4e0db009595548d6b575951cc2552d84d2b56e63ab1c32d609d",
-          "bytes": 136763,
+          "job_id": "FA-AC-0029-burgundy-recolor-v5",
+          "path": "fashion/FA-AC-0029/burgundy/main-1-63d464d3.jpg",
+          "sha256": "63d464d35f78ce02af4a10b5e90af7576adf5d89650fa32a012307b676ef3935",
+          "bytes": 127404,
           "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
@@ -2430,7 +2430,7 @@
         "en": "Yujoy Yoga Seamless High-Waist Leggings"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-AT-0002/charcoal/main-1-cc3a51ff.jpg",
-      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-AT-0002/_/model-1-6262c8a3.jpg",
+      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-AT-0002/charcoal/model-1-0f5aba1e.jpg",
       "slots": [
         {
           "group": "charcoal",
@@ -2447,6 +2447,20 @@
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
+          "group": "charcoal",
+          "kind": "model",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-AT-0002/charcoal/model-1-0f5aba1e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FA-AT-0002-model-v2",
+          "path": "fashion/FA-AT-0002/charcoal/model-1-0f5aba1e.jpg",
+          "sha256": "0f5aba1e26b9d640335041e8dc9829209821dad5be3531415f59c541a4c803e3",
+          "bytes": 106666,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
           "group": "black",
           "kind": "main",
           "seq": 1,
@@ -2459,20 +2473,6 @@
           "sha256": "1fbaf676abbf5b52d8870b41ce7e441ceabb77204cc8edea46425c5d2313a449",
           "bytes": 66089,
           "digital_source_type": "trainedAlgorithmicMedia"
-        },
-        {
-          "group": "_",
-          "kind": "model",
-          "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-AT-0002/_/model-1-6262c8a3.jpg",
-          "w": 1200,
-          "h": 1200,
-          "placeholder": true,
-          "job_id": null,
-          "path": "fashion/FA-AT-0002/_/model-1-6262c8a3.jpg",
-          "sha256": "6262c8a32e5a7542d945c2c6a3c60dd6c985ad1efb4b42a314b070a91cc1e799",
-          "bytes": 36105,
-          "digital_source_type": null
         }
       ]
     },
@@ -3946,7 +3946,7 @@
         "en": "Altavo Running High-Waist Leggings"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-AT-0029/black/main-1-b1477432.jpg",
-      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-AT-0029/_/model-1-6262c8a3.jpg",
+      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-AT-0029/black/model-1-83d64903.jpg",
       "slots": [
         {
           "group": "black",
@@ -3960,6 +3960,20 @@
           "path": "fashion/FA-AT-0029/black/main-1-b1477432.jpg",
           "sha256": "b14774328e1723297a89bf8b1b4fbb39e35c36ab56dfff910003c5e2a628f9e8",
           "bytes": 58980,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "black",
+          "kind": "model",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-AT-0029/black/model-1-83d64903.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FA-AT-0029-model-v3",
+          "path": "fashion/FA-AT-0029/black/model-1-83d64903.jpg",
+          "sha256": "83d649030b9f431b6bbdb7f7c8733a0fac0d73eca92d787ab955e451da25c6c5",
+          "bytes": 114174,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -3989,20 +4003,6 @@
           "sha256": "79299d267912b9ede62c8ba9c97365ce156ddfe24f393cbdd4cfdc53fdd6f756",
           "bytes": 67700,
           "digital_source_type": "trainedAlgorithmicMedia"
-        },
-        {
-          "group": "_",
-          "kind": "model",
-          "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-AT-0029/_/model-1-6262c8a3.jpg",
-          "w": 1200,
-          "h": 1200,
-          "placeholder": true,
-          "job_id": null,
-          "path": "fashion/FA-AT-0029/_/model-1-6262c8a3.jpg",
-          "sha256": "6262c8a32e5a7542d945c2c6a3c60dd6c985ad1efb4b42a314b070a91cc1e799",
-          "bytes": 36105,
-          "digital_source_type": null
         }
       ]
     },
@@ -4584,7 +4584,7 @@
         "en": "Ivelline Nylon Camera Crossbody Bag"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-BG-0011/black/main-1-e3e16693.jpg",
-      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-BG-0011/_/model-1-3bf18df1.jpg",
+      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-BG-0011/black/model-1-9ad78322.jpg",
       "slots": [
         {
           "group": "black",
@@ -4601,6 +4601,20 @@
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
+          "group": "black",
+          "kind": "model",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-BG-0011/black/model-1-9ad78322.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FA-BG-0011-model-v2",
+          "path": "fashion/FA-BG-0011/black/model-1-9ad78322.jpg",
+          "sha256": "9ad78322198bd15c6f7660c8d583aacc74a5d562f7bc821c6f22b79f8855daa9",
+          "bytes": 156287,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
           "group": "olive",
           "kind": "main",
           "seq": 1,
@@ -4613,20 +4627,6 @@
           "sha256": "bdcb2f4c11104394c52df8d09af971e7981989345ce4d9955b78b1da722e927e",
           "bytes": 112658,
           "digital_source_type": "trainedAlgorithmicMedia"
-        },
-        {
-          "group": "_",
-          "kind": "model",
-          "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-BG-0011/_/model-1-3bf18df1.jpg",
-          "w": 1200,
-          "h": 1200,
-          "placeholder": true,
-          "job_id": null,
-          "path": "fashion/FA-BG-0011/_/model-1-3bf18df1.jpg",
-          "sha256": "3bf18df11635c997834ba1eeb688a59599158583d6a491748d2e9ac5d10c28d1",
-          "bytes": 32853,
-          "digital_source_type": null
         }
       ]
     },
@@ -5246,7 +5246,7 @@
         "en": "Rovena Leather Mini Shoulder Bag"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-BG-0024/oat/main-1-c08646f8.jpg",
-      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-BG-0024/_/model-1-3bf18df1.jpg",
+      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-BG-0024/oat/model-1-87f822ba.jpg",
       "slots": [
         {
           "group": "oat",
@@ -5263,6 +5263,20 @@
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
+          "group": "oat",
+          "kind": "model",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-BG-0024/oat/model-1-87f822ba.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FA-BG-0024-model-v2",
+          "path": "fashion/FA-BG-0024/oat/model-1-87f822ba.jpg",
+          "sha256": "87f822ba3d13cf040ab3b02fa940c5cb2a7ef0959a38a89d3a84d8d94988f45c",
+          "bytes": 161031,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
           "group": "dustypink",
           "kind": "main",
           "seq": 1,
@@ -5275,20 +5289,6 @@
           "sha256": "43c345f245a8fe10246c13a45fe4e780ce3be380f7fcb6382ca19c23b190dc07",
           "bytes": 175153,
           "digital_source_type": "trainedAlgorithmicMedia"
-        },
-        {
-          "group": "_",
-          "kind": "model",
-          "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-BG-0024/_/model-1-3bf18df1.jpg",
-          "w": 1200,
-          "h": 1200,
-          "placeholder": true,
-          "job_id": null,
-          "path": "fashion/FA-BG-0024/_/model-1-3bf18df1.jpg",
-          "sha256": "3bf18df11635c997834ba1eeb688a59599158583d6a491748d2e9ac5d10c28d1",
-          "bytes": 32853,
-          "digital_source_type": null
         }
       ]
     },
@@ -10680,7 +10680,7 @@
         "en": "Ivelline Linen Wide Zip Jumpsuit"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0022/plum/main-1-d29ea15c.jpg",
-      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0022/plum/model-1-03d78dba.jpg",
+      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0022/plum/model-1-401a30cc.jpg",
       "slots": [
         {
           "group": "plum",
@@ -10700,14 +10700,14 @@
           "group": "plum",
           "kind": "model",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0022/plum/model-1-03d78dba.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0022/plum/model-1-401a30cc.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "job_id": "FA-DR-0022-model-v5",
-          "path": "fashion/FA-DR-0022/plum/model-1-03d78dba.jpg",
-          "sha256": "03d78dba83dd072459e004752c2b6921fbbb11cca2e286889df4203a4367a701",
-          "bytes": 127442,
+          "job_id": "FA-DR-0022-model-v6",
+          "path": "fashion/FA-DR-0022/plum/model-1-401a30cc.jpg",
+          "sha256": "401a30cc27ee157a64e8f00354cc00fbee90305169c86fab6becb47c72adb28c",
+          "bytes": 128065,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -12772,7 +12772,7 @@
         "en": "Ivelline Gabardine Single Long Coat"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-OU-0006/black/main-1-4ba055d5.jpg",
-      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-OU-0006/black/model-1-d7c9b674.jpg",
+      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-OU-0006/black/model-1-5441bfad.jpg",
       "slots": [
         {
           "group": "black",
@@ -12792,14 +12792,14 @@
           "group": "black",
           "kind": "model",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-OU-0006/black/model-1-d7c9b674.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-OU-0006/black/model-1-5441bfad.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "job_id": "FA-OU-0006-model-v2",
-          "path": "fashion/FA-OU-0006/black/model-1-d7c9b674.jpg",
-          "sha256": "d7c9b6740d29d6e9c089b629149b7776edd7b34a0f8018fa0b9b3c393badac75",
-          "bytes": 121903,
+          "job_id": "FA-OU-0006-model-v3",
+          "path": "fashion/FA-OU-0006/black/model-1-5441bfad.jpg",
+          "sha256": "5441bfade1b91fea5efc8df2b30fe231de0ef1e87b418dbf75968b6855d249a1",
+          "bytes": 123217,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -14138,7 +14138,7 @@
         "en": "Kruzo Washed Cropped Jacket"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-OU-0032/grey/main-1-7e5f4549.jpg",
-      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-OU-0032/grey/model-1-af35131b.jpg",
+      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-OU-0032/grey/model-1-9fc028fb.jpg",
       "slots": [
         {
           "group": "grey",
@@ -14158,14 +14158,14 @@
           "group": "grey",
           "kind": "model",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-OU-0032/grey/model-1-af35131b.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-OU-0032/grey/model-1-9fc028fb.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "job_id": "FA-OU-0032-model-v2",
-          "path": "fashion/FA-OU-0032/grey/model-1-af35131b.jpg",
-          "sha256": "af35131b6d941ec020ff7c93cb990893d7492718d428facc237e7e1ab4d0b371",
-          "bytes": 125804,
+          "job_id": "FA-OU-0032-model-v3",
+          "path": "fashion/FA-OU-0032/grey/model-1-9fc028fb.jpg",
+          "sha256": "9fc028fb907ec771e62f386a45d877c7ebd76480f728ad266ce14048b2ba56fa",
+          "bytes": 117941,
           "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
@@ -14328,7 +14328,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "job_id": "FA-OU-0036-model-v2",
+          "job_id": "FA-OU-0036-model-v8",
           "path": "fashion/FA-OU-0036/black/model-1-1bb39a60.jpg",
           "sha256": "1bb39a603bba1e41adab520930bc9bd40c47a9589022cda9a3c359f497b764d4",
           "bytes": 116626,
@@ -14460,7 +14460,7 @@
         "en": "Kruzo Poly Bomber Hooded Padded Jacket"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-OU-0039/black/main-1-7e9cf652.jpg",
-      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-OU-0039/black/model-1-8754390e.jpg",
+      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-OU-0039/black/model-1-dfdfca94.jpg",
       "slots": [
         {
           "group": "black",
@@ -14480,14 +14480,14 @@
           "group": "black",
           "kind": "model",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-OU-0039/black/model-1-8754390e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-OU-0039/black/model-1-dfdfca94.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "job_id": "FA-OU-0039-model-v5",
-          "path": "fashion/FA-OU-0039/black/model-1-8754390e.jpg",
-          "sha256": "8754390e6fa77d7486d6c2fad089eb687db3be890797176b74473ba77318d785",
-          "bytes": 116223,
+          "job_id": "FA-OU-0039-model-v9",
+          "path": "fashion/FA-OU-0039/black/model-1-dfdfca94.jpg",
+          "sha256": "dfdfca94c68f409c647272a3c1ddbf753e69ec5ffea6aea6f5798a8dd5c4b198",
+          "bytes": 113677,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -14834,7 +14834,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "job_id": "FA-OU-0046-model-v2",
+          "job_id": "FA-OU-0046-model-v8",
           "path": "fashion/FA-OU-0046/navy/model-1-d3e376e0.jpg",
           "sha256": "d3e376e0e5defb4dc73d393c2a2481bbedebf282e2585ab056bf9b50823d4e6b",
           "bytes": 117001,
@@ -19450,7 +19450,7 @@
         "en": "Ivelline Cashmere Blend Cropped Knit"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-TP-0009/navy/main-1-8645186d.jpg",
-      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-TP-0009/navy/model-1-85ac75e4.jpg",
+      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-TP-0009/navy/model-1-958f0526.jpg",
       "slots": [
         {
           "group": "navy",
@@ -19470,14 +19470,14 @@
           "group": "navy",
           "kind": "model",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-TP-0009/navy/model-1-85ac75e4.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-TP-0009/navy/model-1-958f0526.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "job_id": "FA-TP-0009-model-v2",
-          "path": "fashion/FA-TP-0009/navy/model-1-85ac75e4.jpg",
-          "sha256": "85ac75e432557c5249933897036ea45e9e9099eb597d957a1532d5a7e9c1a61b",
-          "bytes": 121433,
+          "job_id": "FA-TP-0009-model-v3",
+          "path": "fashion/FA-TP-0009/navy/model-1-958f0526.jpg",
+          "sha256": "958f052694d2467c391c895fe41322920fdf004b3f54da667dc22442981de914",
+          "bytes": 118588,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
