@@ -12827,61 +12827,61 @@
         "ko": "이벨린 울 블렌드 재킷 셋업",
         "en": "Ivelline Wool Blend Jacket Set Matching"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/camel/main-1-490a60a3.jpg",
-      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/camel/model-1-f3080c91.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/camel/main-1-479e3147.jpg",
+      "default_model": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/camel/model-1-29cd27ef.jpg",
       "slots": [
         {
           "group": "camel",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/camel/main-1-490a60a3.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/camel/main-1-479e3147.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "job_id": "FA-DR-0016-camel-garment-v2",
+          "job_id": "FA-DR-0016-camel-garment-v6",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/camel/main-1-490a60a3-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/camel/main-1-490a60a3-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/camel/main-1-479e3147-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/camel/main-1-479e3147-w960.webp"
           },
-          "path": "fashion/FA-DR-0016/camel/main-1-490a60a3.jpg",
-          "sha256": "490a60a37ac4954733b8655d5256ae564dc1e4ea6608726c4fdfd094d03eb0fb",
-          "bytes": 138270,
+          "path": "fashion/FA-DR-0016/camel/main-1-479e3147.jpg",
+          "sha256": "479e3147461931bd8a448d4ee1179a86a029f913939e7995ef49d1fc881572af",
+          "bytes": 133916,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
           "group": "camel",
           "kind": "model",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/camel/model-1-f3080c91.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/camel/model-1-29cd27ef.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "job_id": "FA-DR-0016-model-v3",
+          "job_id": "FA-DR-0016-model-v6",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/camel/model-1-f3080c91-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/camel/model-1-f3080c91-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/camel/model-1-29cd27ef-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/camel/model-1-29cd27ef-w960.webp"
           },
-          "path": "fashion/FA-DR-0016/camel/model-1-f3080c91.jpg",
-          "sha256": "f3080c91dd415aa5c104d7ceff03954c28e8e6373ea9b474e9993f64b9e4cd1d",
-          "bytes": 117860,
+          "path": "fashion/FA-DR-0016/camel/model-1-29cd27ef.jpg",
+          "sha256": "29cd27eff99bcc4ce0c083830ed3bf16467d58e3a72c5a93ec605b2f82ce2b1f",
+          "bytes": 124615,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
           "group": "charcoal",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/charcoal/main-1-444be550.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/charcoal/main-1-2363dd94.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "job_id": "FA-DR-0016-charcoal-recolor-v2",
+          "job_id": "FA-DR-0016-charcoal-recolor-v6",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/charcoal/main-1-444be550-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/charcoal/main-1-444be550-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/charcoal/main-1-2363dd94-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/fashion/FA-DR-0016/charcoal/main-1-2363dd94-w960.webp"
           },
-          "path": "fashion/FA-DR-0016/charcoal/main-1-444be550.jpg",
-          "sha256": "444be5509b5a685f48dd36727811cbd10457101e5570af32c078b1a1c55519ff",
-          "bytes": 125319,
+          "path": "fashion/FA-DR-0016/charcoal/main-1-2363dd94.jpg",
+          "sha256": "2363dd948acf133f264506caf75c240e8c7bf775196ea6e24fa03ac50553548a",
+          "bytes": 128940,
           "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
