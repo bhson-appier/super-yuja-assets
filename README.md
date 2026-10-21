@@ -32,22 +32,19 @@ https://bhson-appier.github.io/super-yuja-assets/<버티컬>/<상품ID>/<그룹>
 
 ## 상품 피드
 
-데모 사이트의 상품 피드(CSV, UTF-8, BOM 없음)입니다. 공개 중인 버티컬만 있고, 형식은 `aiqua`(Appier AIQUA) ·
-`enterprise`(Appier Enterprise) · `botbonnie`(BotBonnie, Enterprise와 같은 열)입니다. 피드의 사진 주소는 이 저장소의 원본입니다.
+데모 사이트의 상품 피드(CSV, UTF-8, BOM 없음)입니다. 공개 중인 버티컬만 있고, 형식은 `enterprise`(Appier Enterprise,
+BotBonnie도 같은 피드를 씁니다) 하나입니다. 버티컬마다 한 파일이고, `enterprise-all.csv`는 공개 중인 모든 버티컬을 한 파일로 합친 것입니다
+(버티컬을 번갈아 나열: Enterprise가 파일의 앞 700행만 검증하기 때문). 분류(`google_product_category`)는 영어 소문자
+`<버티컬> > <대분류> > <소분류>`입니다. 피드의 사진 주소는 이 저장소의 원본입니다.
 
 ```
-https://bhson-appier.github.io/super-yuja-assets/feeds/<형식>-<버티컬>.csv
+https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-<버티컬>.csv   (모두 합친 파일: enterprise-all.csv)
 ```
 
-- [aiqua-beauty.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/aiqua-beauty.csv) · 상품 500개
 - [enterprise-beauty.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-beauty.csv) · 상품 500개
-- [botbonnie-beauty.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/botbonnie-beauty.csv) · 상품 500개
-- [aiqua-fashion.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/aiqua-fashion.csv) · 상품 500개
 - [enterprise-fashion.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-fashion.csv) · 상품 500개
-- [botbonnie-fashion.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/botbonnie-fashion.csv) · 상품 500개
-- [aiqua-food.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/aiqua-food.csv) · 상품 98개
 - [enterprise-food.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-food.csv) · 상품 98개
-- [botbonnie-food.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/botbonnie-food.csv) · 상품 98개
+- [enterprise-all.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-all.csv) · 상품 1098개
 
 - 같은 파일을 `https://super.yuja.dev/feeds/<파일>`에서도 받을 수 있습니다(데모 사이트가 직접 내보냄).
 - 목록·행 수·SHA-256: `feeds/index.json`. 공개를 멈춘 버티컬의 피드는 바로 지웁니다.

@@ -1,44 +1,17 @@
 {
   "base_url": "https://bhson-appier.github.io/super-yuja-assets/feeds/",
-  "url_form": "feeds/<format>-<vertical>.csv (format aiqua | enterprise | botbonnie)",
+  "url_form": "feeds/enterprise-<vertical>.csv, and feeds/enterprise-all.csv = every vertical in one file (Enterprise format; BotBonnie uses it too)",
   "also_at": "https://super.yuja.dev/feeds/<file> (the demo site serves the same files)",
   "note": "Product feeds of a demo shop (수퍼유자), not a real store: CSV, UTF-8 without BOM, open verticals only. A file changes in place when the catalog changes; a vertical taken off the site loses its files at once.",
   "files": [
-    {
-      "name": "aiqua-beauty.csv",
-      "format": "aiqua",
-      "vertical": "beauty",
-      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/aiqua-beauty.csv",
-      "rows": 500,
-      "bytes": 232204,
-      "sha256": "371fda1c7bc6b271eed3ebee4b2ef8cffffabdab000b122265e36d795deae9d4"
-    },
     {
       "name": "enterprise-beauty.csv",
       "format": "enterprise",
       "vertical": "beauty",
       "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-beauty.csv",
       "rows": 500,
-      "bytes": 232232,
-      "sha256": "d1e39b148d247cc19a88fbe36681b6dd2feffeb97a58144c72766574650d04db"
-    },
-    {
-      "name": "botbonnie-beauty.csv",
-      "format": "botbonnie",
-      "vertical": "beauty",
-      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/botbonnie-beauty.csv",
-      "rows": 500,
-      "bytes": 232232,
-      "sha256": "d1e39b148d247cc19a88fbe36681b6dd2feffeb97a58144c72766574650d04db"
-    },
-    {
-      "name": "aiqua-fashion.csv",
-      "format": "aiqua",
-      "vertical": "fashion",
-      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/aiqua-fashion.csv",
-      "rows": 500,
-      "bytes": 248729,
-      "sha256": "2b03b0eaef90e892c9b74d4cffd138e2d4f65ab5c7c17ac6315046fe42094967"
+      "bytes": 225938,
+      "sha256": "3810b589c508926cd882d49807847af9c435d13e61afdfc7161b37edc3788669"
     },
     {
       "name": "enterprise-fashion.csv",
@@ -46,26 +19,8 @@
       "vertical": "fashion",
       "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-fashion.csv",
       "rows": 500,
-      "bytes": 248757,
-      "sha256": "ab31465e37751d683fb0a3095b482dbbce4ff3eec5b2ef09311cb00daaa40775"
-    },
-    {
-      "name": "botbonnie-fashion.csv",
-      "format": "botbonnie",
-      "vertical": "fashion",
-      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/botbonnie-fashion.csv",
-      "rows": 500,
-      "bytes": 248757,
-      "sha256": "ab31465e37751d683fb0a3095b482dbbce4ff3eec5b2ef09311cb00daaa40775"
-    },
-    {
-      "name": "aiqua-food.csv",
-      "format": "aiqua",
-      "vertical": "food",
-      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/aiqua-food.csv",
-      "rows": 98,
-      "bytes": 43399,
-      "sha256": "dd9c5e7bfa0c148dc05da682f84cf85a823db118dd7634aa5009dfdaa6d0ad96"
+      "bytes": 243984,
+      "sha256": "8a098dbece2e787f1c93891aea1dfc8d8c9eaeaeaf67740d16bca1cc0e73191c"
     },
     {
       "name": "enterprise-food.csv",
@@ -73,17 +28,17 @@
       "vertical": "food",
       "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-food.csv",
       "rows": 98,
-      "bytes": 43427,
-      "sha256": "6fbb2e28f8de54ff395a9d19a1f4c47bdec7c88a29e8b4f88932dd2c07fab3df"
+      "bytes": 42512,
+      "sha256": "ba8da4e42ba99ce4f0386957c722d53955403dec6ab86b92a0e1ea84d8b9dffc"
     },
     {
-      "name": "botbonnie-food.csv",
-      "format": "botbonnie",
-      "vertical": "food",
-      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/botbonnie-food.csv",
-      "rows": 98,
-      "bytes": 43427,
-      "sha256": "6fbb2e28f8de54ff395a9d19a1f4c47bdec7c88a29e8b4f88932dd2c07fab3df"
+      "name": "enterprise-all.csv",
+      "format": "enterprise",
+      "vertical": "all",
+      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-all.csv",
+      "rows": 1098,
+      "bytes": 512018,
+      "sha256": "7c0572cff6b181c2c94c7162bbf1437a46d1f09a3bb700eb0247e6d91af3c2c9"
     }
   ]
 }
