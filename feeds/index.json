@@ -1,0 +1,89 @@
+{
+  "base_url": "https://bhson-appier.github.io/super-yuja-assets/feeds/",
+  "url_form": "feeds/<format>-<vertical>.csv (format aiqua | enterprise | botbonnie)",
+  "also_at": "https://super.yuja.dev/feeds/<file> (the demo site serves the same files)",
+  "note": "Product feeds of a demo shop (수퍼유자), not a real store: CSV, UTF-8 without BOM, open verticals only. A file changes in place when the catalog changes; a vertical taken off the site loses its files at once.",
+  "files": [
+    {
+      "name": "aiqua-beauty.csv",
+      "format": "aiqua",
+      "vertical": "beauty",
+      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/aiqua-beauty.csv",
+      "rows": 500,
+      "bytes": 232204,
+      "sha256": "371fda1c7bc6b271eed3ebee4b2ef8cffffabdab000b122265e36d795deae9d4"
+    },
+    {
+      "name": "enterprise-beauty.csv",
+      "format": "enterprise",
+      "vertical": "beauty",
+      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-beauty.csv",
+      "rows": 500,
+      "bytes": 232232,
+      "sha256": "d1e39b148d247cc19a88fbe36681b6dd2feffeb97a58144c72766574650d04db"
+    },
+    {
+      "name": "botbonnie-beauty.csv",
+      "format": "botbonnie",
+      "vertical": "beauty",
+      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/botbonnie-beauty.csv",
+      "rows": 500,
+      "bytes": 232232,
+      "sha256": "d1e39b148d247cc19a88fbe36681b6dd2feffeb97a58144c72766574650d04db"
+    },
+    {
+      "name": "aiqua-fashion.csv",
+      "format": "aiqua",
+      "vertical": "fashion",
+      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/aiqua-fashion.csv",
+      "rows": 500,
+      "bytes": 248729,
+      "sha256": "2b03b0eaef90e892c9b74d4cffd138e2d4f65ab5c7c17ac6315046fe42094967"
+    },
+    {
+      "name": "enterprise-fashion.csv",
+      "format": "enterprise",
+      "vertical": "fashion",
+      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-fashion.csv",
+      "rows": 500,
+      "bytes": 248757,
+      "sha256": "ab31465e37751d683fb0a3095b482dbbce4ff3eec5b2ef09311cb00daaa40775"
+    },
+    {
+      "name": "botbonnie-fashion.csv",
+      "format": "botbonnie",
+      "vertical": "fashion",
+      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/botbonnie-fashion.csv",
+      "rows": 500,
+      "bytes": 248757,
+      "sha256": "ab31465e37751d683fb0a3095b482dbbce4ff3eec5b2ef09311cb00daaa40775"
+    },
+    {
+      "name": "aiqua-food.csv",
+      "format": "aiqua",
+      "vertical": "food",
+      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/aiqua-food.csv",
+      "rows": 98,
+      "bytes": 43399,
+      "sha256": "dd9c5e7bfa0c148dc05da682f84cf85a823db118dd7634aa5009dfdaa6d0ad96"
+    },
+    {
+      "name": "enterprise-food.csv",
+      "format": "enterprise",
+      "vertical": "food",
+      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-food.csv",
+      "rows": 98,
+      "bytes": 43427,
+      "sha256": "6fbb2e28f8de54ff395a9d19a1f4c47bdec7c88a29e8b4f88932dd2c07fab3df"
+    },
+    {
+      "name": "botbonnie-food.csv",
+      "format": "botbonnie",
+      "vertical": "food",
+      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/botbonnie-food.csv",
+      "rows": 98,
+      "bytes": 43427,
+      "sha256": "6fbb2e28f8de54ff395a9d19a1f4c47bdec7c88a29e8b4f88932dd2c07fab3df"
+    }
+  ]
+}

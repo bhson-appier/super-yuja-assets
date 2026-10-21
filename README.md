@@ -39,7 +39,15 @@ https://bhson-appier.github.io/super-yuja-assets/<버티컬>/<상품ID>/<그룹>
 https://bhson-appier.github.io/super-yuja-assets/feeds/<형식>-<버티컬>.csv
 ```
 
-(아직 없음)
+- [aiqua-beauty.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/aiqua-beauty.csv) · 상품 500개
+- [enterprise-beauty.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-beauty.csv) · 상품 500개
+- [botbonnie-beauty.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/botbonnie-beauty.csv) · 상품 500개
+- [aiqua-fashion.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/aiqua-fashion.csv) · 상품 500개
+- [enterprise-fashion.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-fashion.csv) · 상품 500개
+- [botbonnie-fashion.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/botbonnie-fashion.csv) · 상품 500개
+- [aiqua-food.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/aiqua-food.csv) · 상품 98개
+- [enterprise-food.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-food.csv) · 상품 98개
+- [botbonnie-food.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/botbonnie-food.csv) · 상품 98개
 
 - 같은 파일을 `https://super.yuja.dev/feeds/<파일>`에서도 받을 수 있습니다(데모 사이트가 직접 내보냄).
 - 목록·행 수·SHA-256: `feeds/index.json`. 공개를 멈춘 버티컬의 피드는 바로 지웁니다.
