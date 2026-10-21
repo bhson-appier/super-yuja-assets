@@ -38,11 +38,11 @@ figcaption a { color: inherit; }
 <p class="lead">Appier Korea 데모 쇼핑몰 <b>수퍼유자</b>의 <b>AI로 생성한 가상 상품 사진</b>입니다. 실제 상점이 아니며, 상품·브랜드·모델은 실존하지 않습니다.</p>
 <p class="lead">주소: <code>https://bhson-appier.github.io/super-yuja-storage/&lt;버티컬&gt;/&lt;상품ID&gt;/&lt;그룹&gt;/&lt;종류&gt;-&lt;순번&gt;-&lt;sha8&gt;.jpg</code> · 파일은 제자리에서 바뀌지 않습니다.</p>
 <div class="bar"><input id="q" type="search" placeholder="상품 ID·이름으로 찾기" aria-label="상품 찾기"><span class="count" id="count" aria-live="polite"></span></div>
-<noscript><p>목록은 자바스크립트로 그립니다. 자료는 버티컬별 index.json에 있습니다: <a href="beauty/index.json">beauty/index.json</a> · <a href="fashion/index.json">fashion/index.json</a> · <a href="promo/index.json">promo/index.json</a></p></noscript>
+<noscript><p>목록은 자바스크립트로 그립니다. 자료는 버티컬별 index.json에 있습니다: <a href="beauty/index.json">beauty/index.json</a> · <a href="fashion/index.json">fashion/index.json</a> · <a href="food/index.json">food/index.json</a> · <a href="promo/index.json">promo/index.json</a></p></noscript>
 <ul class="grid" id="grid"></ul>
 </main>
 <script>
-const VERTICALS = ["beauty", "fashion", "promo"];
+const VERTICALS = ["beauty", "fashion", "food", "promo"];
 const KIND = { main: "상품", model: "착용", intro: "기획전 소개", slide: "기획전 배너(정사각)", banner: "기획전 배너(가로)" };
 const grid = document.getElementById("grid"), q = document.getElementById("q"), count = document.getElementById("count");
 let items = [];

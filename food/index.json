@@ -1,0 +1,4516 @@
+{
+  "vertical": "food",
+  "base_url": "https://bhson-appier.github.io/super-yuja-storage/",
+  "url_form": "<vertical>/<productId>/<group>/<kind>-<seq>-<sha8>.jpg",
+  "note": "AI-generated product photos of a demo shop (수퍼유자), not a real store. Files never change in place. placeholder = a temporary drawn image (not AI-generated) until the photo is approved.",
+  "products": {
+    "FD-FR-0001": {
+      "name": {
+        "ko": "경북 홍로 사과 특",
+        "en": "Gyeongbuk Hongro apple Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0001/main/main-1-212a99af.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0001/main/main-1-212a99af.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-01-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0001/main/main-1-212a99af-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0001/main/main-1-212a99af-w960.webp"
+          },
+          "path": "food/FD-FR-0001/main/main-1-212a99af.jpg",
+          "sha256": "212a99af0b236f53c385389780af728e31754989682f209d2cc133dd0e390470",
+          "bytes": 198031,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0001/main/scene-1-4639a5f3.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-01-scene-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0001/main/scene-1-4639a5f3-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0001/main/scene-1-4639a5f3-w960.webp"
+          },
+          "path": "food/FD-FR-0001/main/scene-1-4639a5f3.jpg",
+          "sha256": "4639a5f320032fba933c4b5618378b32cbddc4de13e243dd98893ebd3db6f158",
+          "bytes": 252996,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0003": {
+      "name": {
+        "ko": "필리핀 바나나",
+        "en": "Philippines bananas"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0003/main/main-1-6c9823a1.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0003/main/main-1-6c9823a1.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-IM-01-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0003/main/main-1-6c9823a1-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0003/main/main-1-6c9823a1-w960.webp"
+          },
+          "path": "food/FD-FR-0003/main/main-1-6c9823a1.jpg",
+          "sha256": "6c9823a1e6fbd80753cacf540a23e51839d11edd5adf1b707cc02c718f0c1744",
+          "bytes": 98941,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0003/main/scene-1-3fae61a0.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-IM-01-scene-E-fruit_plate-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0003/main/scene-1-3fae61a0-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0003/main/scene-1-3fae61a0-w960.webp"
+          },
+          "path": "food/FD-FR-0003/main/scene-1-3fae61a0.jpg",
+          "sha256": "3fae61a072eaa0e79c90687054eab5b05db12c8f2962b278b96de75212b4f7b1",
+          "bytes": 214775,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0004": {
+      "name": {
+        "ko": "국내산 감귤",
+        "en": "Korea mandarins"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0004/main/main-1-96677326.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0004/main/main-1-96677326.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-03-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0004/main/main-1-96677326-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0004/main/main-1-96677326-w960.webp"
+          },
+          "path": "food/FD-FR-0004/main/main-1-96677326.jpg",
+          "sha256": "966773261c625e590eb2366f115620190f12c476e29167627b71d30d2b44760a",
+          "bytes": 181815,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0004/main/scene-1-104bf355.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-03-scene-E-fruit_basket-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0004/main/scene-1-104bf355-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0004/main/scene-1-104bf355-w960.webp"
+          },
+          "path": "food/FD-FR-0004/main/scene-1-104bf355.jpg",
+          "sha256": "104bf3550e0f1b2bc7b027bec39b02acc266872d28c3d473e05b9e7eb9b941de",
+          "bytes": 253901,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0005": {
+      "name": {
+        "ko": "국내산 캠벨얼리 포도",
+        "en": "Korea Campbell Early grapes"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0005/main/main-1-a263c8d2.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0005/main/main-1-a263c8d2.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-08-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0005/main/main-1-a263c8d2-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0005/main/main-1-a263c8d2-w960.webp"
+          },
+          "path": "food/FD-FR-0005/main/main-1-a263c8d2.jpg",
+          "sha256": "a263c8d2a759d86d337c191e96b1b055672ff61099120e5bd781507af88229af",
+          "bytes": 183849,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0005/main/scene-1-8c986163.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-08-scene-E-fruit_basket-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0005/main/scene-1-8c986163-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0005/main/scene-1-8c986163-w960.webp"
+          },
+          "path": "food/FD-FR-0005/main/scene-1-8c986163.jpg",
+          "sha256": "8c986163f4f1f7ebf3abd2f15fbce1b49adc9dd6a752c9ae971fac4744f5223d",
+          "bytes": 246235,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0006": {
+      "name": {
+        "ko": "국내산 설향 딸기",
+        "en": "Korea Seolhyang strawberries"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0006/main/main-1-49649464.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0006/main/main-1-49649464.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-10-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0006/main/main-1-49649464-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0006/main/main-1-49649464-w960.webp"
+          },
+          "path": "food/FD-FR-0006/main/main-1-49649464.jpg",
+          "sha256": "4964946427ca025a9000cd424a4ae5e0b77ddaddf7e46a0ff4cb62465bb35224",
+          "bytes": 199466,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0006/main/scene-1-5be30c31.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-10-scene-E-fruit_basket-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0006/main/scene-1-5be30c31-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0006/main/scene-1-5be30c31-w960.webp"
+          },
+          "path": "food/FD-FR-0006/main/scene-1-5be30c31.jpg",
+          "sha256": "5be30c31354837071cbec3ac2b54247225c28805b3c047f486cd7dd34a4341a3",
+          "bytes": 274116,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0007": {
+      "name": {
+        "ko": "국내산 블루베리",
+        "en": "Korea blueberries"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0007/main/main-1-42f2c528.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0007/main/main-1-42f2c528.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-11-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0007/main/main-1-42f2c528-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0007/main/main-1-42f2c528-w960.webp"
+          },
+          "path": "food/FD-FR-0007/main/main-1-42f2c528.jpg",
+          "sha256": "42f2c52870df82b33427795ddfc8dbb56b737434ca704ebc2d0b4705496748ea",
+          "bytes": 182038,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0007/main/scene-1-bbacce1b.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-11-scene-E-fruit_basket-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0007/main/scene-1-bbacce1b-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0007/main/scene-1-bbacce1b-w960.webp"
+          },
+          "path": "food/FD-FR-0007/main/scene-1-bbacce1b.jpg",
+          "sha256": "bbacce1b4e760cd4ffc577818011c48a6df9d2279a50dacfb4bf72b74028096f",
+          "bytes": 261707,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0008": {
+      "name": {
+        "ko": "국내산 멜론",
+        "en": "Korea melons"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0008/main/main-1-e04bba54.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0008/main/main-1-e04bba54.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-14-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0008/main/main-1-e04bba54-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0008/main/main-1-e04bba54-w960.webp"
+          },
+          "path": "food/FD-FR-0008/main/main-1-e04bba54.jpg",
+          "sha256": "e04bba540ef8415dbac2c50d9109d91e5da2039c8716e09b9ff3426c9b9e1695",
+          "bytes": 226455,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0008/main/scene-1-458eb024.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-14-scene-E-fruit_plate-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0008/main/scene-1-458eb024-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0008/main/scene-1-458eb024-w960.webp"
+          },
+          "path": "food/FD-FR-0008/main/scene-1-458eb024.jpg",
+          "sha256": "458eb024c333cd2266096929516e34292c81d5ca5ceea3938849c904cf351ac2",
+          "bytes": 258713,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0009": {
+      "name": {
+        "ko": "국내산 방울토마토",
+        "en": "Korea cherry tomatoes"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0009/main/main-1-618d8fe8.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0009/main/main-1-618d8fe8.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-15-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0009/main/main-1-618d8fe8-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0009/main/main-1-618d8fe8-w960.webp"
+          },
+          "path": "food/FD-FR-0009/main/main-1-618d8fe8.jpg",
+          "sha256": "618d8fe8bf7ca399d4d5029a62108cb137d0e1ac03f17b1433ef434742d169f3",
+          "bytes": 179126,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0009/main/scene-1-9b235808.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-15-scene-E-fruit_basket-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0009/main/scene-1-9b235808-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0009/main/scene-1-9b235808-w960.webp"
+          },
+          "path": "food/FD-FR-0009/main/scene-1-9b235808.jpg",
+          "sha256": "9b235808f83cac13ecdf6befe8424f689e3b1fe42729d9997f89434f02181101",
+          "bytes": 243122,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0010": {
+      "name": {
+        "ko": "국내산 키위",
+        "en": "Korea kiwis"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0010/main/main-1-7aaec644.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0010/main/main-1-7aaec644.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-23-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0010/main/main-1-7aaec644-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0010/main/main-1-7aaec644-w960.webp"
+          },
+          "path": "food/FD-FR-0010/main/main-1-7aaec644.jpg",
+          "sha256": "7aaec644cab783c61f08537bfdb82db175e21748f353c3b97feba418fd557b16",
+          "bytes": 280377,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0010/main/scene-1-c125166b.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-23-scene-E-fruit_basket-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0010/main/scene-1-c125166b-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0010/main/scene-1-c125166b-w960.webp"
+          },
+          "path": "food/FD-FR-0010/main/scene-1-c125166b.jpg",
+          "sha256": "c125166ba8ab2f7058b3774c1dc498256059f754ddd7838905a833d74fd98808",
+          "bytes": 262590,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0011": {
+      "name": {
+        "ko": "멕시코 아보카도",
+        "en": "Mexico avocados"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0011/main/main-1-b48b34bf.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0011/main/main-1-b48b34bf.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-IM-08-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0011/main/main-1-b48b34bf-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0011/main/main-1-b48b34bf-w960.webp"
+          },
+          "path": "food/FD-FR-0011/main/main-1-b48b34bf.jpg",
+          "sha256": "b48b34bfb4b71fb73041c566c5392caae7b5ad3473f0067f1836015c5ec7561a",
+          "bytes": 267538,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0011/main/scene-1-3f1229f9.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-IM-08-scene-E-fruit_plate-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0011/main/scene-1-3f1229f9-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0011/main/scene-1-3f1229f9-w960.webp"
+          },
+          "path": "food/FD-FR-0011/main/scene-1-3f1229f9.jpg",
+          "sha256": "3f1229f931e2fd1158b28a8f8f927d2a9294d4bfd8165e1ed6759d8762743ee1",
+          "bytes": 253187,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0012": {
+      "name": {
+        "ko": "국내산 곶감",
+        "en": "Korea dried persimmons"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0012/main/main-1-5a4b0f0f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0012/main/main-1-5a4b0f0f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-FZ-02-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0012/main/main-1-5a4b0f0f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0012/main/main-1-5a4b0f0f-w960.webp"
+          },
+          "path": "food/FD-FR-0012/main/main-1-5a4b0f0f.jpg",
+          "sha256": "5a4b0f0fb98a26ac0e4eac3bae484e409a2df6e4ef9b76919e0d172bd4d1d782",
+          "bytes": 278147,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0012/main/scene-1-b6b67972.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-FZ-02-scene-E-fruit_plate-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0012/main/scene-1-b6b67972-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0012/main/scene-1-b6b67972-w960.webp"
+          },
+          "path": "food/FD-FR-0012/main/scene-1-b6b67972.jpg",
+          "sha256": "b6b679724d7e8bf03ab2a0208c93362104ae39da698fc7c0a7404ff550c3e7cb",
+          "bytes": 263644,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0013": {
+      "name": {
+        "ko": "경북 부사 사과",
+        "en": "Gyeongbuk Fuji apple"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0013/main/main-1-212a99af.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0013/main/main-1-212a99af.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-01-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0013/main/main-1-212a99af-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0013/main/main-1-212a99af-w960.webp"
+          },
+          "path": "food/FD-FR-0013/main/main-1-212a99af.jpg",
+          "sha256": "212a99af0b236f53c385389780af728e31754989682f209d2cc133dd0e390470",
+          "bytes": 198031,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0013/main/scene-1-4639a5f3.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-01-scene-E-fruit_basket-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0013/main/scene-1-4639a5f3-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0013/main/scene-1-4639a5f3-w960.webp"
+          },
+          "path": "food/FD-FR-0013/main/scene-1-4639a5f3.jpg",
+          "sha256": "4639a5f320032fba933c4b5618378b32cbddc4de13e243dd98893ebd3db6f158",
+          "bytes": 252996,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0014": {
+      "name": {
+        "ko": "국내산 감귤 특",
+        "en": "Korea mandarins Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0014/main/main-1-96677326.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0014/main/main-1-96677326.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-03-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0014/main/main-1-96677326-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0014/main/main-1-96677326-w960.webp"
+          },
+          "path": "food/FD-FR-0014/main/main-1-96677326.jpg",
+          "sha256": "966773261c625e590eb2366f115620190f12c476e29167627b71d30d2b44760a",
+          "bytes": 181815,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0014/main/scene-1-104bf355.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-03-scene-E-fruit_basket-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0014/main/scene-1-104bf355-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0014/main/scene-1-104bf355-w960.webp"
+          },
+          "path": "food/FD-FR-0014/main/scene-1-104bf355.jpg",
+          "sha256": "104bf3550e0f1b2bc7b027bec39b02acc266872d28c3d473e05b9e7eb9b941de",
+          "bytes": 253901,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0015": {
+      "name": {
+        "ko": "국내산 설향 딸기 특",
+        "en": "Korea Seolhyang strawberries Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0015/main/main-1-49649464.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0015/main/main-1-49649464.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-10-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0015/main/main-1-49649464-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0015/main/main-1-49649464-w960.webp"
+          },
+          "path": "food/FD-FR-0015/main/main-1-49649464.jpg",
+          "sha256": "4964946427ca025a9000cd424a4ae5e0b77ddaddf7e46a0ff4cb62465bb35224",
+          "bytes": 199466,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0015/main/scene-1-5be30c31.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-10-scene-E-fruit_basket-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0015/main/scene-1-5be30c31-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0015/main/scene-1-5be30c31-w960.webp"
+          },
+          "path": "food/FD-FR-0015/main/scene-1-5be30c31.jpg",
+          "sha256": "5be30c31354837071cbec3ac2b54247225c28805b3c047f486cd7dd34a4341a3",
+          "bytes": 274116,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0016": {
+      "name": {
+        "ko": "국내산 캠벨얼리 포도 특",
+        "en": "Korea Campbell Early grapes Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0016/main/main-1-a263c8d2.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0016/main/main-1-a263c8d2.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-08-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0016/main/main-1-a263c8d2-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0016/main/main-1-a263c8d2-w960.webp"
+          },
+          "path": "food/FD-FR-0016/main/main-1-a263c8d2.jpg",
+          "sha256": "a263c8d2a759d86d337c191e96b1b055672ff61099120e5bd781507af88229af",
+          "bytes": 183849,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0016/main/scene-1-8c986163.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-08-scene-E-fruit_basket-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0016/main/scene-1-8c986163-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0016/main/scene-1-8c986163-w960.webp"
+          },
+          "path": "food/FD-FR-0016/main/scene-1-8c986163.jpg",
+          "sha256": "8c986163f4f1f7ebf3abd2f15fbce1b49adc9dd6a752c9ae971fac4744f5223d",
+          "bytes": 246235,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0017": {
+      "name": {
+        "ko": "국내산 방울토마토 특",
+        "en": "Korea cherry tomatoes Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0017/main/main-1-618d8fe8.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0017/main/main-1-618d8fe8.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-15-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0017/main/main-1-618d8fe8-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0017/main/main-1-618d8fe8-w960.webp"
+          },
+          "path": "food/FD-FR-0017/main/main-1-618d8fe8.jpg",
+          "sha256": "618d8fe8bf7ca399d4d5029a62108cb137d0e1ac03f17b1433ef434742d169f3",
+          "bytes": 179126,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0017/main/scene-1-9b235808.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-15-scene-E-fruit_basket-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0017/main/scene-1-9b235808-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0017/main/scene-1-9b235808-w960.webp"
+          },
+          "path": "food/FD-FR-0017/main/scene-1-9b235808.jpg",
+          "sha256": "9b235808f83cac13ecdf6befe8424f689e3b1fe42729d9997f89434f02181101",
+          "bytes": 243122,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0018": {
+      "name": {
+        "ko": "국내산 키위 특",
+        "en": "Korea kiwis Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0018/main/main-1-7aaec644.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0018/main/main-1-7aaec644.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-23-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0018/main/main-1-7aaec644-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0018/main/main-1-7aaec644-w960.webp"
+          },
+          "path": "food/FD-FR-0018/main/main-1-7aaec644.jpg",
+          "sha256": "7aaec644cab783c61f08537bfdb82db175e21748f353c3b97feba418fd557b16",
+          "bytes": 280377,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0018/main/scene-1-c125166b.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-23-scene-E-fruit_basket-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0018/main/scene-1-c125166b-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0018/main/scene-1-c125166b-w960.webp"
+          },
+          "path": "food/FD-FR-0018/main/scene-1-c125166b.jpg",
+          "sha256": "c125166ba8ab2f7058b3774c1dc498256059f754ddd7838905a833d74fd98808",
+          "bytes": 262590,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0019": {
+      "name": {
+        "ko": "국내산 블루베리 특",
+        "en": "Korea blueberries Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0019/main/main-1-42f2c528.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0019/main/main-1-42f2c528.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-11-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0019/main/main-1-42f2c528-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0019/main/main-1-42f2c528-w960.webp"
+          },
+          "path": "food/FD-FR-0019/main/main-1-42f2c528.jpg",
+          "sha256": "42f2c52870df82b33427795ddfc8dbb56b737434ca704ebc2d0b4705496748ea",
+          "bytes": 182038,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0019/main/scene-1-bbacce1b.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-11-scene-E-fruit_basket-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0019/main/scene-1-bbacce1b-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0019/main/scene-1-bbacce1b-w960.webp"
+          },
+          "path": "food/FD-FR-0019/main/scene-1-bbacce1b.jpg",
+          "sha256": "bbacce1b4e760cd4ffc577818011c48a6df9d2279a50dacfb4bf72b74028096f",
+          "bytes": 261707,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0020": {
+      "name": {
+        "ko": "국내산 멜론 특",
+        "en": "Korea melons Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0020/main/main-1-e04bba54.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0020/main/main-1-e04bba54.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-14-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0020/main/main-1-e04bba54-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0020/main/main-1-e04bba54-w960.webp"
+          },
+          "path": "food/FD-FR-0020/main/main-1-e04bba54.jpg",
+          "sha256": "e04bba540ef8415dbac2c50d9109d91e5da2039c8716e09b9ff3426c9b9e1695",
+          "bytes": 226455,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0020/main/scene-1-458eb024.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-FR-DO-14-scene-E-fruit_plate-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0020/main/scene-1-458eb024-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-FR-0020/main/scene-1-458eb024-w960.webp"
+          },
+          "path": "food/FD-FR-0020/main/scene-1-458eb024.jpg",
+          "sha256": "458eb024c333cd2266096929516e34292c81d5ca5ceea3938849c904cf351ac2",
+          "bytes": 258713,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0001": {
+      "name": {
+        "ko": "제주 돼지 삼겹살 1등급 구이용",
+        "en": "Jeju pork belly Grade 1 for grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0001/main/main-1-7a9528af.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0001/main/main-1-7a9528af.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-PK-01-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0001/main/main-1-7a9528af-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0001/main/main-1-7a9528af-w960.webp"
+          },
+          "path": "food/FD-MT-0001/main/main-1-7a9528af.jpg",
+          "sha256": "7a9528af7cdab08d50a95cbaaf097582566e9eed5aaff15c5428b04aa094b4a8",
+          "bytes": 150379,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0001/main/scene-1-cb0a45c0.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "T0-MT-scene",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0001/main/scene-1-cb0a45c0-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0001/main/scene-1-cb0a45c0-w960.webp"
+          },
+          "path": "food/FD-MT-0001/main/scene-1-cb0a45c0.jpg",
+          "sha256": "cb0a45c0cd0543cc95bb13a4cbe1d4f1af723e1dcf17bccba369a4ff4e3ed227",
+          "bytes": 317655,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0002": {
+      "name": {
+        "ko": "한우 등심 1++ 구이용",
+        "en": "Hanwoo sirloin 1++ for grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0002/main/main-1-76ee26a7.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0002/main/main-1-76ee26a7.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-01-main-E-meat_raw_tray-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0002/main/main-1-76ee26a7-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0002/main/main-1-76ee26a7-w960.webp"
+          },
+          "path": "food/FD-MT-0002/main/main-1-76ee26a7.jpg",
+          "sha256": "76ee26a7e581e398ddcb32e17d8640f5f9fba49be73284df64d25b6722106fa7",
+          "bytes": 286594,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0002/main/scene-1-9502076a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-01-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0002/main/scene-1-9502076a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0002/main/scene-1-9502076a-w960.webp"
+          },
+          "path": "food/FD-MT-0002/main/scene-1-9502076a.jpg",
+          "sha256": "9502076ab505f843f5e920880f92a24a04d954239c4f2838a44b1c85b2bd0e31",
+          "bytes": 332285,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0003": {
+      "name": {
+        "ko": "국내산 계란 특란",
+        "en": "Korea eggs Extra large"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0003/main/main-1-60930e24.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0003/main/main-1-60930e24.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-EG-01-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0003/main/main-1-60930e24-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0003/main/main-1-60930e24-w960.webp"
+          },
+          "path": "food/FD-MT-0003/main/main-1-60930e24.jpg",
+          "sha256": "60930e24b75bbc377181596cfd7900a3f037cbd47508f8e05ac58ff0f3f848a1",
+          "bytes": 120589,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0003/main/scene-1-6e91cdd8.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-EG-01-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0003/main/scene-1-6e91cdd8-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0003/main/scene-1-6e91cdd8-w960.webp"
+          },
+          "path": "food/FD-MT-0003/main/scene-1-6e91cdd8.jpg",
+          "sha256": "6e91cdd83223a21885709aadf2ac1323443707b3711211e116fc6024ada3c965",
+          "bytes": 250950,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0004": {
+      "name": {
+        "ko": "한우 채끝 1+ 구이용",
+        "en": "Hanwoo striploin 1+ for grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0004/main/main-1-b606642c.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0004/main/main-1-b606642c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-03-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0004/main/main-1-b606642c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0004/main/main-1-b606642c-w960.webp"
+          },
+          "path": "food/FD-MT-0004/main/main-1-b606642c.jpg",
+          "sha256": "b606642c97ce03cd0eb1bc32713e5783842a486635bc8e2582b67fa00043f9ff",
+          "bytes": 155067,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0004/main/scene-1-3fd5576c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-03-scene-E-dish-r2-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0004/main/scene-1-3fd5576c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0004/main/scene-1-3fd5576c-w960.webp"
+          },
+          "path": "food/FD-MT-0004/main/scene-1-3fd5576c.jpg",
+          "sha256": "3fd5576c94c3f44cc9ae8598d0cbba42b6c312dcdaa175c3c3768925e3cf95ba",
+          "bytes": 349838,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0005": {
+      "name": {
+        "ko": "한우 불고기용 1+",
+        "en": "Hanwoo bulgogi beef 1+"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0005/main/main-1-2a6a4c72.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0005/main/main-1-2a6a4c72.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-05-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0005/main/main-1-2a6a4c72-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0005/main/main-1-2a6a4c72-w960.webp"
+          },
+          "path": "food/FD-MT-0005/main/main-1-2a6a4c72.jpg",
+          "sha256": "2a6a4c72dc952b800d6809596faa7a24d5d8b91bd8f21fe9debe082cedfe589d",
+          "bytes": 220745,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0005/main/scene-1-a1ed0d1c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-05-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0005/main/scene-1-a1ed0d1c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0005/main/scene-1-a1ed0d1c-w960.webp"
+          },
+          "path": "food/FD-MT-0005/main/scene-1-a1ed0d1c.jpg",
+          "sha256": "a1ed0d1cd7aadfe52ef16038ed50a20134b92d53a4bf7fcfbe89597d169a1c3a",
+          "bytes": 330951,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0006": {
+      "name": {
+        "ko": "한우 국거리 1등급",
+        "en": "Hanwoo soup beef Grade 1"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0006/main/main-1-0786d0d6.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0006/main/main-1-0786d0d6.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-06-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0006/main/main-1-0786d0d6-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0006/main/main-1-0786d0d6-w960.webp"
+          },
+          "path": "food/FD-MT-0006/main/main-1-0786d0d6.jpg",
+          "sha256": "0786d0d6d10955f5d82e845a9bcda7f908f56e564e68d9f1c1c6bfce4873d5f5",
+          "bytes": 164308,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0006/main/scene-1-108c2611.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-06-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0006/main/scene-1-108c2611-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0006/main/scene-1-108c2611-w960.webp"
+          },
+          "path": "food/FD-MT-0006/main/scene-1-108c2611.jpg",
+          "sha256": "108c26111504eb47865ed3ca4ed19068845d4450819d9de769bfb84c5195ce0b",
+          "bytes": 259427,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0007": {
+      "name": {
+        "ko": "한우 우둔 1등급 장조림용",
+        "en": "Hanwoo round Grade 1 for braising"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0007/main/main-1-68abac60.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0007/main/main-1-68abac60.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-09-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0007/main/main-1-68abac60-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0007/main/main-1-68abac60-w960.webp"
+          },
+          "path": "food/FD-MT-0007/main/main-1-68abac60.jpg",
+          "sha256": "68abac60077b132121a07b7079ce1968a506fc2408571ed5b1cddc561daed471",
+          "bytes": 145865,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0007/main/scene-1-ffae78f1.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-09-scene-E-dish_overhead-r2-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0007/main/scene-1-ffae78f1-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0007/main/scene-1-ffae78f1-w960.webp"
+          },
+          "path": "food/FD-MT-0007/main/scene-1-ffae78f1.jpg",
+          "sha256": "ffae78f17723c2bb2962c72acbd9020776bbf8e6eb34a0000ee1d68f41993cea",
+          "bytes": 357876,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0008": {
+      "name": {
+        "ko": "한우 다짐육 1등급 다짐용",
+        "en": "Hanwoo ground beef Grade 1 ground"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0008/main/main-1-ffc6658e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0008/main/main-1-ffc6658e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-11-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0008/main/main-1-ffc6658e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0008/main/main-1-ffc6658e-w960.webp"
+          },
+          "path": "food/FD-MT-0008/main/main-1-ffc6658e.jpg",
+          "sha256": "ffc6658e2b41342b309f5ce14ab69f90e1e1a0c93d0965ce9f63d1af68666c63",
+          "bytes": 225063,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0008/main/scene-1-efc54fa0.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-11-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0008/main/scene-1-efc54fa0-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0008/main/scene-1-efc54fa0-w960.webp"
+          },
+          "path": "food/FD-MT-0008/main/scene-1-efc54fa0.jpg",
+          "sha256": "efc54fa040c5fb1733e1d9e94342d68649eb673d4ca24e29671d7bcc59b681f1",
+          "bytes": 317512,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0009": {
+      "name": {
+        "ko": "제주 돼지 목살 1+ 구이용",
+        "en": "Jeju pork neck 1+ for grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0009/main/main-1-cef5a2d1.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0009/main/main-1-cef5a2d1.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-PK-02-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0009/main/main-1-cef5a2d1-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0009/main/main-1-cef5a2d1-w960.webp"
+          },
+          "path": "food/FD-MT-0009/main/main-1-cef5a2d1.jpg",
+          "sha256": "cef5a2d14a04cd5ae0e7fb15662177f3fa6af4755653024b8422721a82a83196",
+          "bytes": 164860,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0009/main/scene-1-47b8a5e2.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-PK-02-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0009/main/scene-1-47b8a5e2-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0009/main/scene-1-47b8a5e2-w960.webp"
+          },
+          "path": "food/FD-MT-0009/main/scene-1-47b8a5e2.jpg",
+          "sha256": "47b8a5e2016c71d4aee71635fb5c43a7643293baef25a1ff2dcc5d455726d70f",
+          "bytes": 325033,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0010": {
+      "name": {
+        "ko": "제주 돼지 앞다리살 1등급 수육용",
+        "en": "Jeju pork shoulder Grade 1 for boiling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0010/main/main-1-563f881c.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0010/main/main-1-563f881c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-PK-03-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0010/main/main-1-563f881c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0010/main/main-1-563f881c-w960.webp"
+          },
+          "path": "food/FD-MT-0010/main/main-1-563f881c.jpg",
+          "sha256": "563f881c098815d7c0256f37795260fb997fa53ba5d25802cd9083c1f7f286ec",
+          "bytes": 138203,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0010/main/scene-1-4bad786e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-PK-03-scene-E-dish-r2-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0010/main/scene-1-4bad786e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0010/main/scene-1-4bad786e-w960.webp"
+          },
+          "path": "food/FD-MT-0010/main/scene-1-4bad786e.jpg",
+          "sha256": "4bad786e6f53d08951beddbb74dffe89fd5a50bc70da1fd7f9e0084de61fbe0b",
+          "bytes": 289191,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0011": {
+      "name": {
+        "ko": "제주 돼지 뒷다리살 1등급 볶음용",
+        "en": "Jeju pork hind leg Grade 1 for stir-frying"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0011/main/main-1-3d875974.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0011/main/main-1-3d875974.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-PK-04-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0011/main/main-1-3d875974-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0011/main/main-1-3d875974-w960.webp"
+          },
+          "path": "food/FD-MT-0011/main/main-1-3d875974.jpg",
+          "sha256": "3d8759749764a0fdbde0acfa3dd956ab406d0e9ab061bf7895cfbda094041c26",
+          "bytes": 137851,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0011/main/scene-1-21ccfd0b.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-PK-04-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0011/main/scene-1-21ccfd0b-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0011/main/scene-1-21ccfd0b-w960.webp"
+          },
+          "path": "food/FD-MT-0011/main/scene-1-21ccfd0b.jpg",
+          "sha256": "21ccfd0bd4699bf37f074e9e5b73905659734e73f0f37b6883476edba2c8eb28",
+          "bytes": 289386,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0012": {
+      "name": {
+        "ko": "제주 돼지 구이 모둠 1+",
+        "en": "Jeju pork barbecue mix 1+"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0012/main/main-1-520f13ac.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0012/main/main-1-520f13ac.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-PK-10-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0012/main/main-1-520f13ac-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0012/main/main-1-520f13ac-w960.webp"
+          },
+          "path": "food/FD-MT-0012/main/main-1-520f13ac.jpg",
+          "sha256": "520f13ac1648389d9baf992faf888f0c4826d747fb9e5d1e7bae3cca13cbee24",
+          "bytes": 143523,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0012/main/scene-1-9c7b0fd2.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-PK-10-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0012/main/scene-1-9c7b0fd2-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0012/main/scene-1-9c7b0fd2-w960.webp"
+          },
+          "path": "food/FD-MT-0012/main/scene-1-9c7b0fd2.jpg",
+          "sha256": "9c7b0fd2e7a4e4d59a300de777b70cf0fd5ca984ca513acf2b42e9ba1e7f9eac",
+          "bytes": 328486,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0013": {
+      "name": {
+        "ko": "강원 닭가슴살",
+        "en": "Gangwon chicken breast"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0013/main/main-1-3be80fe1.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0013/main/main-1-3be80fe1.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-CK-01-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0013/main/main-1-3be80fe1-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0013/main/main-1-3be80fe1-w960.webp"
+          },
+          "path": "food/FD-MT-0013/main/main-1-3be80fe1.jpg",
+          "sha256": "3be80fe153bf5f31a21055d9f789fcbda564fde2897d90825c4d3d3f7d5be159",
+          "bytes": 98979,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0013/main/scene-1-7a30742f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-CK-01-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0013/main/scene-1-7a30742f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0013/main/scene-1-7a30742f-w960.webp"
+          },
+          "path": "food/FD-MT-0013/main/scene-1-7a30742f.jpg",
+          "sha256": "7a30742f7d0919a77f15adbd1fe6ba02f172bb8d717aadb2990ce4d7d02b4253",
+          "bytes": 283079,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0014": {
+      "name": {
+        "ko": "강원 닭다리",
+        "en": "Gangwon chicken drumsticks"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0014/main/main-1-d67ef4aa.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0014/main/main-1-d67ef4aa.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-CK-02-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0014/main/main-1-d67ef4aa-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0014/main/main-1-d67ef4aa-w960.webp"
+          },
+          "path": "food/FD-MT-0014/main/main-1-d67ef4aa.jpg",
+          "sha256": "d67ef4aa01fd5fa96ade1b38e2b1a79dbcb61739ef82e69fd59d25f2442e6e1d",
+          "bytes": 145111,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0014/main/scene-1-19148249.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-CK-02-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0014/main/scene-1-19148249-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0014/main/scene-1-19148249-w960.webp"
+          },
+          "path": "food/FD-MT-0014/main/scene-1-19148249.jpg",
+          "sha256": "1914824974905f19cc39580c827a1d22acb07420fb0feca767c32218a6f13a15",
+          "bytes": 279001,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0015": {
+      "name": {
+        "ko": "강원 영계",
+        "en": "Gangwon young chicken"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0015/main/main-1-ec9ed98f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0015/main/main-1-ec9ed98f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-CK-04-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0015/main/main-1-ec9ed98f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0015/main/main-1-ec9ed98f-w960.webp"
+          },
+          "path": "food/FD-MT-0015/main/main-1-ec9ed98f.jpg",
+          "sha256": "ec9ed98f0f42779842e3762b82010560c225e12eef5018dd6ae2b561b5d411e2",
+          "bytes": 166614,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0015/main/scene-1-df38e562.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-CK-04-scene-E-dish_overhead-r2-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0015/main/scene-1-df38e562-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0015/main/scene-1-df38e562-w960.webp"
+          },
+          "path": "food/FD-MT-0015/main/scene-1-df38e562.jpg",
+          "sha256": "df38e5622124683c5e1138136b55fb2aeb7b5ea90c9bdc22d0a8232cd4212a61",
+          "bytes": 351432,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0016": {
+      "name": {
+        "ko": "국내산 유정란 특란",
+        "en": "Korea fertile eggs Extra large"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0016/main/main-1-cb7cba9f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0016/main/main-1-cb7cba9f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-EG-02-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0016/main/main-1-cb7cba9f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0016/main/main-1-cb7cba9f-w960.webp"
+          },
+          "path": "food/FD-MT-0016/main/main-1-cb7cba9f.jpg",
+          "sha256": "cb7cba9fd5712f948d2e8bd2327aa804246f6266ab61e92ef8ebc9a525ce304f",
+          "bytes": 103925,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0016/main/scene-1-9f91685e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-EG-02-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0016/main/scene-1-9f91685e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0016/main/scene-1-9f91685e-w960.webp"
+          },
+          "path": "food/FD-MT-0016/main/scene-1-9f91685e.jpg",
+          "sha256": "9f91685e894a84ecf20a2f1a9a9af793581742dde036c0b63ca34e17fa6ba636",
+          "bytes": 250916,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0017": {
+      "name": {
+        "ko": "한우 등심 1+ 구이용",
+        "en": "Hanwoo sirloin 1+ for grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0017/main/main-1-76ee26a7.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0017/main/main-1-76ee26a7.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-01-main-E-meat_raw_tray-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0017/main/main-1-76ee26a7-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0017/main/main-1-76ee26a7-w960.webp"
+          },
+          "path": "food/FD-MT-0017/main/main-1-76ee26a7.jpg",
+          "sha256": "76ee26a7e581e398ddcb32e17d8640f5f9fba49be73284df64d25b6722106fa7",
+          "bytes": 286594,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0017/main/scene-1-9502076a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-01-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0017/main/scene-1-9502076a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0017/main/scene-1-9502076a-w960.webp"
+          },
+          "path": "food/FD-MT-0017/main/scene-1-9502076a.jpg",
+          "sha256": "9502076ab505f843f5e920880f92a24a04d954239c4f2838a44b1c85b2bd0e31",
+          "bytes": 332285,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0018": {
+      "name": {
+        "ko": "한우 채끝 1++ 구이용",
+        "en": "Hanwoo striploin 1++ for grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0018/main/main-1-b606642c.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0018/main/main-1-b606642c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-03-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0018/main/main-1-b606642c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0018/main/main-1-b606642c-w960.webp"
+          },
+          "path": "food/FD-MT-0018/main/main-1-b606642c.jpg",
+          "sha256": "b606642c97ce03cd0eb1bc32713e5783842a486635bc8e2582b67fa00043f9ff",
+          "bytes": 155067,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0018/main/scene-1-3fd5576c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-03-scene-E-dish-r2-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0018/main/scene-1-3fd5576c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0018/main/scene-1-3fd5576c-w960.webp"
+          },
+          "path": "food/FD-MT-0018/main/scene-1-3fd5576c.jpg",
+          "sha256": "3fd5576c94c3f44cc9ae8598d0cbba42b6c312dcdaa175c3c3768925e3cf95ba",
+          "bytes": 349838,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0019": {
+      "name": {
+        "ko": "한우 불고기용 1등급",
+        "en": "Hanwoo bulgogi beef Grade 1"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0019/main/main-1-2a6a4c72.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0019/main/main-1-2a6a4c72.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-05-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0019/main/main-1-2a6a4c72-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0019/main/main-1-2a6a4c72-w960.webp"
+          },
+          "path": "food/FD-MT-0019/main/main-1-2a6a4c72.jpg",
+          "sha256": "2a6a4c72dc952b800d6809596faa7a24d5d8b91bd8f21fe9debe082cedfe589d",
+          "bytes": 220745,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0019/main/scene-1-a1ed0d1c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-05-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0019/main/scene-1-a1ed0d1c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0019/main/scene-1-a1ed0d1c-w960.webp"
+          },
+          "path": "food/FD-MT-0019/main/scene-1-a1ed0d1c.jpg",
+          "sha256": "a1ed0d1cd7aadfe52ef16038ed50a20134b92d53a4bf7fcfbe89597d169a1c3a",
+          "bytes": 330951,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0020": {
+      "name": {
+        "ko": "한우 국거리 1+",
+        "en": "Hanwoo soup beef 1+"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0020/main/main-1-0786d0d6.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0020/main/main-1-0786d0d6.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-06-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0020/main/main-1-0786d0d6-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0020/main/main-1-0786d0d6-w960.webp"
+          },
+          "path": "food/FD-MT-0020/main/main-1-0786d0d6.jpg",
+          "sha256": "0786d0d6d10955f5d82e845a9bcda7f908f56e564e68d9f1c1c6bfce4873d5f5",
+          "bytes": 164308,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0020/main/scene-1-108c2611.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-BF-06-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0020/main/scene-1-108c2611-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0020/main/scene-1-108c2611-w960.webp"
+          },
+          "path": "food/FD-MT-0020/main/scene-1-108c2611.jpg",
+          "sha256": "108c26111504eb47865ed3ca4ed19068845d4450819d9de769bfb84c5195ce0b",
+          "bytes": 259427,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0021": {
+      "name": {
+        "ko": "제주 돼지 삼겹살 1+ 구이용",
+        "en": "Jeju pork belly 1+ for grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0021/main/main-1-7a9528af.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0021/main/main-1-7a9528af.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-PK-01-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0021/main/main-1-7a9528af-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0021/main/main-1-7a9528af-w960.webp"
+          },
+          "path": "food/FD-MT-0021/main/main-1-7a9528af.jpg",
+          "sha256": "7a9528af7cdab08d50a95cbaaf097582566e9eed5aaff15c5428b04aa094b4a8",
+          "bytes": 150379,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0021/main/scene-1-cb0a45c0.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-PK-01-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0021/main/scene-1-cb0a45c0-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0021/main/scene-1-cb0a45c0-w960.webp"
+          },
+          "path": "food/FD-MT-0021/main/scene-1-cb0a45c0.jpg",
+          "sha256": "cb0a45c0cd0543cc95bb13a4cbe1d4f1af723e1dcf17bccba369a4ff4e3ed227",
+          "bytes": 317655,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0022": {
+      "name": {
+        "ko": "제주 돼지 목살 1등급 구이용",
+        "en": "Jeju pork neck Grade 1 for grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0022/main/main-1-cef5a2d1.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0022/main/main-1-cef5a2d1.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-PK-02-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0022/main/main-1-cef5a2d1-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0022/main/main-1-cef5a2d1-w960.webp"
+          },
+          "path": "food/FD-MT-0022/main/main-1-cef5a2d1.jpg",
+          "sha256": "cef5a2d14a04cd5ae0e7fb15662177f3fa6af4755653024b8422721a82a83196",
+          "bytes": 164860,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0022/main/scene-1-47b8a5e2.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-PK-02-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0022/main/scene-1-47b8a5e2-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0022/main/scene-1-47b8a5e2-w960.webp"
+          },
+          "path": "food/FD-MT-0022/main/scene-1-47b8a5e2.jpg",
+          "sha256": "47b8a5e2016c71d4aee71635fb5c43a7643293baef25a1ff2dcc5d455726d70f",
+          "bytes": 325033,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0023": {
+      "name": {
+        "ko": "국내산 계란 대란",
+        "en": "Korea eggs Large"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0023/main/main-1-60930e24.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0023/main/main-1-60930e24.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-EG-01-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0023/main/main-1-60930e24-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0023/main/main-1-60930e24-w960.webp"
+          },
+          "path": "food/FD-MT-0023/main/main-1-60930e24.jpg",
+          "sha256": "60930e24b75bbc377181596cfd7900a3f037cbd47508f8e05ac58ff0f3f848a1",
+          "bytes": 120589,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0023/main/scene-1-6e91cdd8.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-EG-01-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0023/main/scene-1-6e91cdd8-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0023/main/scene-1-6e91cdd8-w960.webp"
+          },
+          "path": "food/FD-MT-0023/main/scene-1-6e91cdd8.jpg",
+          "sha256": "6e91cdd83223a21885709aadf2ac1323443707b3711211e116fc6024ada3c965",
+          "bytes": 250950,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-MT-0024": {
+      "name": {
+        "ko": "국내산 유정란 대란",
+        "en": "Korea fertile eggs Large"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0024/main/main-1-cb7cba9f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0024/main/main-1-cb7cba9f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-EG-02-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0024/main/main-1-cb7cba9f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0024/main/main-1-cb7cba9f-w960.webp"
+          },
+          "path": "food/FD-MT-0024/main/main-1-cb7cba9f.jpg",
+          "sha256": "cb7cba9fd5712f948d2e8bd2327aa804246f6266ab61e92ef8ebc9a525ce304f",
+          "bytes": 103925,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0024/main/scene-1-9f91685e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-MT-EG-02-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0024/main/scene-1-9f91685e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-MT-0024/main/scene-1-9f91685e-w960.webp"
+          },
+          "path": "food/FD-MT-0024/main/scene-1-9f91685e.jpg",
+          "sha256": "9f91685e894a84ecf20a2f1a9a9af793581742dde036c0b63ca34e17fa6ba636",
+          "bytes": 250916,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0001": {
+      "name": {
+        "ko": "노르웨이 고등어 통마리",
+        "en": "Norway mackerel whole"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0001/main/main-1-8a7a0a2f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0001/main/main-1-8a7a0a2f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-FS-01-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0001/main/main-1-8a7a0a2f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0001/main/main-1-8a7a0a2f-w960.webp"
+          },
+          "path": "food/FD-SF-0001/main/main-1-8a7a0a2f.jpg",
+          "sha256": "8a7a0a2fbdf459da60edc82decd879d355c785ea9e34f71206cd1eac344797e7",
+          "bytes": 159839,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0001/main/scene-1-a22d1243.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "T0-SF-scene",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0001/main/scene-1-a22d1243-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0001/main/scene-1-a22d1243-w960.webp"
+          },
+          "path": "food/FD-SF-0001/main/scene-1-a22d1243.jpg",
+          "sha256": "a22d12439f5a0fdd25407eb0cb231c0729c86e9ae860fe56626db798a37efce8",
+          "bytes": 288187,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0002": {
+      "name": {
+        "ko": "노르웨이 연어 필렛",
+        "en": "Norway salmon fillet"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0002/main/main-1-26278963.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0002/main/main-1-26278963.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-FS-06-main-E-fillet_ice-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0002/main/main-1-26278963-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0002/main/main-1-26278963-w960.webp"
+          },
+          "path": "food/FD-SF-0002/main/main-1-26278963.jpg",
+          "sha256": "26278963fc0417c6a6d0d8a7cdf600adf355ece7a192b885ebc0c5beac3bffaf",
+          "bytes": 257906,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0002/main/scene-1-a0a389f1.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-FS-06-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0002/main/scene-1-a0a389f1-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0002/main/scene-1-a0a389f1-w960.webp"
+          },
+          "path": "food/FD-SF-0002/main/scene-1-a0a389f1.jpg",
+          "sha256": "a0a389f1f983a0e814bc74bc1416403ef66e3de068223e03dee0776e34ba576c",
+          "bytes": 287932,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0004": {
+      "name": {
+        "ko": "국내산 조기 통마리",
+        "en": "Korea yellow croaker whole"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0004/main/main-1-f572c070.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0004/main/main-1-f572c070.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-FS-04-main-E-fish_whole_white-r2-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0004/main/main-1-f572c070-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0004/main/main-1-f572c070-w960.webp"
+          },
+          "path": "food/FD-SF-0004/main/main-1-f572c070.jpg",
+          "sha256": "f572c07017ac669dcd4dc627711c143ac2ccff09991d6e4df3918cbcf403987d",
+          "bytes": 162038,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0004/main/scene-1-268a1e9d.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-FS-04-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0004/main/scene-1-268a1e9d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0004/main/scene-1-268a1e9d-w960.webp"
+          },
+          "path": "food/FD-SF-0004/main/scene-1-268a1e9d.jpg",
+          "sha256": "268a1e9da80c0d06872e6bf1893ee38383a87deb83314f5eeb89aaec727ba3f7",
+          "bytes": 304417,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0006": {
+      "name": {
+        "ko": "국내산 새우 손질",
+        "en": "Korea shrimp cleaned"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0006/main/main-1-c3047b78.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0006/main/main-1-c3047b78.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-01-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0006/main/main-1-c3047b78-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0006/main/main-1-c3047b78-w960.webp"
+          },
+          "path": "food/FD-SF-0006/main/main-1-c3047b78.jpg",
+          "sha256": "c3047b78666aae9c9026001d70dc5158b88282fed0811ab5382e56c1bae03ca7",
+          "bytes": 271201,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0006/main/scene-1-3558e2e9.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-01-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0006/main/scene-1-3558e2e9-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0006/main/scene-1-3558e2e9-w960.webp"
+          },
+          "path": "food/FD-SF-0006/main/scene-1-3558e2e9.jpg",
+          "sha256": "3558e2e9297f8c769b9d3c4fc086ceba033726b514467183943875ce7cb28d99",
+          "bytes": 337134,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0007": {
+      "name": {
+        "ko": "국내산 오징어 손질",
+        "en": "Korea squid cleaned"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0007/main/main-1-0c0e0e10.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0007/main/main-1-0c0e0e10.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-02-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0007/main/main-1-0c0e0e10-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0007/main/main-1-0c0e0e10-w960.webp"
+          },
+          "path": "food/FD-SF-0007/main/main-1-0c0e0e10.jpg",
+          "sha256": "0c0e0e103748aabfd69539129b9266baca636eb9f983b7b7c92a6809f3a16d39",
+          "bytes": 176540,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0007/main/scene-1-035dfe3e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-02-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0007/main/scene-1-035dfe3e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0007/main/scene-1-035dfe3e-w960.webp"
+          },
+          "path": "food/FD-SF-0007/main/scene-1-035dfe3e.jpg",
+          "sha256": "035dfe3e55980086ce141c76a27aa4931bc44bb145bb3a23278444b511e48958",
+          "bytes": 273846,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0008": {
+      "name": {
+        "ko": "국내산 문어",
+        "en": "Korea octopus"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0008/main/main-1-1c811524.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0008/main/main-1-1c811524.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-03-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0008/main/main-1-1c811524-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0008/main/main-1-1c811524-w960.webp"
+          },
+          "path": "food/FD-SF-0008/main/main-1-1c811524.jpg",
+          "sha256": "1c811524fa7a442f96aca719a9f574d1c664c2db0ae7fff27937aec7b598b27d",
+          "bytes": 253084,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0008/main/scene-1-9ebbe2aa.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-03-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0008/main/scene-1-9ebbe2aa-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0008/main/scene-1-9ebbe2aa-w960.webp"
+          },
+          "path": "food/FD-SF-0008/main/scene-1-9ebbe2aa.jpg",
+          "sha256": "9ebbe2aa3a2c3ebac5ecebf1f6bf5447242bd4a7def95a3a27fb2399865f8d05",
+          "bytes": 271911,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0009": {
+      "name": {
+        "ko": "국내산 낙지 손질",
+        "en": "Korea small octopus cleaned"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0009/main/main-1-ff882495.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0009/main/main-1-ff882495.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-04-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0009/main/main-1-ff882495-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0009/main/main-1-ff882495-w960.webp"
+          },
+          "path": "food/FD-SF-0009/main/main-1-ff882495.jpg",
+          "sha256": "ff882495c5b4d245e3347c2d6411f6c6dcb6c34c491068d977fb5b5df8ae6c6e",
+          "bytes": 157515,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0009/main/scene-1-bb019c7c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-04-scene-E-dish-r2-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0009/main/scene-1-bb019c7c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0009/main/scene-1-bb019c7c-w960.webp"
+          },
+          "path": "food/FD-SF-0009/main/scene-1-bb019c7c.jpg",
+          "sha256": "bb019c7cc8b0684a8fa037e13d760483e2ff8afa13bc7023ffdb043e6a72cc3b",
+          "bytes": 273148,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0010": {
+      "name": {
+        "ko": "전남 전복",
+        "en": "Jeonnam abalone"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0010/main/main-1-1d4660ea.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0010/main/main-1-1d4660ea.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-05-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0010/main/main-1-1d4660ea-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0010/main/main-1-1d4660ea-w960.webp"
+          },
+          "path": "food/FD-SF-0010/main/main-1-1d4660ea.jpg",
+          "sha256": "1d4660ea073d4d05bb3d90b5c87f01f7f9c63f7f874d7eb3450b8d67d7eca165",
+          "bytes": 190400,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0010/main/scene-1-4da267b7.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-05-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0010/main/scene-1-4da267b7-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0010/main/scene-1-4da267b7-w960.webp"
+          },
+          "path": "food/FD-SF-0010/main/scene-1-4da267b7.jpg",
+          "sha256": "4da267b7ffcb3d35a9c50114499fce934735505af89c60e342b365ae0a423977",
+          "bytes": 259435,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0011": {
+      "name": {
+        "ko": "국내산 꽃게 손질",
+        "en": "Korea blue crab cleaned"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0011/main/main-1-0a569633.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0011/main/main-1-0a569633.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-06-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0011/main/main-1-0a569633-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0011/main/main-1-0a569633-w960.webp"
+          },
+          "path": "food/FD-SF-0011/main/main-1-0a569633.jpg",
+          "sha256": "0a569633f494776695b2916109c63aa91492b2ef1e086eb788941fcae9eb9b80",
+          "bytes": 196772,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0011/main/scene-1-a06f8a96.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-06-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0011/main/scene-1-a06f8a96-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0011/main/scene-1-a06f8a96-w960.webp"
+          },
+          "path": "food/FD-SF-0011/main/scene-1-a06f8a96.jpg",
+          "sha256": "a06f8a96caf0cdb97fea3d3faed242b4f751c01b2b1c4088fc125e2a07a71592",
+          "bytes": 311548,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0012": {
+      "name": {
+        "ko": "국내산 대게",
+        "en": "Korea snow crab"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0012/main/main-1-f822a4d0.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0012/main/main-1-f822a4d0.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-07-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0012/main/main-1-f822a4d0-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0012/main/main-1-f822a4d0-w960.webp"
+          },
+          "path": "food/FD-SF-0012/main/main-1-f822a4d0.jpg",
+          "sha256": "f822a4d0d7cff7e41b891c166c43a8f03848490025bb85535f0e9907044bf416",
+          "bytes": 156188,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0012/main/scene-1-0d0dd62e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-07-scene-E-dish_overhead-r2-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0012/main/scene-1-0d0dd62e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0012/main/scene-1-0d0dd62e-w960.webp"
+          },
+          "path": "food/FD-SF-0012/main/scene-1-0d0dd62e.jpg",
+          "sha256": "0d0dd62e0b6fd68f3756a00f97319bbfd490b848be759e61499bfd40c03fc383",
+          "bytes": 361583,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0013": {
+      "name": {
+        "ko": "국내산 홍합 손질",
+        "en": "Korea mussel cleaned"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0013/main/main-1-afbb5d2b.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0013/main/main-1-afbb5d2b.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-09-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0013/main/main-1-afbb5d2b-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0013/main/main-1-afbb5d2b-w960.webp"
+          },
+          "path": "food/FD-SF-0013/main/main-1-afbb5d2b.jpg",
+          "sha256": "afbb5d2ba0da2f42aea88573d95ae8c211766eb9b68a760965574f43e103f07d",
+          "bytes": 233216,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0013/main/scene-1-3c4bd450.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-09-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0013/main/scene-1-3c4bd450-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0013/main/scene-1-3c4bd450-w960.webp"
+          },
+          "path": "food/FD-SF-0013/main/scene-1-3c4bd450.jpg",
+          "sha256": "3c4bd4501ae2217aefb9380a7407a2bdd3ef0d3060da820eada0991a1571d493",
+          "bytes": 286151,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0014": {
+      "name": {
+        "ko": "국내산 바지락 해감",
+        "en": "Korea clam sand-purged"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0014/main/main-1-b2fc3fa9.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0014/main/main-1-b2fc3fa9.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-10-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0014/main/main-1-b2fc3fa9-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0014/main/main-1-b2fc3fa9-w960.webp"
+          },
+          "path": "food/FD-SF-0014/main/main-1-b2fc3fa9.jpg",
+          "sha256": "b2fc3fa9c118c51cedf7ac5e0f13cd016fe0d1dfc3b6a7d0353bcd4a6e20ef5f",
+          "bytes": 180903,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0014/main/scene-1-be85fa12.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-10-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0014/main/scene-1-be85fa12-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0014/main/scene-1-be85fa12-w960.webp"
+          },
+          "path": "food/FD-SF-0014/main/scene-1-be85fa12.jpg",
+          "sha256": "be85fa12d03aa4ab97a8ddd7f9979642211ef271fa5c840a5937dcaa9c610952",
+          "bytes": 293048,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0015": {
+      "name": {
+        "ko": "국내산 해삼 손질",
+        "en": "Korea sea cucumber cleaned"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0015/main/main-1-7f64e179.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0015/main/main-1-7f64e179.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-14-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0015/main/main-1-7f64e179-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0015/main/main-1-7f64e179-w960.webp"
+          },
+          "path": "food/FD-SF-0015/main/main-1-7f64e179.jpg",
+          "sha256": "7f64e179c908ce09849905a4e5ea2147f4eccd819e278ef4ee6d38e6cb0737d6",
+          "bytes": 162385,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0015/main/scene-1-f0431922.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-SH-14-scene-E-dish-r2-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0015/main/scene-1-f0431922-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0015/main/scene-1-f0431922-w960.webp"
+          },
+          "path": "food/FD-SF-0015/main/scene-1-f0431922.jpg",
+          "sha256": "f0431922115b3dec5d49535514304861107764703ea043c250a6577424160fd2",
+          "bytes": 262611,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0016": {
+      "name": {
+        "ko": "김서방 멸치",
+        "en": "Gimseobang anchovy"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0016/main/main-1-8e65b70d.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0016/main/main-1-8e65b70d.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-DR-01-main-E-dried_pouch-r2-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0016/main/main-1-8e65b70d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0016/main/main-1-8e65b70d-w960.webp"
+          },
+          "path": "food/FD-SF-0016/main/main-1-8e65b70d.jpg",
+          "sha256": "8e65b70da33a2df0b2523f3d38ced99bbd3f38d0efed1dae0a18c4d74e2edaef",
+          "bytes": 178536,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0016/main/scene-1-810e1ba2.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-DR-01-scene-E-dish_overhead-r4-s2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0016/main/scene-1-810e1ba2-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0016/main/scene-1-810e1ba2-w960.webp"
+          },
+          "path": "food/FD-SF-0016/main/scene-1-810e1ba2.jpg",
+          "sha256": "810e1ba20ce572dd501c534237f39bd9b8c56eb9fad38e89dbac289ca34fc583",
+          "bytes": 363794,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0017": {
+      "name": {
+        "ko": "김서방 황태",
+        "en": "Gimseobang dried pollock"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0017/main/main-1-c49bda9f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0017/main/main-1-c49bda9f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-DR-02-main-E-dried_chae-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0017/main/main-1-c49bda9f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0017/main/main-1-c49bda9f-w960.webp"
+          },
+          "path": "food/FD-SF-0017/main/main-1-c49bda9f.jpg",
+          "sha256": "c49bda9f14c28e9215ee47abc4401792a7f0c5e9e61137c159665c60ddc43b85",
+          "bytes": 202488,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0017/main/scene-1-4659e338.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-DR-02-scene-E-dish_overhead-r3-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0017/main/scene-1-4659e338-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0017/main/scene-1-4659e338-w960.webp"
+          },
+          "path": "food/FD-SF-0017/main/scene-1-4659e338.jpg",
+          "sha256": "4659e3381c6d687f5dda26d35813edda102f9ea0f026c93a2879215dec065a39",
+          "bytes": 343400,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0018": {
+      "name": {
+        "ko": "김서방 건미역",
+        "en": "Gimseobang dried seaweed"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0018/main/main-1-fe2560c7.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0018/main/main-1-fe2560c7.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-DR-05-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0018/main/main-1-fe2560c7-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0018/main/main-1-fe2560c7-w960.webp"
+          },
+          "path": "food/FD-SF-0018/main/main-1-fe2560c7.jpg",
+          "sha256": "fe2560c7d0b92505bdd851b00086d98ef6114f39ad16be030cb5502845fd037a",
+          "bytes": 190086,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0018/main/scene-1-f517fc70.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-DR-05-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0018/main/scene-1-f517fc70-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0018/main/scene-1-f517fc70-w960.webp"
+          },
+          "path": "food/FD-SF-0018/main/scene-1-f517fc70.jpg",
+          "sha256": "f517fc70a893296dc1a648d14aa5bcc403852be7889ba1ed3f55a4850e05590b",
+          "bytes": 268071,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0019": {
+      "name": {
+        "ko": "김서방 건새우",
+        "en": "Gimseobang dried shrimp"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0019/main/main-1-78b3d846.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0019/main/main-1-78b3d846.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-DR-08-main-E-dried_pouch-r2-s2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0019/main/main-1-78b3d846-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0019/main/main-1-78b3d846-w960.webp"
+          },
+          "path": "food/FD-SF-0019/main/main-1-78b3d846.jpg",
+          "sha256": "78b3d846d54523a7caf5c0ca7187e55a36edc6381d38ed1d0d1cdd8fe92d9ae7",
+          "bytes": 262822,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0019/main/scene-1-65898f32.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-DR-08-scene-E-dish_overhead-r3-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0019/main/scene-1-65898f32-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0019/main/scene-1-65898f32-w960.webp"
+          },
+          "path": "food/FD-SF-0019/main/scene-1-65898f32.jpg",
+          "sha256": "65898f329e141f9418ce1b96c8abaae5fb1075590a2bf8fdd92a9bcebf469b6a",
+          "bytes": 382093,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0020": {
+      "name": {
+        "ko": "김서방 굴비",
+        "en": "Gimseobang salted dried croaker"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0020/main/main-1-860f0b30.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0020/main/main-1-860f0b30.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-DR-09-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0020/main/main-1-860f0b30-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0020/main/main-1-860f0b30-w960.webp"
+          },
+          "path": "food/FD-SF-0020/main/main-1-860f0b30.jpg",
+          "sha256": "860f0b30b3763d63241022a1c5947a7b188bd09a77e7c40f0569b545f56fad1d",
+          "bytes": 180618,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0020/main/scene-1-b1acebeb.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-SF-DR-09-scene-E-dish",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0020/main/scene-1-b1acebeb-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-SF-0020/main/scene-1-b1acebeb-w960.webp"
+          },
+          "path": "food/FD-SF-0020/main/scene-1-b1acebeb.jpg",
+          "sha256": "b1acebebad4663d3ad81279a9e03e0352fcb3dce93e147354a10f3b94a52d6cd",
+          "bytes": 267415,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0001": {
+      "name": {
+        "ko": "국내산 세척 청상추",
+        "en": "Korea washed green lettuce"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0001/main/main-1-7267a699.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0001/main/main-1-7267a699.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-01-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0001/main/main-1-7267a699-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0001/main/main-1-7267a699-w960.webp"
+          },
+          "path": "food/FD-VG-0001/main/main-1-7267a699.jpg",
+          "sha256": "7267a6995365aac8a8c4d323c21d5707f8d4be6e73b16777dabcad1962bc02d1",
+          "bytes": 225521,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0001/main/scene-1-73bd01df.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-01-scene-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0001/main/scene-1-73bd01df-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0001/main/scene-1-73bd01df-w960.webp"
+          },
+          "path": "food/FD-VG-0001/main/scene-1-73bd01df.jpg",
+          "sha256": "73bd01dfe2f4ed15ec50def081ce22a95ea3f4b18c749b5e27247e136a798c5f",
+          "bytes": 292447,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0002": {
+      "name": {
+        "ko": "전남 양파 특",
+        "en": "Jeonnam onions Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0002/main/main-1-9ccca7bf.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0002/main/main-1-9ccca7bf.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-05-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0002/main/main-1-9ccca7bf-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0002/main/main-1-9ccca7bf-w960.webp"
+          },
+          "path": "food/FD-VG-0002/main/main-1-9ccca7bf.jpg",
+          "sha256": "9ccca7bfddff79409c7804a39a7dda7fbbd218f0ea352342c04c1fa7390d0e8a",
+          "bytes": 139613,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0002/main/scene-1-7467694c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-05-scene-E-veg_basket-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0002/main/scene-1-7467694c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0002/main/scene-1-7467694c-w960.webp"
+          },
+          "path": "food/FD-VG-0002/main/scene-1-7467694c.jpg",
+          "sha256": "7467694cb179a153d64c93a608d5ce34faedce557a572fb2dbd2e5267f54545e",
+          "bytes": 231103,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0003": {
+      "name": {
+        "ko": "국내산 시금치",
+        "en": "Korea spinach"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0003/main/main-1-f735175a.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0003/main/main-1-f735175a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-03-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0003/main/main-1-f735175a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0003/main/main-1-f735175a-w960.webp"
+          },
+          "path": "food/FD-VG-0003/main/main-1-f735175a.jpg",
+          "sha256": "f735175a1b047012efb6efe9d75826fbdca2b39860f88ef34385006700495144",
+          "bytes": 194269,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0003/main/scene-1-b905d3a9.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-03-scene-E-veg_basket-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0003/main/scene-1-b905d3a9-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0003/main/scene-1-b905d3a9-w960.webp"
+          },
+          "path": "food/FD-VG-0003/main/scene-1-b905d3a9.jpg",
+          "sha256": "b905d3a9ef96ec160ba829749c57634941ede52b28f54ad1955a86800ee194da",
+          "bytes": 301377,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0004": {
+      "name": {
+        "ko": "국내산 배추",
+        "en": "Korea napa cabbage"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0004/main/main-1-363c2b15.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0004/main/main-1-363c2b15.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-04-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0004/main/main-1-363c2b15-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0004/main/main-1-363c2b15-w960.webp"
+          },
+          "path": "food/FD-VG-0004/main/main-1-363c2b15.jpg",
+          "sha256": "363c2b154e307b91b15bf519bac7abeef5446954d6fb1fbfa2a7ff4fb5eae517",
+          "bytes": 161046,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0004/main/scene-1-1884da9b.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-04-scene-E-veg_board-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0004/main/scene-1-1884da9b-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0004/main/scene-1-1884da9b-w960.webp"
+          },
+          "path": "food/FD-VG-0004/main/scene-1-1884da9b.jpg",
+          "sha256": "1884da9b9bdab345b39c45f08739489d9830efd16d4d1b35a271b3ade76ed5eb",
+          "bytes": 218292,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0005": {
+      "name": {
+        "ko": "국내산 양배추",
+        "en": "Korea cabbage"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0005/main/main-1-23a08a98.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0005/main/main-1-23a08a98.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-05-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0005/main/main-1-23a08a98-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0005/main/main-1-23a08a98-w960.webp"
+          },
+          "path": "food/FD-VG-0005/main/main-1-23a08a98.jpg",
+          "sha256": "23a08a9883a9ff452d94da37e3075eac03dc0f6ec755d31cf459c9cb12a331d4",
+          "bytes": 184645,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0005/main/scene-1-66e38771.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-05-scene-E-veg_board-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0005/main/scene-1-66e38771-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0005/main/scene-1-66e38771-w960.webp"
+          },
+          "path": "food/FD-VG-0005/main/scene-1-66e38771.jpg",
+          "sha256": "66e38771c10255586e702145842be65a2e7f6df4aa23136d91556c73a70986e5",
+          "bytes": 258159,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0006": {
+      "name": {
+        "ko": "국내산 케일",
+        "en": "Korea kale"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0006/main/main-1-7d0d2eda.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0006/main/main-1-7d0d2eda.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-07-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0006/main/main-1-7d0d2eda-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0006/main/main-1-7d0d2eda-w960.webp"
+          },
+          "path": "food/FD-VG-0006/main/main-1-7d0d2eda.jpg",
+          "sha256": "7d0d2eda5625614940b9ea1226ef2ccd23b3a4e6ecc0f2e6a01a2662e24478dd",
+          "bytes": 283412,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0006/main/scene-1-b77e72c7.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-07-scene-E-veg_board-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0006/main/scene-1-b77e72c7-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0006/main/scene-1-b77e72c7-w960.webp"
+          },
+          "path": "food/FD-VG-0006/main/scene-1-b77e72c7.jpg",
+          "sha256": "b77e72c7797969d1be3697fb0b781b7439b936beeb0de3ad44fdbc305604f2a7",
+          "bytes": 310750,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0007": {
+      "name": {
+        "ko": "국내산 세척 쌈채소",
+        "en": "Korea washed mixed wrap greens"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0007/main/main-1-dde4644e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0007/main/main-1-dde4644e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-08-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0007/main/main-1-dde4644e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0007/main/main-1-dde4644e-w960.webp"
+          },
+          "path": "food/FD-VG-0007/main/main-1-dde4644e.jpg",
+          "sha256": "dde4644ec47c70179950e5a0e250f7b0c34b086231b2a2d428eb039f21ba2bbd",
+          "bytes": 248912,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0007/main/scene-1-9284148d.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-08-scene-E-veg_basket-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0007/main/scene-1-9284148d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0007/main/scene-1-9284148d-w960.webp"
+          },
+          "path": "food/FD-VG-0007/main/scene-1-9284148d.jpg",
+          "sha256": "9284148d932ca4f2a0b242bd050eeb7db95059c2d0f0860e82ffe454c9f22ecd",
+          "bytes": 281984,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0008": {
+      "name": {
+        "ko": "국내산 로메인",
+        "en": "Korea romaine lettuce"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0008/main/main-1-94ebe9dd.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0008/main/main-1-94ebe9dd.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-09-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0008/main/main-1-94ebe9dd-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0008/main/main-1-94ebe9dd-w960.webp"
+          },
+          "path": "food/FD-VG-0008/main/main-1-94ebe9dd.jpg",
+          "sha256": "94ebe9dd84369f50a664fa3c44c9c544964d26d940ce138c3c72ce11bb152ca4",
+          "bytes": 220454,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0008/main/scene-1-bfa63e8f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-09-scene-E-veg_board-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0008/main/scene-1-bfa63e8f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0008/main/scene-1-bfa63e8f-w960.webp"
+          },
+          "path": "food/FD-VG-0008/main/scene-1-bfa63e8f.jpg",
+          "sha256": "bfa63e8f1fb8d7e59d5b4a095c9997912e31f353effd0a857cfade497703e8a4",
+          "bytes": 241268,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0009": {
+      "name": {
+        "ko": "국내산 대파",
+        "en": "Korea green onions"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0009/main/main-1-8f9e093b.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0009/main/main-1-8f9e093b.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-12-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0009/main/main-1-8f9e093b-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0009/main/main-1-8f9e093b-w960.webp"
+          },
+          "path": "food/FD-VG-0009/main/main-1-8f9e093b.jpg",
+          "sha256": "8f9e093b94f970f51f8af91e75aedb57bb553bfaf74d3394e96679de9cfc2a90",
+          "bytes": 178782,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0009/main/scene-1-9613209d.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-12-scene-E-veg_board-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0009/main/scene-1-9613209d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0009/main/scene-1-9613209d-w960.webp"
+          },
+          "path": "food/FD-VG-0009/main/scene-1-9613209d.jpg",
+          "sha256": "9613209d1ac5552c103117823c24d0ccb88872334dc440b7fda482935600c646",
+          "bytes": 236452,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0010": {
+      "name": {
+        "ko": "국내산 브로콜리",
+        "en": "Korea broccoli"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0010/main/main-1-565e0831.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0010/main/main-1-565e0831.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-14-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0010/main/main-1-565e0831-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0010/main/main-1-565e0831-w960.webp"
+          },
+          "path": "food/FD-VG-0010/main/main-1-565e0831.jpg",
+          "sha256": "565e0831e9eef5f0633faa867bc3947ff4c6d3f6e4d81b9a48e7562027050d33",
+          "bytes": 226760,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0010/main/scene-1-627ff302.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-14-scene-E-veg_board-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0010/main/scene-1-627ff302-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0010/main/scene-1-627ff302-w960.webp"
+          },
+          "path": "food/FD-VG-0010/main/scene-1-627ff302.jpg",
+          "sha256": "627ff30242f1dff4814b4f9e52675b3295c9269dd678d179e36e668368bd0f70",
+          "bytes": 319559,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0011": {
+      "name": {
+        "ko": "국내산 풋고추",
+        "en": "Korea green chili peppers"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0011/main/main-1-cd9b912b.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0011/main/main-1-cd9b912b.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-21-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0011/main/main-1-cd9b912b-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0011/main/main-1-cd9b912b-w960.webp"
+          },
+          "path": "food/FD-VG-0011/main/main-1-cd9b912b.jpg",
+          "sha256": "cd9b912b2b91622e011e7c91031a212e739e24da896c391854fb6efb1a9d5ecb",
+          "bytes": 170898,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0011/main/scene-1-9b6ee68a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-21-scene-E-veg_board-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0011/main/scene-1-9b6ee68a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0011/main/scene-1-9b6ee68a-w960.webp"
+          },
+          "path": "food/FD-VG-0011/main/scene-1-9b6ee68a.jpg",
+          "sha256": "9b6ee68a85e078194d5036fcca357d8ef1355d3cce3f3ee848350588139d5a54",
+          "bytes": 242150,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0012": {
+      "name": {
+        "ko": "국내산 감자",
+        "en": "Korea potatoes"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0012/main/main-1-96498618.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0012/main/main-1-96498618.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-01-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0012/main/main-1-96498618-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0012/main/main-1-96498618-w960.webp"
+          },
+          "path": "food/FD-VG-0012/main/main-1-96498618.jpg",
+          "sha256": "96498618acabc18bd1f39bea6d0ed8f1758466a3cfca6d8f62e17db84ec76c1e",
+          "bytes": 134491,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0012/main/scene-1-f5a7bb32.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-01-scene-E-veg_basket-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0012/main/scene-1-f5a7bb32-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0012/main/scene-1-f5a7bb32-w960.webp"
+          },
+          "path": "food/FD-VG-0012/main/scene-1-f5a7bb32.jpg",
+          "sha256": "f5a7bb32123a4bd3723948a4474ec9a13ea9b62098292b18e3c0d1bafaffc0d1",
+          "bytes": 274121,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0013": {
+      "name": {
+        "ko": "국내산 세척 고구마",
+        "en": "Korea washed sweet potatoes"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0013/main/main-1-0c45c7b9.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0013/main/main-1-0c45c7b9.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-02-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0013/main/main-1-0c45c7b9-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0013/main/main-1-0c45c7b9-w960.webp"
+          },
+          "path": "food/FD-VG-0013/main/main-1-0c45c7b9.jpg",
+          "sha256": "0c45c7b927a29f98fc3338d0af847d02569a90c21fd402ef9658ac23d1df46fe",
+          "bytes": 211582,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0013/main/scene-1-47179cd1.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-02-scene-E-veg_basket-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0013/main/scene-1-47179cd1-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0013/main/scene-1-47179cd1-w960.webp"
+          },
+          "path": "food/FD-VG-0013/main/scene-1-47179cd1.jpg",
+          "sha256": "47179cd1526e5ab260b4775d36217ea3694d481c333bc9254fe51df956a4c9ef",
+          "bytes": 280056,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0014": {
+      "name": {
+        "ko": "국내산 세척 당근",
+        "en": "Korea washed carrots"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0014/main/main-1-25f4d643.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0014/main/main-1-25f4d643.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-03-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0014/main/main-1-25f4d643-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0014/main/main-1-25f4d643-w960.webp"
+          },
+          "path": "food/FD-VG-0014/main/main-1-25f4d643.jpg",
+          "sha256": "25f4d643a62b452798f2f98bee53bb3edc9b84abc4487189ea3a503f60c1b1de",
+          "bytes": 157087,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0014/main/scene-1-eb9a44bf.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-03-scene-E-veg_board-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0014/main/scene-1-eb9a44bf-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0014/main/scene-1-eb9a44bf-w960.webp"
+          },
+          "path": "food/FD-VG-0014/main/scene-1-eb9a44bf.jpg",
+          "sha256": "eb9a44bfa12db8210d343ae2dd3ba19e35e57b25559a5a9aee90f3272d19a48a",
+          "bytes": 252645,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0015": {
+      "name": {
+        "ko": "국내산 마늘",
+        "en": "Korea garlic"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0015/main/main-1-49b176a2.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0015/main/main-1-49b176a2.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-06-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0015/main/main-1-49b176a2-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0015/main/main-1-49b176a2-w960.webp"
+          },
+          "path": "food/FD-VG-0015/main/main-1-49b176a2.jpg",
+          "sha256": "49b176a20fb700d99378b1ac53a71e6cadaf540330279f51c7b7e7ea4cf08dd5",
+          "bytes": 141952,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0015/main/scene-1-12763dde.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-06-scene-E-veg_basket-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0015/main/scene-1-12763dde-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0015/main/scene-1-12763dde-w960.webp"
+          },
+          "path": "food/FD-VG-0015/main/scene-1-12763dde.jpg",
+          "sha256": "12763ddefeeb846f95e53e9a4c2845cea7e0d6fdfca8edeb547cae87142abe25",
+          "bytes": 292074,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0016": {
+      "name": {
+        "ko": "국내산 세척 비트",
+        "en": "Korea washed beets"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0016/main/main-1-69772a6c.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0016/main/main-1-69772a6c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-12-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0016/main/main-1-69772a6c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0016/main/main-1-69772a6c-w960.webp"
+          },
+          "path": "food/FD-VG-0016/main/main-1-69772a6c.jpg",
+          "sha256": "69772a6c2f124f53db772191d9dd1492309b7d7cec4fb2d9e4b2697185ce497c",
+          "bytes": 190488,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0016/main/scene-1-227c2fc5.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-12-scene-E-veg_board-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0016/main/scene-1-227c2fc5-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0016/main/scene-1-227c2fc5-w960.webp"
+          },
+          "path": "food/FD-VG-0016/main/scene-1-227c2fc5.jpg",
+          "sha256": "227c2fc52432d46af5d6522fcf3eb9107dea310602e54ca340fbfc9c4ff386ed",
+          "bytes": 259986,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0017": {
+      "name": {
+        "ko": "국내산 세척 주키니",
+        "en": "Korea washed zucchini"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0017/main/main-1-a9432213.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0017/main/main-1-a9432213.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-18-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0017/main/main-1-a9432213-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0017/main/main-1-a9432213-w960.webp"
+          },
+          "path": "food/FD-VG-0017/main/main-1-a9432213.jpg",
+          "sha256": "a9432213af01c80178c90fac0a60e5e8f5a16c6149d3cf362767bd33da7fda81",
+          "bytes": 267016,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0017/main/scene-1-826aecae.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-18-scene-E-veg_board-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0017/main/scene-1-826aecae-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0017/main/scene-1-826aecae-w960.webp"
+          },
+          "path": "food/FD-VG-0017/main/scene-1-826aecae.jpg",
+          "sha256": "826aecae8bc3519111f384d4c75d3dae916fa84b35f63044529fb08ec44a5010",
+          "bytes": 250838,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0018": {
+      "name": {
+        "ko": "국내산 세척 오이",
+        "en": "Korea washed cucumbers"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0018/main/main-1-5d5f6fc3.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0018/main/main-1-5d5f6fc3.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-19-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0018/main/main-1-5d5f6fc3-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0018/main/main-1-5d5f6fc3-w960.webp"
+          },
+          "path": "food/FD-VG-0018/main/main-1-5d5f6fc3.jpg",
+          "sha256": "5d5f6fc30d871b10a3c8c3def8fc66daaaa2ae977a69a2d4d8e85dd7bb23abbc",
+          "bytes": 205834,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0018/main/scene-1-0bc92b77.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-19-scene-E-veg_board-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0018/main/scene-1-0bc92b77-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0018/main/scene-1-0bc92b77-w960.webp"
+          },
+          "path": "food/FD-VG-0018/main/scene-1-0bc92b77.jpg",
+          "sha256": "0bc92b77a41828c87dec1b2dca5bcb9caae672800be302084362d152917ac47d",
+          "bytes": 242372,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0019": {
+      "name": {
+        "ko": "국내산 가지",
+        "en": "Korea eggplants"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0019/main/main-1-ee2b6701.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0019/main/main-1-ee2b6701.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-20-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0019/main/main-1-ee2b6701-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0019/main/main-1-ee2b6701-w960.webp"
+          },
+          "path": "food/FD-VG-0019/main/main-1-ee2b6701.jpg",
+          "sha256": "ee2b670133d4bcaf31f21a964d2c35d6c2e2742e54511ac265cc8c374cdc0a41",
+          "bytes": 151905,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0019/main/scene-1-4c272813.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-20-scene-E-veg_board-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0019/main/scene-1-4c272813-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0019/main/scene-1-4c272813-w960.webp"
+          },
+          "path": "food/FD-VG-0019/main/scene-1-4c272813.jpg",
+          "sha256": "4c27281349cf2fd4461c7253eb83be96cbbecfdafbbc8a96b0d7d5278a49009d",
+          "bytes": 230869,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0020": {
+      "name": {
+        "ko": "국내산 세척 파프리카",
+        "en": "Korea washed bell peppers"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0020/main/main-1-5ffdfdc6.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0020/main/main-1-5ffdfdc6.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-21-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0020/main/main-1-5ffdfdc6-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0020/main/main-1-5ffdfdc6-w960.webp"
+          },
+          "path": "food/FD-VG-0020/main/main-1-5ffdfdc6.jpg",
+          "sha256": "5ffdfdc64dd0767b7a6190a49a43f4dfaecf09871ad29a1e783245b350bc9409",
+          "bytes": 164857,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0020/main/scene-1-d0f14062.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-21-scene-E-veg_board-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0020/main/scene-1-d0f14062-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0020/main/scene-1-d0f14062-w960.webp"
+          },
+          "path": "food/FD-VG-0020/main/scene-1-d0f14062.jpg",
+          "sha256": "d0f140622123994810410f70ec33e8a70dbf927aae53df68b284b656e22b0be6",
+          "bytes": 217927,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0021": {
+      "name": {
+        "ko": "국내산 양송이버섯",
+        "en": "Korea button mushrooms"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0021/main/main-1-1cb8f4c0.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0021/main/main-1-1cb8f4c0.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-MS-05-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0021/main/main-1-1cb8f4c0-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0021/main/main-1-1cb8f4c0-w960.webp"
+          },
+          "path": "food/FD-VG-0021/main/main-1-1cb8f4c0.jpg",
+          "sha256": "1cb8f4c0f7af54151057b6e8df073139a1d636169f401287c5cfe1fa256d5785",
+          "bytes": 242679,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0021/main/scene-1-578e17c7.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-MS-05-scene-E-veg_basket-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0021/main/scene-1-578e17c7-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0021/main/scene-1-578e17c7-w960.webp"
+          },
+          "path": "food/FD-VG-0021/main/scene-1-578e17c7.jpg",
+          "sha256": "578e17c73ecb04326adef13dbe69a52182ce81429daf3ab2ad77bd46ca732eae",
+          "bytes": 250221,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0022": {
+      "name": {
+        "ko": "국내산 콩나물",
+        "en": "Korea soybean sprouts"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0022/main/main-1-313a341a.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0022/main/main-1-313a341a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-PR-01-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0022/main/main-1-313a341a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0022/main/main-1-313a341a-w960.webp"
+          },
+          "path": "food/FD-VG-0022/main/main-1-313a341a.jpg",
+          "sha256": "313a341a91a92fb3aed83b48d300556dfabb08bf8bffed232fc3815982579ca1",
+          "bytes": 183427,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0022/main/scene-1-c1359f41.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-PR-01-scene-E-veg_bowl-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0022/main/scene-1-c1359f41-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0022/main/scene-1-c1359f41-w960.webp"
+          },
+          "path": "food/FD-VG-0022/main/scene-1-c1359f41.jpg",
+          "sha256": "c1359f41b126f3322b9024b9b1a40033ee08eb2c3c07e06ee2ead5d9b52dc896",
+          "bytes": 244449,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0023": {
+      "name": {
+        "ko": "국내산 모둠샐러드",
+        "en": "Korea mixed salad greens"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0023/main/main-1-6ee0706e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0023/main/main-1-6ee0706e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-PR-06-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0023/main/main-1-6ee0706e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0023/main/main-1-6ee0706e-w960.webp"
+          },
+          "path": "food/FD-VG-0023/main/main-1-6ee0706e.jpg",
+          "sha256": "6ee0706e8c6bcfa184c03f847f84929386cb037511dc21bbb3bcece0ea7852e3",
+          "bytes": 236883,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0023/main/scene-1-6658fe01.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-PR-06-scene-E-veg_bowl-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0023/main/scene-1-6658fe01-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0023/main/scene-1-6658fe01-w960.webp"
+          },
+          "path": "food/FD-VG-0023/main/scene-1-6658fe01.jpg",
+          "sha256": "6658fe01b2e65807a7e0bb21a38e3fb8e59f4fe2d3cacd1bd980191674ccec75",
+          "bytes": 233539,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0024": {
+      "name": {
+        "ko": "국내산 삶은 나물",
+        "en": "Korea boiled greens"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0024/main/main-1-19fac7ca.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0024/main/main-1-19fac7ca.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-PR-08-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0024/main/main-1-19fac7ca-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0024/main/main-1-19fac7ca-w960.webp"
+          },
+          "path": "food/FD-VG-0024/main/main-1-19fac7ca.jpg",
+          "sha256": "19fac7caa5613d21fd4dd72017a278964b932cb154631055d92aef68834f40fc",
+          "bytes": 268811,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0024/main/scene-1-3438fece.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-PR-08-scene-E-veg_bowl-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0024/main/scene-1-3438fece-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0024/main/scene-1-3438fece-w960.webp"
+          },
+          "path": "food/FD-VG-0024/main/scene-1-3438fece.jpg",
+          "sha256": "3438fecea5cb53b5f7054cb51a26a342f9ac00238984c8e3c895cf6784c70090",
+          "bytes": 252945,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0025": {
+      "name": {
+        "ko": "국내산 감자 특",
+        "en": "Korea potatoes Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0025/main/main-1-96498618.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0025/main/main-1-96498618.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-01-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0025/main/main-1-96498618-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0025/main/main-1-96498618-w960.webp"
+          },
+          "path": "food/FD-VG-0025/main/main-1-96498618.jpg",
+          "sha256": "96498618acabc18bd1f39bea6d0ed8f1758466a3cfca6d8f62e17db84ec76c1e",
+          "bytes": 134491,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0025/main/scene-1-f5a7bb32.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-01-scene-E-veg_basket-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0025/main/scene-1-f5a7bb32-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0025/main/scene-1-f5a7bb32-w960.webp"
+          },
+          "path": "food/FD-VG-0025/main/scene-1-f5a7bb32.jpg",
+          "sha256": "f5a7bb32123a4bd3723948a4474ec9a13ea9b62098292b18e3c0d1bafaffc0d1",
+          "bytes": 274121,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0026": {
+      "name": {
+        "ko": "국내산 세척 고구마 특",
+        "en": "Korea washed sweet potatoes Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0026/main/main-1-0c45c7b9.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0026/main/main-1-0c45c7b9.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-02-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0026/main/main-1-0c45c7b9-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0026/main/main-1-0c45c7b9-w960.webp"
+          },
+          "path": "food/FD-VG-0026/main/main-1-0c45c7b9.jpg",
+          "sha256": "0c45c7b927a29f98fc3338d0af847d02569a90c21fd402ef9658ac23d1df46fe",
+          "bytes": 211582,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0026/main/scene-1-47179cd1.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-02-scene-E-veg_basket-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0026/main/scene-1-47179cd1-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0026/main/scene-1-47179cd1-w960.webp"
+          },
+          "path": "food/FD-VG-0026/main/scene-1-47179cd1.jpg",
+          "sha256": "47179cd1526e5ab260b4775d36217ea3694d481c333bc9254fe51df956a4c9ef",
+          "bytes": 280056,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0027": {
+      "name": {
+        "ko": "국내산 세척 당근 특",
+        "en": "Korea washed carrots Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0027/main/main-1-25f4d643.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0027/main/main-1-25f4d643.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-03-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0027/main/main-1-25f4d643-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0027/main/main-1-25f4d643-w960.webp"
+          },
+          "path": "food/FD-VG-0027/main/main-1-25f4d643.jpg",
+          "sha256": "25f4d643a62b452798f2f98bee53bb3edc9b84abc4487189ea3a503f60c1b1de",
+          "bytes": 157087,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0027/main/scene-1-eb9a44bf.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-03-scene-E-veg_board-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0027/main/scene-1-eb9a44bf-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0027/main/scene-1-eb9a44bf-w960.webp"
+          },
+          "path": "food/FD-VG-0027/main/scene-1-eb9a44bf.jpg",
+          "sha256": "eb9a44bfa12db8210d343ae2dd3ba19e35e57b25559a5a9aee90f3272d19a48a",
+          "bytes": 252645,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0028": {
+      "name": {
+        "ko": "전남 양파",
+        "en": "Jeonnam onions"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0028/main/main-1-9ccca7bf.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0028/main/main-1-9ccca7bf.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-05-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0028/main/main-1-9ccca7bf-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0028/main/main-1-9ccca7bf-w960.webp"
+          },
+          "path": "food/FD-VG-0028/main/main-1-9ccca7bf.jpg",
+          "sha256": "9ccca7bfddff79409c7804a39a7dda7fbbd218f0ea352342c04c1fa7390d0e8a",
+          "bytes": 139613,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0028/main/scene-1-7467694c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-05-scene-E-veg_basket-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0028/main/scene-1-7467694c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0028/main/scene-1-7467694c-w960.webp"
+          },
+          "path": "food/FD-VG-0028/main/scene-1-7467694c.jpg",
+          "sha256": "7467694cb179a153d64c93a608d5ce34faedce557a572fb2dbd2e5267f54545e",
+          "bytes": 231103,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0029": {
+      "name": {
+        "ko": "국내산 세척 청상추 특",
+        "en": "Korea washed green lettuce Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0029/main/main-1-7267a699.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0029/main/main-1-7267a699.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-01-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0029/main/main-1-7267a699-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0029/main/main-1-7267a699-w960.webp"
+          },
+          "path": "food/FD-VG-0029/main/main-1-7267a699.jpg",
+          "sha256": "7267a6995365aac8a8c4d323c21d5707f8d4be6e73b16777dabcad1962bc02d1",
+          "bytes": 225521,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0029/main/scene-1-344f829d.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-01-scene-E-veg_basket-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0029/main/scene-1-344f829d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0029/main/scene-1-344f829d-w960.webp"
+          },
+          "path": "food/FD-VG-0029/main/scene-1-344f829d.jpg",
+          "sha256": "344f829dc3c414de06707b9ddc4e950557e094f42e9c078f4194a6dc656f7ab9",
+          "bytes": 282711,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0030": {
+      "name": {
+        "ko": "국내산 배추 특",
+        "en": "Korea napa cabbage Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0030/main/main-1-363c2b15.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0030/main/main-1-363c2b15.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-04-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0030/main/main-1-363c2b15-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0030/main/main-1-363c2b15-w960.webp"
+          },
+          "path": "food/FD-VG-0030/main/main-1-363c2b15.jpg",
+          "sha256": "363c2b154e307b91b15bf519bac7abeef5446954d6fb1fbfa2a7ff4fb5eae517",
+          "bytes": 161046,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0030/main/scene-1-1884da9b.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-04-scene-E-veg_board-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0030/main/scene-1-1884da9b-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0030/main/scene-1-1884da9b-w960.webp"
+          },
+          "path": "food/FD-VG-0030/main/scene-1-1884da9b.jpg",
+          "sha256": "1884da9b9bdab345b39c45f08739489d9830efd16d4d1b35a271b3ade76ed5eb",
+          "bytes": 218292,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0031": {
+      "name": {
+        "ko": "국내산 세척 오이 특",
+        "en": "Korea washed cucumbers Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0031/main/main-1-5d5f6fc3.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0031/main/main-1-5d5f6fc3.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-19-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0031/main/main-1-5d5f6fc3-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0031/main/main-1-5d5f6fc3-w960.webp"
+          },
+          "path": "food/FD-VG-0031/main/main-1-5d5f6fc3.jpg",
+          "sha256": "5d5f6fc30d871b10a3c8c3def8fc66daaaa2ae977a69a2d4d8e85dd7bb23abbc",
+          "bytes": 205834,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0031/main/scene-1-0bc92b77.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-19-scene-E-veg_board-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0031/main/scene-1-0bc92b77-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0031/main/scene-1-0bc92b77-w960.webp"
+          },
+          "path": "food/FD-VG-0031/main/scene-1-0bc92b77.jpg",
+          "sha256": "0bc92b77a41828c87dec1b2dca5bcb9caae672800be302084362d152917ac47d",
+          "bytes": 242372,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0032": {
+      "name": {
+        "ko": "국내산 세척 파프리카 특",
+        "en": "Korea washed bell peppers Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0032/main/main-1-5ffdfdc6.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0032/main/main-1-5ffdfdc6.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-21-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0032/main/main-1-5ffdfdc6-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0032/main/main-1-5ffdfdc6-w960.webp"
+          },
+          "path": "food/FD-VG-0032/main/main-1-5ffdfdc6.jpg",
+          "sha256": "5ffdfdc64dd0767b7a6190a49a43f4dfaecf09871ad29a1e783245b350bc9409",
+          "bytes": 164857,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0032/main/scene-1-d0f14062.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-21-scene-E-veg_board-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0032/main/scene-1-d0f14062-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0032/main/scene-1-d0f14062-w960.webp"
+          },
+          "path": "food/FD-VG-0032/main/scene-1-d0f14062.jpg",
+          "sha256": "d0f140622123994810410f70ec33e8a70dbf927aae53df68b284b656e22b0be6",
+          "bytes": 217927,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0033": {
+      "name": {
+        "ko": "국내산 브로콜리 특",
+        "en": "Korea broccoli Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0033/main/main-1-565e0831.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0033/main/main-1-565e0831.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-14-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0033/main/main-1-565e0831-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0033/main/main-1-565e0831-w960.webp"
+          },
+          "path": "food/FD-VG-0033/main/main-1-565e0831.jpg",
+          "sha256": "565e0831e9eef5f0633faa867bc3947ff4c6d3f6e4d81b9a48e7562027050d33",
+          "bytes": 226760,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0033/main/scene-1-627ff302.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-14-scene-E-veg_board-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0033/main/scene-1-627ff302-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0033/main/scene-1-627ff302-w960.webp"
+          },
+          "path": "food/FD-VG-0033/main/scene-1-627ff302.jpg",
+          "sha256": "627ff30242f1dff4814b4f9e52675b3295c9269dd678d179e36e668368bd0f70",
+          "bytes": 319559,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0034": {
+      "name": {
+        "ko": "국내산 대파 특",
+        "en": "Korea green onions Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0034/main/main-1-8f9e093b.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0034/main/main-1-8f9e093b.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-12-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0034/main/main-1-8f9e093b-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0034/main/main-1-8f9e093b-w960.webp"
+          },
+          "path": "food/FD-VG-0034/main/main-1-8f9e093b.jpg",
+          "sha256": "8f9e093b94f970f51f8af91e75aedb57bb553bfaf74d3394e96679de9cfc2a90",
+          "bytes": 178782,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0034/main/scene-1-9613209d.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-12-scene-E-veg_board-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0034/main/scene-1-9613209d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0034/main/scene-1-9613209d-w960.webp"
+          },
+          "path": "food/FD-VG-0034/main/scene-1-9613209d.jpg",
+          "sha256": "9613209d1ac5552c103117823c24d0ccb88872334dc440b7fda482935600c646",
+          "bytes": 236452,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0035": {
+      "name": {
+        "ko": "국내산 마늘 특",
+        "en": "Korea garlic Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0035/main/main-1-49b176a2.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0035/main/main-1-49b176a2.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-06-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0035/main/main-1-49b176a2-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0035/main/main-1-49b176a2-w960.webp"
+          },
+          "path": "food/FD-VG-0035/main/main-1-49b176a2.jpg",
+          "sha256": "49b176a20fb700d99378b1ac53a71e6cadaf540330279f51c7b7e7ea4cf08dd5",
+          "bytes": 141952,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0035/main/scene-1-12763dde.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-06-scene-E-veg_basket-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0035/main/scene-1-12763dde-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0035/main/scene-1-12763dde-w960.webp"
+          },
+          "path": "food/FD-VG-0035/main/scene-1-12763dde.jpg",
+          "sha256": "12763ddefeeb846f95e53e9a4c2845cea7e0d6fdfca8edeb547cae87142abe25",
+          "bytes": 292074,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0036": {
+      "name": {
+        "ko": "국내산 가지 특",
+        "en": "Korea eggplants Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0036/main/main-1-ee2b6701.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0036/main/main-1-ee2b6701.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-20-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0036/main/main-1-ee2b6701-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0036/main/main-1-ee2b6701-w960.webp"
+          },
+          "path": "food/FD-VG-0036/main/main-1-ee2b6701.jpg",
+          "sha256": "ee2b670133d4bcaf31f21a964d2c35d6c2e2742e54511ac265cc8c374cdc0a41",
+          "bytes": 151905,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0036/main/scene-1-4c272813.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-RT-20-scene-E-veg_board-s0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0036/main/scene-1-4c272813-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0036/main/scene-1-4c272813-w960.webp"
+          },
+          "path": "food/FD-VG-0036/main/scene-1-4c272813.jpg",
+          "sha256": "4c27281349cf2fd4461c7253eb83be96cbbecfdafbbc8a96b0d7d5278a49009d",
+          "bytes": 230869,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0037": {
+      "name": {
+        "ko": "국내산 시금치 특",
+        "en": "Korea spinach Premium"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0037/main/main-1-f735175a.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0037/main/main-1-f735175a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-03-main-v2",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0037/main/main-1-f735175a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0037/main/main-1-f735175a-w960.webp"
+          },
+          "path": "food/FD-VG-0037/main/main-1-f735175a.jpg",
+          "sha256": "f735175a1b047012efb6efe9d75826fbdca2b39860f88ef34385006700495144",
+          "bytes": 194269,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0037/main/scene-1-b905d3a9.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "job_id": "FS-VG-LF-03-scene-E-veg_basket-s1",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0037/main/scene-1-b905d3a9-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-storage/food/FD-VG-0037/main/scene-1-b905d3a9-w960.webp"
+          },
+          "path": "food/FD-VG-0037/main/scene-1-b905d3a9.jpg",
+          "sha256": "b905d3a9ef96ec160ba829749c57634941ede52b28f54ad1955a86800ee194da",
+          "bytes": 301377,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    }
+  }
+}
