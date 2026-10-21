@@ -1,7 +1,7 @@
-# 수퍼유자 상품 이미지 저장소
+# 수퍼유자 상품 이미지·피드 저장소
 
 **수퍼유자**(super.yuja.dev)는 Appier Korea가 마케팅 자동화·고객 데이터·챗봇을 시연하려고 만든 **데모 쇼핑몰**입니다.
-이 저장소에는 그 데모의 **AI로 생성한 가상 상품 사진**이 있습니다. **실제 상점이 아니며**, 사진 속 상품·브랜드·모델은 실존하지 않습니다.
+이 저장소에는 그 데모의 **AI로 생성한 가상 상품 사진**과 **상품 피드**가 있습니다. **실제 상점이 아니며**, 사진 속 상품·브랜드·모델은 실존하지 않습니다.
 
 - 사진 파일 안에는 AI 생성 표시가 기계가 읽을 수 있는 형태로 들어 있습니다
   (XMP의 IPTC `DigitalSourceType = trainedAlgorithmicMedia`). 파일은 원본 그대로 올리며 다시 압축하지 않습니다.
@@ -10,7 +10,7 @@
 ## 주소 형식
 
 ```
-https://bhson-appier.github.io/super-yuja-storage/<버티컬>/<상품ID>/<그룹>/<종류>-<순번>-<sha8>.jpg
+https://bhson-appier.github.io/super-yuja-assets/<버티컬>/<상품ID>/<그룹>/<종류>-<순번>-<sha8>.jpg
 ```
 
 | 부분 | 뜻 |
@@ -28,6 +28,20 @@ https://bhson-appier.github.io/super-yuja-storage/<버티컬>/<상품ID>/<그룹
 - 사진마다 같은 이름에 `-w640.webp`·`-w960.webp`를 붙인 **크기별 WebP 사본**이 있습니다(원본보다 넓은 사본은 만들지 않음, 메타데이터 포함). 데모 사이트는 이 사본을 브라우저가 바로 받습니다.
 - 버티컬마다 `<버티컬>/index.json`에 상품별 대표 사진(`default_main`)·대표 착용 사진(`default_model`)과 모든 사진이 있습니다.
   `placeholder: true`는 사진이 승인되기 전까지 쓰는 **임시 그림**(AI 생성 아님)입니다.
-- 갤러리: https://bhson-appier.github.io/super-yuja-storage/
+- 갤러리: https://bhson-appier.github.io/super-yuja-assets/
+
+## 상품 피드
+
+데모 사이트의 상품 피드(CSV, UTF-8, BOM 없음)입니다. 공개 중인 버티컬만 있고, 형식은 `aiqua`(Appier AIQUA) ·
+`enterprise`(Appier Enterprise) · `botbonnie`(BotBonnie, Enterprise와 같은 열)입니다. 피드의 사진 주소는 이 저장소의 원본입니다.
+
+```
+https://bhson-appier.github.io/super-yuja-assets/feeds/<형식>-<버티컬>.csv
+```
+
+(아직 없음)
+
+- 같은 파일을 `https://super.yuja.dev/feeds/<파일>`에서도 받을 수 있습니다(데모 사이트가 직접 내보냄).
+- 목록·행 수·SHA-256: `feeds/index.json`. 공개를 멈춘 버티컬의 피드는 바로 지웁니다.
 
 이 저장소는 스크립트(`scripts/storage/sync_image_storage.py`, 데모 저장소)가 만듭니다. 직접 고치지 마세요.

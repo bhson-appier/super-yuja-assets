@@ -30,13 +30,19 @@ figure { margin: 0; min-width: 0; }
 .badge.tmp { background: rgb(0 0 0 / .35); font-weight: 500; }
 figcaption { font-size: 12px; color: var(--muted); margin-top: 4px; overflow-wrap: anywhere; }
 figcaption a { color: inherit; }
+section.feeds { margin: 16px 0 8px; }
+section.feeds h2 { font-size: 16px; margin: 0 0 6px; }
+section.feeds ul { margin: 0; padding-left: 18px; }
+section.feeds li { overflow-wrap: anywhere; }
+section.feeds small { color: var(--muted); }
 </style>
 </head>
 <body>
 <main>
 <h1>수퍼유자 상품 이미지</h1>
 <p class="lead">Appier Korea 데모 쇼핑몰 <b>수퍼유자</b>의 <b>AI로 생성한 가상 상품 사진</b>입니다. 실제 상점이 아니며, 상품·브랜드·모델은 실존하지 않습니다.</p>
-<p class="lead">주소: <code>https://bhson-appier.github.io/super-yuja-storage/&lt;버티컬&gt;/&lt;상품ID&gt;/&lt;그룹&gt;/&lt;종류&gt;-&lt;순번&gt;-&lt;sha8&gt;.jpg</code> · 파일은 제자리에서 바뀌지 않습니다.</p>
+<p class="lead">주소: <code>https://bhson-appier.github.io/super-yuja-assets/&lt;버티컬&gt;/&lt;상품ID&gt;/&lt;그룹&gt;/&lt;종류&gt;-&lt;순번&gt;-&lt;sha8&gt;.jpg</code> · 파일은 제자리에서 바뀌지 않습니다.</p>
+<section class="feeds" id="feeds" hidden><h2>상품 피드</h2><ul id="feed-list"></ul><p class="lead"><small>같은 파일을 https://super.yuja.dev/feeds/&lt;파일&gt;에서도 받을 수 있습니다.</small></p></section>
 <div class="bar"><input id="q" type="search" placeholder="상품 ID·이름으로 찾기" aria-label="상품 찾기"><span class="count" id="count" aria-live="polite"></span></div>
 <noscript><p>목록은 자바스크립트로 그립니다. 자료는 버티컬별 index.json에 있습니다: <a href="beauty/index.json">beauty/index.json</a> · <a href="fashion/index.json">fashion/index.json</a> · <a href="food/index.json">food/index.json</a> · <a href="promo/index.json">promo/index.json</a></p></noscript>
 <ul class="grid" id="grid"></ul>
@@ -69,6 +75,12 @@ Promise.all(VERTICALS.map((v) => fetch(`${v}/index.json`).then((r) => r.json()))
   show();
 });
 q.addEventListener("input", show);
+fetch("feeds/index.json").then((r) => (r.ok ? r.json() : null)).then((ix) => {
+  if (!ix || !ix.files || !ix.files.length) return;
+  const list = document.getElementById("feed-list");
+  for (const f of ix.files) list.append(el("li", {}, el("a", { href: f.url }, f.name), " ", el("small", {}, `${f.format} · ${f.vertical} · 상품 ${f.rows}개`)));
+  document.getElementById("feeds").hidden = false;
+}).catch(() => {});
 </script>
 </body>
 </html>
