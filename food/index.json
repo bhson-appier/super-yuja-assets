@@ -7,7 +7,7 @@
     "FD-FR-0001": {
       "name": {
         "ko": "경북 홍로 사과 특",
-        "en": "Gyeongbuk Hongro apple Premium"
+        "en": "Premium Gyeongbuk Hongro Apples"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0001/main/main-1-212a99af.jpg",
       "default_model": null,
@@ -53,7 +53,7 @@
     "FD-FR-0003": {
       "name": {
         "ko": "필리핀 바나나",
-        "en": "Philippines bananas"
+        "en": "Philippine Bananas"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0003/main/main-1-6c9823a1.jpg",
       "default_model": null,
@@ -99,7 +99,7 @@
     "FD-FR-0004": {
       "name": {
         "ko": "국내산 감귤",
-        "en": "Korea mandarins"
+        "en": "Korean Mandarin Oranges"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0004/main/main-1-96677326.jpg",
       "default_model": null,
@@ -145,7 +145,7 @@
     "FD-FR-0005": {
       "name": {
         "ko": "국내산 캠벨얼리 포도",
-        "en": "Korea Campbell Early grapes"
+        "en": "Korean Campbell Early Grapes"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0005/main/main-1-a263c8d2.jpg",
       "default_model": null,
@@ -191,7 +191,7 @@
     "FD-FR-0006": {
       "name": {
         "ko": "국내산 설향 딸기",
-        "en": "Korea Seolhyang strawberries"
+        "en": "Korean Seolhyang Strawberries"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0006/main/main-1-49649464.jpg",
       "default_model": null,
@@ -237,7 +237,7 @@
     "FD-FR-0007": {
       "name": {
         "ko": "국내산 블루베리",
-        "en": "Korea blueberries"
+        "en": "Korean Blueberries"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0007/main/main-1-42f2c528.jpg",
       "default_model": null,
@@ -283,7 +283,7 @@
     "FD-FR-0008": {
       "name": {
         "ko": "국내산 멜론",
-        "en": "Korea melons"
+        "en": "Korean Melons"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0008/main/main-1-e04bba54.jpg",
       "default_model": null,
@@ -329,7 +329,7 @@
     "FD-FR-0009": {
       "name": {
         "ko": "국내산 방울토마토",
-        "en": "Korea cherry tomatoes"
+        "en": "Korean Cherry Tomatoes"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0009/main/main-1-618d8fe8.jpg",
       "default_model": null,
@@ -375,7 +375,7 @@
     "FD-FR-0010": {
       "name": {
         "ko": "국내산 키위",
-        "en": "Korea kiwis"
+        "en": "Korean Kiwifruit"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0010/main/main-1-7aaec644.jpg",
       "default_model": null,
@@ -421,7 +421,7 @@
     "FD-FR-0011": {
       "name": {
         "ko": "멕시코 아보카도",
-        "en": "Mexico avocados"
+        "en": "Mexican Avocados"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0011/main/main-1-b48b34bf.jpg",
       "default_model": null,
@@ -467,7 +467,7 @@
     "FD-FR-0012": {
       "name": {
         "ko": "국내산 곶감",
-        "en": "Korea dried persimmons"
+        "en": "Korean Dried Persimmons"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0012/main/main-1-5a4b0f0f.jpg",
       "default_model": null,
@@ -513,7 +513,7 @@
     "FD-FR-0013": {
       "name": {
         "ko": "경북 부사 사과",
-        "en": "Gyeongbuk Fuji apple"
+        "en": "Gyeongbuk Fuji Apples"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0013/main/main-1-212a99af.jpg",
       "default_model": null,
@@ -559,7 +559,7 @@
     "FD-FR-0014": {
       "name": {
         "ko": "국내산 감귤 특",
-        "en": "Korea mandarins Premium"
+        "en": "Premium Korean Mandarin Oranges"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0014/main/main-1-96677326.jpg",
       "default_model": null,
@@ -605,7 +605,7 @@
     "FD-FR-0015": {
       "name": {
         "ko": "국내산 설향 딸기 특",
-        "en": "Korea Seolhyang strawberries Premium"
+        "en": "Premium Korean Seolhyang Strawberries"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0015/main/main-1-49649464.jpg",
       "default_model": null,
@@ -651,7 +651,7 @@
     "FD-FR-0016": {
       "name": {
         "ko": "국내산 캠벨얼리 포도 특",
-        "en": "Korea Campbell Early grapes Premium"
+        "en": "Premium Korean Campbell Early Grapes"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0016/main/main-1-a263c8d2.jpg",
       "default_model": null,
@@ -697,7 +697,7 @@
     "FD-FR-0017": {
       "name": {
         "ko": "국내산 방울토마토 특",
-        "en": "Korea cherry tomatoes Premium"
+        "en": "Premium Korean Cherry Tomatoes"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0017/main/main-1-618d8fe8.jpg",
       "default_model": null,
@@ -743,7 +743,7 @@
     "FD-FR-0018": {
       "name": {
         "ko": "국내산 키위 특",
-        "en": "Korea kiwis Premium"
+        "en": "Premium Korean Kiwifruit"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0018/main/main-1-7aaec644.jpg",
       "default_model": null,
@@ -789,7 +789,7 @@
     "FD-FR-0019": {
       "name": {
         "ko": "국내산 블루베리 특",
-        "en": "Korea blueberries Premium"
+        "en": "Premium Korean Blueberries"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0019/main/main-1-42f2c528.jpg",
       "default_model": null,
@@ -835,7 +835,7 @@
     "FD-FR-0020": {
       "name": {
         "ko": "국내산 멜론 특",
-        "en": "Korea melons Premium"
+        "en": "Premium Korean Melons"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0020/main/main-1-e04bba54.jpg",
       "default_model": null,
@@ -881,7 +881,7 @@
     "FD-MT-0001": {
       "name": {
         "ko": "제주 돼지 삼겹살 1등급 구이용",
-        "en": "Jeju pork belly Grade 1 for grilling"
+        "en": "Grade 1 Jeju Pork Belly for Grilling"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0001/main/main-1-7a9528af.jpg",
       "default_model": null,
@@ -927,7 +927,7 @@
     "FD-MT-0002": {
       "name": {
         "ko": "한우 등심 1++ 구이용",
-        "en": "Hanwoo sirloin 1++ for grilling"
+        "en": "Grade 1++ Hanwoo Beef Sirloin for Grilling"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0002/main/main-1-76ee26a7.jpg",
       "default_model": null,
@@ -973,7 +973,7 @@
     "FD-MT-0003": {
       "name": {
         "ko": "국내산 계란 특란",
-        "en": "Korea eggs Extra large"
+        "en": "Extra Large Korean Eggs"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0003/main/main-1-60930e24.jpg",
       "default_model": null,
@@ -1019,7 +1019,7 @@
     "FD-MT-0004": {
       "name": {
         "ko": "한우 채끝 1+ 구이용",
-        "en": "Hanwoo striploin 1+ for grilling"
+        "en": "Grade 1+ Hanwoo Beef Striploin for Grilling"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0004/main/main-1-b606642c.jpg",
       "default_model": null,
@@ -1065,7 +1065,7 @@
     "FD-MT-0005": {
       "name": {
         "ko": "한우 불고기용 1+",
-        "en": "Hanwoo bulgogi beef 1+"
+        "en": "Grade 1+ Hanwoo Bulgogi Beef"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0005/main/main-1-2a6a4c72.jpg",
       "default_model": null,
@@ -1111,7 +1111,7 @@
     "FD-MT-0006": {
       "name": {
         "ko": "한우 국거리 1등급",
-        "en": "Hanwoo soup beef Grade 1"
+        "en": "Grade 1 Hanwoo Beef Stew Meat"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0006/main/main-1-0786d0d6.jpg",
       "default_model": null,
@@ -1157,7 +1157,7 @@
     "FD-MT-0007": {
       "name": {
         "ko": "한우 우둔 1등급 장조림용",
-        "en": "Hanwoo round Grade 1 for braising"
+        "en": "Grade 1 Hanwoo Beef Round for Braising"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0007/main/main-1-68abac60.jpg",
       "default_model": null,
@@ -1203,7 +1203,7 @@
     "FD-MT-0008": {
       "name": {
         "ko": "한우 다짐육 1등급 다짐용",
-        "en": "Hanwoo ground beef Grade 1 ground"
+        "en": "Grade 1 Hanwoo Ground Beef"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0008/main/main-1-ffc6658e.jpg",
       "default_model": null,
@@ -1249,7 +1249,7 @@
     "FD-MT-0009": {
       "name": {
         "ko": "제주 돼지 목살 1+ 구이용",
-        "en": "Jeju pork neck 1+ for grilling"
+        "en": "Grade 1+ Jeju Pork Collar for Grilling"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0009/main/main-1-cef5a2d1.jpg",
       "default_model": null,
@@ -1295,7 +1295,7 @@
     "FD-MT-0010": {
       "name": {
         "ko": "제주 돼지 앞다리살 1등급 수육용",
-        "en": "Jeju pork shoulder Grade 1 for boiling"
+        "en": "Grade 1 Jeju Pork Shoulder for Simmering"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0010/main/main-1-563f881c.jpg",
       "default_model": null,
@@ -1341,7 +1341,7 @@
     "FD-MT-0011": {
       "name": {
         "ko": "제주 돼지 뒷다리살 1등급 볶음용",
-        "en": "Jeju pork hind leg Grade 1 for stir-frying"
+        "en": "Grade 1 Jeju Pork Leg for Stir-Frying"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0011/main/main-1-3d875974.jpg",
       "default_model": null,
@@ -1387,7 +1387,7 @@
     "FD-MT-0012": {
       "name": {
         "ko": "제주 돼지 구이 모둠 1+",
-        "en": "Jeju pork barbecue mix 1+"
+        "en": "Grade 1+ Jeju Pork Barbecue Assortment"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0012/main/main-1-520f13ac.jpg",
       "default_model": null,
@@ -1433,7 +1433,7 @@
     "FD-MT-0013": {
       "name": {
         "ko": "강원 닭가슴살",
-        "en": "Gangwon chicken breast"
+        "en": "Gangwon Chicken Breast"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0013/main/main-1-3be80fe1.jpg",
       "default_model": null,
@@ -1479,7 +1479,7 @@
     "FD-MT-0014": {
       "name": {
         "ko": "강원 닭다리",
-        "en": "Gangwon chicken drumsticks"
+        "en": "Gangwon Chicken Drumsticks"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0014/main/main-1-d67ef4aa.jpg",
       "default_model": null,
@@ -1525,7 +1525,7 @@
     "FD-MT-0015": {
       "name": {
         "ko": "강원 영계",
-        "en": "Gangwon young chicken"
+        "en": "Gangwon Young Chicken"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0015/main/main-1-ec9ed98f.jpg",
       "default_model": null,
@@ -1571,7 +1571,7 @@
     "FD-MT-0016": {
       "name": {
         "ko": "국내산 유정란 특란",
-        "en": "Korea fertile eggs Extra large"
+        "en": "Extra Large Korean Fertile Eggs"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0016/main/main-1-cb7cba9f.jpg",
       "default_model": null,
@@ -1617,7 +1617,7 @@
     "FD-MT-0017": {
       "name": {
         "ko": "한우 등심 1+ 구이용",
-        "en": "Hanwoo sirloin 1+ for grilling"
+        "en": "Grade 1+ Hanwoo Beef Sirloin for Grilling"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0017/main/main-1-76ee26a7.jpg",
       "default_model": null,
@@ -1663,7 +1663,7 @@
     "FD-MT-0018": {
       "name": {
         "ko": "한우 채끝 1++ 구이용",
-        "en": "Hanwoo striploin 1++ for grilling"
+        "en": "Grade 1++ Hanwoo Beef Striploin for Grilling"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0018/main/main-1-b606642c.jpg",
       "default_model": null,
@@ -1709,7 +1709,7 @@
     "FD-MT-0019": {
       "name": {
         "ko": "한우 불고기용 1등급",
-        "en": "Hanwoo bulgogi beef Grade 1"
+        "en": "Grade 1 Hanwoo Bulgogi Beef"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0019/main/main-1-2a6a4c72.jpg",
       "default_model": null,
@@ -1755,7 +1755,7 @@
     "FD-MT-0020": {
       "name": {
         "ko": "한우 국거리 1+",
-        "en": "Hanwoo soup beef 1+"
+        "en": "Grade 1+ Hanwoo Beef Stew Meat"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0020/main/main-1-0786d0d6.jpg",
       "default_model": null,
@@ -1801,7 +1801,7 @@
     "FD-MT-0021": {
       "name": {
         "ko": "제주 돼지 삼겹살 1+ 구이용",
-        "en": "Jeju pork belly 1+ for grilling"
+        "en": "Grade 1+ Jeju Pork Belly for Grilling"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0021/main/main-1-7a9528af.jpg",
       "default_model": null,
@@ -1847,7 +1847,7 @@
     "FD-MT-0022": {
       "name": {
         "ko": "제주 돼지 목살 1등급 구이용",
-        "en": "Jeju pork neck Grade 1 for grilling"
+        "en": "Grade 1 Jeju Pork Collar for Grilling"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0022/main/main-1-cef5a2d1.jpg",
       "default_model": null,
@@ -1893,7 +1893,7 @@
     "FD-MT-0023": {
       "name": {
         "ko": "국내산 계란 대란",
-        "en": "Korea eggs Large"
+        "en": "Large Korean Eggs"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0023/main/main-1-60930e24.jpg",
       "default_model": null,
@@ -1939,7 +1939,7 @@
     "FD-MT-0024": {
       "name": {
         "ko": "국내산 유정란 대란",
-        "en": "Korea fertile eggs Large"
+        "en": "Large Korean Fertile Eggs"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0024/main/main-1-cb7cba9f.jpg",
       "default_model": null,
@@ -1985,7 +1985,7 @@
     "FD-SF-0001": {
       "name": {
         "ko": "노르웨이 고등어 통마리",
-        "en": "Norway mackerel whole"
+        "en": "Norwegian Whole Mackerel"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0001/main/main-1-8a7a0a2f.jpg",
       "default_model": null,
@@ -2031,7 +2031,7 @@
     "FD-SF-0002": {
       "name": {
         "ko": "노르웨이 연어 필렛",
-        "en": "Norway salmon fillet"
+        "en": "Norwegian Salmon Fillet"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0002/main/main-1-26278963.jpg",
       "default_model": null,
@@ -2077,7 +2077,7 @@
     "FD-SF-0004": {
       "name": {
         "ko": "국내산 조기 통마리",
-        "en": "Korea yellow croaker whole"
+        "en": "Korean Whole Yellow Croaker"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0004/main/main-1-f572c070.jpg",
       "default_model": null,
@@ -2123,7 +2123,7 @@
     "FD-SF-0006": {
       "name": {
         "ko": "국내산 새우 손질",
-        "en": "Korea shrimp cleaned"
+        "en": "Korean Cleaned Shrimp"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0006/main/main-1-c3047b78.jpg",
       "default_model": null,
@@ -2169,7 +2169,7 @@
     "FD-SF-0007": {
       "name": {
         "ko": "국내산 오징어 손질",
-        "en": "Korea squid cleaned"
+        "en": "Korean Cleaned Squid"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0007/main/main-1-0c0e0e10.jpg",
       "default_model": null,
@@ -2215,7 +2215,7 @@
     "FD-SF-0008": {
       "name": {
         "ko": "국내산 문어",
-        "en": "Korea octopus"
+        "en": "Korean Octopus"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0008/main/main-1-1c811524.jpg",
       "default_model": null,
@@ -2261,7 +2261,7 @@
     "FD-SF-0009": {
       "name": {
         "ko": "국내산 낙지 손질",
-        "en": "Korea small octopus cleaned"
+        "en": "Korean Cleaned Baby Octopus"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0009/main/main-1-ff882495.jpg",
       "default_model": null,
@@ -2307,7 +2307,7 @@
     "FD-SF-0010": {
       "name": {
         "ko": "전남 전복",
-        "en": "Jeonnam abalone"
+        "en": "Jeonnam Abalone"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0010/main/main-1-1d4660ea.jpg",
       "default_model": null,
@@ -2353,7 +2353,7 @@
     "FD-SF-0011": {
       "name": {
         "ko": "국내산 꽃게 손질",
-        "en": "Korea blue crab cleaned"
+        "en": "Korean Cleaned Blue Crab"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0011/main/main-1-0a569633.jpg",
       "default_model": null,
@@ -2399,7 +2399,7 @@
     "FD-SF-0012": {
       "name": {
         "ko": "국내산 대게",
-        "en": "Korea snow crab"
+        "en": "Korean Snow Crab"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0012/main/main-1-f822a4d0.jpg",
       "default_model": null,
@@ -2445,7 +2445,7 @@
     "FD-SF-0013": {
       "name": {
         "ko": "국내산 홍합 손질",
-        "en": "Korea mussel cleaned"
+        "en": "Korean Cleaned Mussels"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0013/main/main-1-afbb5d2b.jpg",
       "default_model": null,
@@ -2491,7 +2491,7 @@
     "FD-SF-0014": {
       "name": {
         "ko": "국내산 바지락 해감",
-        "en": "Korea clam sand-purged"
+        "en": "Korean Sand-Purged Manila Clams"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0014/main/main-1-b2fc3fa9.jpg",
       "default_model": null,
@@ -2537,7 +2537,7 @@
     "FD-SF-0015": {
       "name": {
         "ko": "국내산 해삼 손질",
-        "en": "Korea sea cucumber cleaned"
+        "en": "Korean Cleaned Sea Cucumber"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0015/main/main-1-7f64e179.jpg",
       "default_model": null,
@@ -2583,7 +2583,7 @@
     "FD-SF-0016": {
       "name": {
         "ko": "김서방 멸치",
-        "en": "Gimseobang anchovy"
+        "en": "Gimseobang Dried Anchovies"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0016/main/main-1-8e65b70d.jpg",
       "default_model": null,
@@ -2629,7 +2629,7 @@
     "FD-SF-0017": {
       "name": {
         "ko": "김서방 황태",
-        "en": "Gimseobang dried pollock"
+        "en": "Gimseobang Dried Pollock"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0017/main/main-1-c49bda9f.jpg",
       "default_model": null,
@@ -2675,7 +2675,7 @@
     "FD-SF-0018": {
       "name": {
         "ko": "김서방 건미역",
-        "en": "Gimseobang dried seaweed"
+        "en": "Gimseobang Dried Wakame"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0018/main/main-1-fe2560c7.jpg",
       "default_model": null,
@@ -2721,7 +2721,7 @@
     "FD-SF-0019": {
       "name": {
         "ko": "김서방 건새우",
-        "en": "Gimseobang dried shrimp"
+        "en": "Gimseobang Dried Shrimp"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0019/main/main-1-78b3d846.jpg",
       "default_model": null,
@@ -2767,7 +2767,7 @@
     "FD-SF-0020": {
       "name": {
         "ko": "김서방 굴비",
-        "en": "Gimseobang salted dried croaker"
+        "en": "Gimseobang Salted Dried Yellow Croaker"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0020/main/main-1-860f0b30.jpg",
       "default_model": null,
@@ -2813,7 +2813,7 @@
     "FD-VG-0001": {
       "name": {
         "ko": "국내산 세척 청상추",
-        "en": "Korea washed green lettuce"
+        "en": "Korean Washed Green Leaf Lettuce"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0001/main/main-1-7267a699.jpg",
       "default_model": null,
@@ -2859,7 +2859,7 @@
     "FD-VG-0002": {
       "name": {
         "ko": "전남 양파 특",
-        "en": "Jeonnam onions Premium"
+        "en": "Premium Jeonnam Yellow Onions"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0002/main/main-1-9ccca7bf.jpg",
       "default_model": null,
@@ -2905,7 +2905,7 @@
     "FD-VG-0003": {
       "name": {
         "ko": "국내산 시금치",
-        "en": "Korea spinach"
+        "en": "Korean Spinach"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0003/main/main-1-f735175a.jpg",
       "default_model": null,
@@ -2951,7 +2951,7 @@
     "FD-VG-0004": {
       "name": {
         "ko": "국내산 배추",
-        "en": "Korea napa cabbage"
+        "en": "Korean Napa Cabbage"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0004/main/main-1-363c2b15.jpg",
       "default_model": null,
@@ -2997,7 +2997,7 @@
     "FD-VG-0005": {
       "name": {
         "ko": "국내산 양배추",
-        "en": "Korea cabbage"
+        "en": "Korean Green Cabbage"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0005/main/main-1-23a08a98.jpg",
       "default_model": null,
@@ -3043,7 +3043,7 @@
     "FD-VG-0006": {
       "name": {
         "ko": "국내산 케일",
-        "en": "Korea kale"
+        "en": "Korean Kale"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0006/main/main-1-7d0d2eda.jpg",
       "default_model": null,
@@ -3089,7 +3089,7 @@
     "FD-VG-0007": {
       "name": {
         "ko": "국내산 세척 쌈채소",
-        "en": "Korea washed mixed wrap greens"
+        "en": "Korean Washed Mixed Wrap Greens"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0007/main/main-1-dde4644e.jpg",
       "default_model": null,
@@ -3135,7 +3135,7 @@
     "FD-VG-0008": {
       "name": {
         "ko": "국내산 로메인",
-        "en": "Korea romaine lettuce"
+        "en": "Korean Romaine Lettuce"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0008/main/main-1-94ebe9dd.jpg",
       "default_model": null,
@@ -3181,7 +3181,7 @@
     "FD-VG-0009": {
       "name": {
         "ko": "국내산 대파",
-        "en": "Korea green onions"
+        "en": "Korean Green Onions"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0009/main/main-1-8f9e093b.jpg",
       "default_model": null,
@@ -3227,7 +3227,7 @@
     "FD-VG-0010": {
       "name": {
         "ko": "국내산 브로콜리",
-        "en": "Korea broccoli"
+        "en": "Korean Broccoli"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0010/main/main-1-565e0831.jpg",
       "default_model": null,
@@ -3273,7 +3273,7 @@
     "FD-VG-0011": {
       "name": {
         "ko": "국내산 풋고추",
-        "en": "Korea green chili peppers"
+        "en": "Korean Green Chili Peppers"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0011/main/main-1-cd9b912b.jpg",
       "default_model": null,
@@ -3319,7 +3319,7 @@
     "FD-VG-0012": {
       "name": {
         "ko": "국내산 감자",
-        "en": "Korea potatoes"
+        "en": "Korean Potatoes"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0012/main/main-1-96498618.jpg",
       "default_model": null,
@@ -3365,7 +3365,7 @@
     "FD-VG-0013": {
       "name": {
         "ko": "국내산 세척 고구마",
-        "en": "Korea washed sweet potatoes"
+        "en": "Korean Washed Sweet Potatoes"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0013/main/main-1-0c45c7b9.jpg",
       "default_model": null,
@@ -3411,7 +3411,7 @@
     "FD-VG-0014": {
       "name": {
         "ko": "국내산 세척 당근",
-        "en": "Korea washed carrots"
+        "en": "Korean Washed Carrots"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0014/main/main-1-25f4d643.jpg",
       "default_model": null,
@@ -3457,7 +3457,7 @@
     "FD-VG-0015": {
       "name": {
         "ko": "국내산 마늘",
-        "en": "Korea garlic"
+        "en": "Korean Garlic"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0015/main/main-1-49b176a2.jpg",
       "default_model": null,
@@ -3503,7 +3503,7 @@
     "FD-VG-0016": {
       "name": {
         "ko": "국내산 세척 비트",
-        "en": "Korea washed beets"
+        "en": "Korean Washed Beets"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0016/main/main-1-69772a6c.jpg",
       "default_model": null,
@@ -3549,7 +3549,7 @@
     "FD-VG-0017": {
       "name": {
         "ko": "국내산 세척 주키니",
-        "en": "Korea washed zucchini"
+        "en": "Korean Washed Zucchini"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0017/main/main-1-a9432213.jpg",
       "default_model": null,
@@ -3595,7 +3595,7 @@
     "FD-VG-0018": {
       "name": {
         "ko": "국내산 세척 오이",
-        "en": "Korea washed cucumbers"
+        "en": "Korean Washed Cucumbers"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0018/main/main-1-5d5f6fc3.jpg",
       "default_model": null,
@@ -3641,7 +3641,7 @@
     "FD-VG-0019": {
       "name": {
         "ko": "국내산 가지",
-        "en": "Korea eggplants"
+        "en": "Korean Eggplants"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0019/main/main-1-ee2b6701.jpg",
       "default_model": null,
@@ -3687,7 +3687,7 @@
     "FD-VG-0020": {
       "name": {
         "ko": "국내산 세척 파프리카",
-        "en": "Korea washed bell peppers"
+        "en": "Korean Washed Bell Peppers"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0020/main/main-1-5ffdfdc6.jpg",
       "default_model": null,
@@ -3733,7 +3733,7 @@
     "FD-VG-0021": {
       "name": {
         "ko": "국내산 양송이버섯",
-        "en": "Korea button mushrooms"
+        "en": "Korean Button Mushrooms"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0021/main/main-1-1cb8f4c0.jpg",
       "default_model": null,
@@ -3779,7 +3779,7 @@
     "FD-VG-0022": {
       "name": {
         "ko": "국내산 콩나물",
-        "en": "Korea soybean sprouts"
+        "en": "Korean Soybean Sprouts"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0022/main/main-1-313a341a.jpg",
       "default_model": null,
@@ -3825,7 +3825,7 @@
     "FD-VG-0023": {
       "name": {
         "ko": "국내산 모둠샐러드",
-        "en": "Korea mixed salad greens"
+        "en": "Korean Mixed Salad Greens"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0023/main/main-1-6ee0706e.jpg",
       "default_model": null,
@@ -3871,7 +3871,7 @@
     "FD-VG-0024": {
       "name": {
         "ko": "국내산 삶은 나물",
-        "en": "Korea boiled greens"
+        "en": "Korean Blanched Namul Greens"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0024/main/main-1-19fac7ca.jpg",
       "default_model": null,
@@ -3917,7 +3917,7 @@
     "FD-VG-0025": {
       "name": {
         "ko": "국내산 감자 특",
-        "en": "Korea potatoes Premium"
+        "en": "Premium Korean Potatoes"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0025/main/main-1-96498618.jpg",
       "default_model": null,
@@ -3963,7 +3963,7 @@
     "FD-VG-0026": {
       "name": {
         "ko": "국내산 세척 고구마 특",
-        "en": "Korea washed sweet potatoes Premium"
+        "en": "Premium Korean Washed Sweet Potatoes"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0026/main/main-1-0c45c7b9.jpg",
       "default_model": null,
@@ -4009,7 +4009,7 @@
     "FD-VG-0027": {
       "name": {
         "ko": "국내산 세척 당근 특",
-        "en": "Korea washed carrots Premium"
+        "en": "Premium Korean Washed Carrots"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0027/main/main-1-25f4d643.jpg",
       "default_model": null,
@@ -4055,7 +4055,7 @@
     "FD-VG-0028": {
       "name": {
         "ko": "전남 양파",
-        "en": "Jeonnam onions"
+        "en": "Jeonnam Yellow Onions"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0028/main/main-1-9ccca7bf.jpg",
       "default_model": null,
@@ -4101,7 +4101,7 @@
     "FD-VG-0029": {
       "name": {
         "ko": "국내산 세척 청상추 특",
-        "en": "Korea washed green lettuce Premium"
+        "en": "Premium Korean Washed Green Leaf Lettuce"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0029/main/main-1-7267a699.jpg",
       "default_model": null,
@@ -4147,7 +4147,7 @@
     "FD-VG-0030": {
       "name": {
         "ko": "국내산 배추 특",
-        "en": "Korea napa cabbage Premium"
+        "en": "Premium Korean Napa Cabbage"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0030/main/main-1-363c2b15.jpg",
       "default_model": null,
@@ -4193,7 +4193,7 @@
     "FD-VG-0031": {
       "name": {
         "ko": "국내산 세척 오이 특",
-        "en": "Korea washed cucumbers Premium"
+        "en": "Premium Korean Washed Cucumbers"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0031/main/main-1-5d5f6fc3.jpg",
       "default_model": null,
@@ -4239,7 +4239,7 @@
     "FD-VG-0032": {
       "name": {
         "ko": "국내산 세척 파프리카 특",
-        "en": "Korea washed bell peppers Premium"
+        "en": "Premium Korean Washed Bell Peppers"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0032/main/main-1-5ffdfdc6.jpg",
       "default_model": null,
@@ -4285,7 +4285,7 @@
     "FD-VG-0033": {
       "name": {
         "ko": "국내산 브로콜리 특",
-        "en": "Korea broccoli Premium"
+        "en": "Premium Korean Broccoli"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0033/main/main-1-565e0831.jpg",
       "default_model": null,
@@ -4331,7 +4331,7 @@
     "FD-VG-0034": {
       "name": {
         "ko": "국내산 대파 특",
-        "en": "Korea green onions Premium"
+        "en": "Premium Korean Green Onions"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0034/main/main-1-8f9e093b.jpg",
       "default_model": null,
@@ -4377,7 +4377,7 @@
     "FD-VG-0035": {
       "name": {
         "ko": "국내산 마늘 특",
-        "en": "Korea garlic Premium"
+        "en": "Premium Korean Garlic"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0035/main/main-1-49b176a2.jpg",
       "default_model": null,
@@ -4423,7 +4423,7 @@
     "FD-VG-0036": {
       "name": {
         "ko": "국내산 가지 특",
-        "en": "Korea eggplants Premium"
+        "en": "Premium Korean Eggplants"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0036/main/main-1-ee2b6701.jpg",
       "default_model": null,
@@ -4469,7 +4469,7 @@
     "FD-VG-0037": {
       "name": {
         "ko": "국내산 시금치 특",
-        "en": "Korea spinach Premium"
+        "en": "Premium Korean Spinach"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0037/main/main-1-f735175a.jpg",
       "default_model": null,

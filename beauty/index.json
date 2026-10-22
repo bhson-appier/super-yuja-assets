@@ -2135,7 +2135,7 @@
     "BT-BM-0042": {
       "name": {
         "ko": "엘노아 컬러 코렉트 그린 베이스",
-        "en": "Elnoa Colour Correct Green Base"
+        "en": "Elnoa Color Correct Green Base"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0042/_/main-1-47fe4b33.jpg",
       "default_model": null,
@@ -3759,7 +3759,7 @@
     "BT-EM-0015": {
       "name": {
         "ko": "피쥬 워터 프루프 워터프루프 라이너",
-        "en": "Fizzu Water Proof Waterproof Liner"
+        "en": "Fizzu Waterproof Liner"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0015/_/main-1-0dfa3ed1.jpg",
       "default_model": null,
@@ -3899,7 +3899,7 @@
     "BT-EM-0020": {
       "name": {
         "ko": "피쥬 라인 컬러 라이너",
-        "en": "Fizzu Line Colour Liner"
+        "en": "Fizzu Line Color Liner"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0020/_/main-1-52f06c73.jpg",
       "default_model": null,
@@ -4011,7 +4011,7 @@
     "BT-EM-0024": {
       "name": {
         "ko": "피쥬 워터 프루프 워터프루프 마스카라",
-        "en": "Fizzu Water Proof Waterproof Mascara"
+        "en": "Fizzu Waterproof Mascara"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0024/_/main-1-5ea51f07.jpg",
       "default_model": null,
@@ -4095,7 +4095,7 @@
     "BT-EM-0027": {
       "name": {
         "ko": "피쥬 팝 컬러 마스카라",
-        "en": "Fizzu Pop Colour Mascara"
+        "en": "Fizzu Pop Color Mascara"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0027/_/main-1-882b5c41.jpg",
       "default_model": null,
@@ -4403,7 +4403,7 @@
     "BT-EM-0038": {
       "name": {
         "ko": "피쥬 컬러 브로우 마스카라",
-        "en": "Fizzu Colour Brow Mascara"
+        "en": "Fizzu Color Brow Mascara"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0038/_/main-1-d5b7987c.jpg",
       "default_model": null,
@@ -6895,7 +6895,7 @@
     "BT-LM-0022": {
       "name": {
         "ko": "피쥬 라이브 컬러 롱래스팅 틴트",
-        "en": "Fizzu Live Colour Long-lasting Tint"
+        "en": "Fizzu Live Color Long-lasting Tint"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0022/_/main-1-237eb6f2.jpg",
       "default_model": null,
@@ -7231,7 +7231,7 @@
     "BT-LM-0034": {
       "name": {
         "ko": "피쥬 윤광 베리 컬러 글로스",
-        "en": "Fizzu Lumi Berry Colour Gloss"
+        "en": "Fizzu Lumi Berry Color Gloss"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0034/_/main-1-93040974.jpg",
       "default_model": null,
@@ -7371,7 +7371,7 @@
     "BT-LM-0039": {
       "name": {
         "ko": "피쥬 컬러 프루프 롱래스팅 글로스",
-        "en": "Fizzu Colour Proof Long-lasting Gloss"
+        "en": "Fizzu Color Proof Long-lasting Gloss"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0039/_/main-1-bd2d5c53.jpg",
       "default_model": null,
@@ -7399,7 +7399,7 @@
     "BT-LM-0040": {
       "name": {
         "ko": "피쥬 밤 컬러 립밤",
-        "en": "Fizzu Colour Lip Balm"
+        "en": "Fizzu Color Lip Balm"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0040/_/main-1-82e240eb.jpg",
       "default_model": null,
@@ -8127,7 +8127,7 @@
     "BT-MP-0016": {
       "name": {
         "ko": "다피 베이직 시트 수분 마스크팩",
-        "en": "Dapi Basic Hydration Mask Sheet"
+        "en": "Dapi Basic Hydration Sheet Mask"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0016/_/main-1-5d72c90e.jpg",
       "default_model": null,
@@ -8155,7 +8155,7 @@
     "BT-MP-0017": {
       "name": {
         "ko": "다피 한 장 케어 진정 마스크팩",
-        "en": "Dapi One Care Soothing Mask Sheet"
+        "en": "Dapi One Care Soothing Sheet Mask"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0017/_/main-1-df6553a6.jpg",
       "default_model": null,
@@ -8183,7 +8183,7 @@
     "BT-MP-0018": {
       "name": {
         "ko": "다피 톡톡 팩 알로에 마스크팩",
-        "en": "Dapi Tok Tok Pack Aloe Mask Sheet"
+        "en": "Dapi Tok Tok Pack Aloe Sheet Mask"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0018/_/main-1-16708b5e.jpg",
       "default_model": null,
@@ -8211,7 +8211,7 @@
     "BT-MP-0019": {
       "name": {
         "ko": "다피 팩 비타 마스크팩",
-        "en": "Dapi Pack Vita Mask Sheet"
+        "en": "Dapi Pack Vita Sheet Mask"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0019/_/main-1-c01f7272.jpg",
       "default_model": null,
@@ -8239,7 +8239,7 @@
     "BT-MP-0020": {
       "name": {
         "ko": "다피 시트 녹차 마스크팩",
-        "en": "Dapi Green Tea Mask Sheet"
+        "en": "Dapi Green Tea Sheet Mask"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0020/_/main-1-5ec091c9.jpg",
       "default_model": null,
@@ -8267,7 +8267,7 @@
     "BT-MP-0021": {
       "name": {
         "ko": "다피 폭탄 수분 가득 마스크팩",
-        "en": "Dapi Water Burst Moisture Mask Sheet"
+        "en": "Dapi Water Burst Moisture Sheet Mask"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0021/_/main-1-66f720e5.jpg",
       "default_model": null,
@@ -8295,7 +8295,7 @@
     "BT-MP-0022": {
       "name": {
         "ko": "다피 시트러스 팩 유자 마스크팩",
-        "en": "Dapi Citrus Pack Yuzu Mask Sheet"
+        "en": "Dapi Citrus Pack Yuzu Sheet Mask"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0022/_/main-1-f5a281ef.jpg",
       "default_model": null,
@@ -8323,7 +8323,7 @@
     "BT-MP-0023": {
       "name": {
         "ko": "다피 시트 로즈 마스크팩",
-        "en": "Dapi Rose Mask Sheet"
+        "en": "Dapi Rose Sheet Mask"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0023/_/main-1-e5afebed.jpg",
       "default_model": null,
@@ -8351,7 +8351,7 @@
     "BT-MP-0024": {
       "name": {
         "ko": "다피 콜라겐 팩 쫀쫀 마스크팩",
-        "en": "Dapi Collagen Pack Bouncy Mask Sheet"
+        "en": "Dapi Collagen Pack Bouncy Sheet Mask"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0024/_/main-1-a92b74d9.jpg",
       "default_model": null,
@@ -8575,7 +8575,7 @@
     "BT-MP-0032": {
       "name": {
         "ko": "다피 팩 헤어 마스크 시트",
-        "en": "Dapi Pack Hair Mask Sheet"
+        "en": "Dapi Pack Hair Sheet Mask"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0032/_/main-1-42821e24.jpg",
       "default_model": null,
@@ -8911,7 +8911,7 @@
     "BT-NL-0009": {
       "name": {
         "ko": "피쥬 마무리 샷 컬러 탑코트",
-        "en": "Fizzu Finish Shot Colour Top Coat"
+        "en": "Fizzu Finish Shot Color Top Coat"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-NL-0009/_/main-1-54e63b3d.jpg",
       "default_model": null,
@@ -9107,7 +9107,7 @@
     "BT-NL-0016": {
       "name": {
         "ko": "다피 베이직 네일 컬러",
-        "en": "Dapi Basic Nail Colour"
+        "en": "Dapi Basic Nail Color"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-NL-0016/_/main-1-4885df34.jpg",
       "default_model": null,
@@ -9135,7 +9135,7 @@
     "BT-NL-0017": {
       "name": {
         "ko": "다피 네일 원컬러 폴리시",
-        "en": "Dapi Single Tone Nail One-colour Polish"
+        "en": "Dapi Single Tone Nail One-color Polish"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-NL-0017/_/main-1-b93eb58d.jpg",
       "default_model": null,
@@ -9163,7 +9163,7 @@
     "BT-NL-0018": {
       "name": {
         "ko": "다피 데일리 누드 네일 컬러",
-        "en": "Dapi Daily Nude Nail Colour"
+        "en": "Dapi Daily Nude Nail Color"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-NL-0018/_/main-1-60711e2e.jpg",
       "default_model": null,
@@ -9275,7 +9275,7 @@
     "BT-NL-0022": {
       "name": {
         "ko": "다피 데이 파스텔 네일 컬러",
-        "en": "Dapi Day Pastel Nail Colour"
+        "en": "Dapi Day Pastel Nail Color"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-NL-0022/_/main-1-91271885.jpg",
       "default_model": null,
@@ -9303,7 +9303,7 @@
     "BT-NL-0023": {
       "name": {
         "ko": "다피 데이 레드 네일 컬러",
-        "en": "Dapi Day Red Nail Colour"
+        "en": "Dapi Day Red Nail Color"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-NL-0023/_/main-1-271f2459.jpg",
       "default_model": null,
@@ -9331,7 +9331,7 @@
     "BT-NL-0024": {
       "name": {
         "ko": "다피 급속 속건 네일 컬러",
-        "en": "Dapi Rapid Quick-dry Nail Colour"
+        "en": "Dapi Rapid Quick-dry Nail Color"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-NL-0024/_/main-1-b1dae9c9.jpg",
       "default_model": null,
@@ -9359,7 +9359,7 @@
     "BT-NL-0025": {
       "name": {
         "ko": "다피 컬러 믹스 네일",
-        "en": "Dapi Colour Mix Nail"
+        "en": "Dapi Color Mix Nail"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-NL-0025/_/main-1-4e4c7b33.jpg",
       "default_model": null,
@@ -12187,7 +12187,7 @@
     "BT-SN-0001": {
       "name": {
         "ko": "누베드라 데일리 마일드 선크림",
-        "en": "Nuvedra Daily Mild Sun Cream"
+        "en": "Nuvedra Daily Mild Sunscreen Cream"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0001/_/main-1-373ee428.jpg",
       "default_model": null,
@@ -12215,7 +12215,7 @@
     "BT-SN-0002": {
       "name": {
         "ko": "엘노아 에어리 선 로션",
-        "en": "Elnoa Airy Sun Lotion"
+        "en": "Elnoa Airy Sunscreen Lotion"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0002/_/main-1-fbfbc5b7.jpg",
       "default_model": null,
@@ -12243,7 +12243,7 @@
     "BT-SN-0003": {
       "name": {
         "ko": "누베드라 데일리 마일드 무기자차 선 밀크",
-        "en": "Nuvedra Daily Mild Mineral Sun Milk"
+        "en": "Nuvedra Daily Mild Mineral Sunscreen Milk"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0003/_/main-1-07a4e246.jpg",
       "default_model": null,
@@ -12271,7 +12271,7 @@
     "BT-SN-0004": {
       "name": {
         "ko": "누베드라 시카 쉴드 수딩 선 젤",
-        "en": "Nuvedra Cica Shield Soothing Sun Gel"
+        "en": "Nuvedra Cica Shield Soothing Sunscreen Gel"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0004/_/main-1-1c92a7ad.jpg",
       "default_model": null,
@@ -12299,7 +12299,7 @@
     "BT-SN-0005": {
       "name": {
         "ko": "누베드라 데일리 에어 에어리 선 플루이드",
-        "en": "Nuvedra Daily Air Airy Sun Fluid"
+        "en": "Nuvedra Daily Air Airy Sunscreen Fluid"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0005/_/main-1-8c1ac5fd.jpg",
       "default_model": null,
@@ -12327,7 +12327,7 @@
     "BT-SN-0006": {
       "name": {
         "ko": "누베드라 마일드 톤업 선크림",
-        "en": "Nuvedra Mild Tone Up Tone-up Sun Cream"
+        "en": "Nuvedra Mild Tone-up Sunscreen Cream"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0006/_/main-1-cc72f053.jpg",
       "default_model": null,
@@ -12355,7 +12355,7 @@
     "BT-SN-0007": {
       "name": {
         "ko": "누베드라 배리어 데이 보습 선 크림",
-        "en": "Nuvedra Barrier Day Hydrating Sun Cream"
+        "en": "Nuvedra Barrier Day Hydrating Sunscreen Cream"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0007/_/main-1-30fd76a2.jpg",
       "default_model": null,
@@ -12383,7 +12383,7 @@
     "BT-SN-0008": {
       "name": {
         "ko": "누베드라 퓨어 쉴드 선 스틱",
-        "en": "Nuvedra Pure Shield Sun Stick"
+        "en": "Nuvedra Pure Shield Sunscreen Stick"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0008/_/main-1-f0451f17.jpg",
       "default_model": null,
@@ -12411,7 +12411,7 @@
     "BT-SN-0009": {
       "name": {
         "ko": "누베드라 쿨 프로텍트 선 쿠션",
-        "en": "Nuvedra Cool Protect Sun Cushion"
+        "en": "Nuvedra Cool Protect Sunscreen Cushion"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0009/_/main-1-ebf1c314.jpg",
       "default_model": null,
@@ -12439,7 +12439,7 @@
     "BT-SN-0010": {
       "name": {
         "ko": "누베드라 라이트 핏 수분 선 에센스",
-        "en": "Nuvedra Light Fit Hydro Sun Essence"
+        "en": "Nuvedra Light Fit Hydro Sunscreen Essence"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0010/_/main-1-5c7cbd91.jpg",
       "default_model": null,
@@ -12467,7 +12467,7 @@
     "BT-SN-0011": {
       "name": {
         "ko": "누베드라 데일리 클리어 무자극 선 로션",
-        "en": "Nuvedra Daily Clear Gentle Sun Lotion"
+        "en": "Nuvedra Daily Clear Gentle Sunscreen Lotion"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0011/_/main-1-fdf13b89.jpg",
       "default_model": null,
@@ -12495,7 +12495,7 @@
     "BT-SN-0012": {
       "name": {
         "ko": "누베드라 마린 쉴드 워터프루프 선 젤",
-        "en": "Nuvedra Marine Shield Water-resistant Sun Gel"
+        "en": "Nuvedra Marine Shield Water-resistant Sunscreen Gel"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0012/_/main-1-d98fbf3e.jpg",
       "default_model": null,
@@ -12523,7 +12523,7 @@
     "BT-SN-0013": {
       "name": {
         "ko": "누베드라 소프트 데이 선 세럼",
-        "en": "Nuvedra Soft Day Sun Serum"
+        "en": "Nuvedra Soft Day Sunscreen Serum"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0013/_/main-1-752fc068.jpg",
       "default_model": null,
@@ -12551,7 +12551,7 @@
     "BT-SN-0014": {
       "name": {
         "ko": "누베드라 시카 데일리 선 크림",
-        "en": "Nuvedra Cica Daily Sun Cream"
+        "en": "Nuvedra Cica Daily Sunscreen Cream"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0014/_/main-1-ab5d7ff8.jpg",
       "default_model": null,
@@ -12579,7 +12579,7 @@
     "BT-SN-0015": {
       "name": {
         "ko": "누베드라 에센셜 쉴드 선 패드",
-        "en": "Nuvedra Essential Shield Sun Pad"
+        "en": "Nuvedra Essential Shield Sunscreen Pad"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0015/_/main-1-7f5c1b07.jpg",
       "default_model": null,
@@ -12635,7 +12635,7 @@
     "BT-SN-0017": {
       "name": {
         "ko": "엘노아 에어리 선 에센스",
-        "en": "Elnoa Airy Sun Essence"
+        "en": "Elnoa Airy Sunscreen Essence"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0017/_/main-1-f662ecce.jpg",
       "default_model": null,
@@ -12663,7 +12663,7 @@
     "BT-SN-0018": {
       "name": {
         "ko": "엘노아 베이스 쉴드 톤업 선크림",
-        "en": "Elnoa Base Shield Tone-up Sun Cream"
+        "en": "Elnoa Base Shield Tone-up Sunscreen Cream"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0018/_/main-1-10c04065.jpg",
       "default_model": null,
@@ -12691,7 +12691,7 @@
     "BT-SN-0019": {
       "name": {
         "ko": "엘노아 소프트 베일 무기자차 선 로션",
-        "en": "Elnoa Soft Veil Mineral Sun Lotion"
+        "en": "Elnoa Soft Veil Mineral Sunscreen Lotion"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0019/_/main-1-89d5594a.jpg",
       "default_model": null,
@@ -12719,7 +12719,7 @@
     "BT-SN-0020": {
       "name": {
         "ko": "엘노아 프라임 데이 프라이머 선크림",
-        "en": "Elnoa Prime Day Primer Sun Cream"
+        "en": "Elnoa Prime Day Primer Sunscreen Cream"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0020/_/main-1-d7f53807.jpg",
       "default_model": null,
@@ -12747,7 +12747,7 @@
     "BT-SN-0021": {
       "name": {
         "ko": "엘노아 리얼 핏 선 스틱",
-        "en": "Elnoa Real Fit Sun Stick"
+        "en": "Elnoa Real Fit Sunscreen Stick"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0021/_/main-1-8818b713.jpg",
       "default_model": null,
@@ -12775,7 +12775,7 @@
     "BT-SN-0022": {
       "name": {
         "ko": "엘노아 라이트 마스크 선 쿠션",
-        "en": "Elnoa Light Mask Sun Cushion"
+        "en": "Elnoa Light Mask Sunscreen Cushion"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0022/_/main-1-65f1f79f.jpg",
       "default_model": null,
@@ -12803,7 +12803,7 @@
     "BT-SN-0023": {
       "name": {
         "ko": "엘노아 캔버스 데이 선 프라이머",
-        "en": "Elnoa Canvas Day Sun Primer"
+        "en": "Elnoa Canvas Day Sunscreen Primer"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0023/_/main-1-e13cc144.jpg",
       "default_model": null,
@@ -12831,7 +12831,7 @@
     "BT-SN-0024": {
       "name": {
         "ko": "엘노아 맨즈 데일리 무광 선 로션",
-        "en": "Elnoa Daily Clear Matte Sun Lotion"
+        "en": "Elnoa Daily Clear Matte Sunscreen Lotion"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0024/_/main-1-60c6c6ad.jpg",
       "default_model": null,
@@ -12859,7 +12859,7 @@
     "BT-SN-0025": {
       "name": {
         "ko": "엘노아 베이직 밸런스 선 크림",
-        "en": "Elnoa Basic Balance Sun Cream"
+        "en": "Elnoa Basic Balance Sunscreen Cream"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0025/_/main-1-5d15093b.jpg",
       "default_model": null,
@@ -12887,7 +12887,7 @@
     "BT-SN-0026": {
       "name": {
         "ko": "엘노아 윤광 핏 광채 선 베이스",
-        "en": "Elnoa Lumi Fit Radiance Sun Base"
+        "en": "Elnoa Lumi Fit Radiance Sunscreen Base"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0026/_/main-1-10fc7cae.jpg",
       "default_model": null,
@@ -12915,7 +12915,7 @@
     "BT-SN-0027": {
       "name": {
         "ko": "엘노아 소프트 세팅 선 파우더",
-        "en": "Elnoa Soft Setting Sun Powder"
+        "en": "Elnoa Soft Setting Sunscreen Powder"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0027/_/main-1-2c986068.jpg",
       "default_model": null,
@@ -12943,7 +12943,7 @@
     "BT-SN-0028": {
       "name": {
         "ko": "엘노아 트루 쉴드 내추럴 선 로션",
-        "en": "Elnoa True Shield Natural Sun Lotion"
+        "en": "Elnoa True Shield Natural Sunscreen Lotion"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0028/_/main-1-a13a064f.jpg",
       "default_model": null,
@@ -12971,7 +12971,7 @@
     "BT-SN-0029": {
       "name": {
         "ko": "엘노아 베일 투명 선 젤",
-        "en": "Elnoa Veil Clear Sun Gel"
+        "en": "Elnoa Veil Clear Sunscreen Gel"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0029/_/main-1-1715a7cb.jpg",
       "default_model": null,
@@ -12999,7 +12999,7 @@
     "BT-SN-0030": {
       "name": {
         "ko": "엘노아 데이 오프 쿨링 선 스프레이",
-        "en": "Elnoa Day Off Cooling Sun Spray"
+        "en": "Elnoa Day Off Cooling Sunscreen Spray"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0030/_/main-1-d97e0140.jpg",
       "default_model": null,
@@ -13251,7 +13251,7 @@
     "BT-TL-0009": {
       "name": {
         "ko": "다피 세안 데이 세안용 헤어밴드",
-        "en": "Dapi Cleanse Day Wash Hairband"
+        "en": "Dapi Cleanse Day Wash Headband"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-TL-0009/_/main-1-ce4b9bdc.jpg",
       "default_model": null,
@@ -13279,7 +13279,7 @@
     "BT-TL-0010": {
       "name": {
         "ko": "다피 소프트 링 헤어 타이 10P",
-        "en": "Dapi Soft Ring Hair Ties 10P"
+        "en": "Dapi Soft Ring Hair Ties 10-Pack"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-TL-0010/_/main-1-b30d62f4.jpg",
       "default_model": null,
@@ -13391,7 +13391,7 @@
     "BT-TL-0014": {
       "name": {
         "ko": "다피 데일리 화장솜 200매",
-        "en": "Dapi Daily Cotton Pads 200"
+        "en": "Dapi Daily Cotton Pads, 200 Count"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-TL-0014/_/main-1-86db68b5.jpg",
       "default_model": null,
@@ -13615,7 +13615,7 @@
     "BT-TL-0022": {
       "name": {
         "ko": "다피 롤 업 헤어롤 6P",
-        "en": "Dapi Roll Up Hair Rollers 6P"
+        "en": "Dapi Roll Up Hair Rollers 6-Pack"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-TL-0022/_/main-1-b4b142e9.jpg",
       "default_model": null,
@@ -13839,7 +13839,7 @@
     "BT-TL-0030": {
       "name": {
         "ko": "유조이 버니 데이 토끼 헤어밴드",
-        "en": "Yujoy Hop Day Bunny Hairband"
+        "en": "Yujoy Hop Day Bunny Headband"
       },
       "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-TL-0030/_/main-1-bab797ac.jpg",
       "default_model": null,
