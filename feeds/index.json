@@ -1,6 +1,6 @@
 {
   "base_url": "https://bhson-appier.github.io/super-yuja-assets/feeds/",
-  "url_form": "feeds/enterprise-<vertical>.csv, and feeds/enterprise-all.csv = every vertical in one file (Enterprise format; BotBonnie uses it too)",
+  "url_form": "feeds/enterprise-<vertical>.csv, and feeds/enterprise-all.csv = every vertical in one file (Enterprise format; BotBonnie uses it too); the same with _en (enterprise-<vertical>_en.csv, enterprise-all_en.csv) = in English, prices in US dollars",
   "also_at": "https://super.yuja.dev/feeds/<file> (the demo site serves the same files)",
   "note": "Product feeds of a demo shop (수퍼유자), not a real store: CSV, UTF-8 without BOM, open verticals only. A file changes in place when the catalog changes; a vertical taken off the site loses its files at once.",
   "files": [
@@ -8,37 +8,81 @@
       "name": "enterprise-beauty.csv",
       "format": "enterprise",
       "vertical": "beauty",
+      "locale": "ko",
       "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-beauty.csv",
       "rows": 500,
       "bytes": 225938,
       "sha256": "3810b589c508926cd882d49807847af9c435d13e61afdfc7161b37edc3788669"
     },
     {
+      "name": "enterprise-beauty_en.csv",
+      "format": "enterprise",
+      "vertical": "beauty",
+      "locale": "en",
+      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-beauty_en.csv",
+      "rows": 500,
+      "bytes": 210526,
+      "sha256": "5f4931f89c0ad1d5b6b225f4c88ff037f7fbfed355915dae80d7b6d6372168ec"
+    },
+    {
       "name": "enterprise-fashion.csv",
       "format": "enterprise",
       "vertical": "fashion",
+      "locale": "ko",
       "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-fashion.csv",
       "rows": 500,
       "bytes": 243984,
       "sha256": "8a098dbece2e787f1c93891aea1dfc8d8c9eaeaeaf67740d16bca1cc0e73191c"
     },
     {
+      "name": "enterprise-fashion_en.csv",
+      "format": "enterprise",
+      "vertical": "fashion",
+      "locale": "en",
+      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-fashion_en.csv",
+      "rows": 500,
+      "bytes": 226112,
+      "sha256": "be9865a8f66477b618af1cf72775adb600805ba03bdb4582f446902d842565ce"
+    },
+    {
       "name": "enterprise-food.csv",
       "format": "enterprise",
       "vertical": "food",
+      "locale": "ko",
       "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-food.csv",
       "rows": 98,
       "bytes": 42512,
       "sha256": "ba8da4e42ba99ce4f0386957c722d53955403dec6ab86b92a0e1ea84d8b9dffc"
     },
     {
+      "name": "enterprise-food_en.csv",
+      "format": "enterprise",
+      "vertical": "food",
+      "locale": "en",
+      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-food_en.csv",
+      "rows": 98,
+      "bytes": 40581,
+      "sha256": "3403e8d23ec15900ec446e6b17fbf042d5fda062cf72008f3f5b0ee6eae653ef"
+    },
+    {
       "name": "enterprise-all.csv",
       "format": "enterprise",
       "vertical": "all",
+      "locale": "ko",
       "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-all.csv",
       "rows": 1098,
       "bytes": 512018,
       "sha256": "7c0572cff6b181c2c94c7162bbf1437a46d1f09a3bb700eb0247e6d91af3c2c9"
+    },
+    {
+      "name": "enterprise-all_en.csv",
+      "format": "enterprise",
+      "vertical": "all",
+      "locale": "en",
+      "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-all_en.csv",
+      "rows": 1098,
+      "bytes": 476803,
+      "sha256": "e2db808dda963f02aee0d2197335f8f7ebc98b3c6a606bdf0a2800a580bce845"
     }
   ]
 }

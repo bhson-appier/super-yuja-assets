@@ -42,9 +42,13 @@ https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-<버티컬>.cs
 ```
 
 - [enterprise-beauty.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-beauty.csv) · 상품 500개
+- [enterprise-beauty_en.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-beauty_en.csv) · 상품 500개
 - [enterprise-fashion.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-fashion.csv) · 상품 500개
+- [enterprise-fashion_en.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-fashion_en.csv) · 상품 500개
 - [enterprise-food.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-food.csv) · 상품 98개
+- [enterprise-food_en.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-food_en.csv) · 상품 98개
 - [enterprise-all.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-all.csv) · 상품 1098개
+- [enterprise-all_en.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-all_en.csv) · 상품 1098개
 
 - 같은 파일을 `https://super.yuja.dev/feeds/<파일>`에서도 받을 수 있습니다(데모 사이트가 직접 내보냄).
 - 목록·행 수·SHA-256: `feeds/index.json`. 공개를 멈춘 버티컬의 피드는 바로 지웁니다.
