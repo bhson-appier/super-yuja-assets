@@ -2469,6 +2469,818 @@
         }
       ]
     },
+    "BT-BM-0051": {
+      "name": {
+        "ko": "엘노아 래디언트 모이스트 윤광 쿠션",
+        "en": "Elnoa Radiant Moist Lumi Cushion"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0051/tmp/main-1-cd6a2973.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0051/tmp/main-1-cd6a2973.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0051-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0051/tmp/main-1-cd6a2973-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0051/tmp/main-1-cd6a2973-w960.webp"
+          },
+          "path": "beauty/BT-BM-0051/tmp/main-1-cd6a2973.jpg",
+          "sha256": "cd6a2973c979f42ef25883e6e9ccbee9f0b5c1f644d3b62ba781e820acff833d",
+          "bytes": 72381,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0052": {
+      "name": {
+        "ko": "엘노아 세미 컨트롤 매트 쿠션",
+        "en": "Elnoa Semi Control Matte Cushion"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0052/tmp/main-1-cd6a2973.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0052/tmp/main-1-cd6a2973.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0052-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0052/tmp/main-1-cd6a2973-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0052/tmp/main-1-cd6a2973-w960.webp"
+          },
+          "path": "beauty/BT-BM-0052/tmp/main-1-cd6a2973.jpg",
+          "sha256": "cd6a2973c979f42ef25883e6e9ccbee9f0b5c1f644d3b62ba781e820acff833d",
+          "bytes": 72381,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0053": {
+      "name": {
+        "ko": "벨모라 실크 윤광 쿠션",
+        "en": "Velmora Silk Lumi Cushion"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0053/tmp/main-1-f3d7acfa.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0053/tmp/main-1-f3d7acfa.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0053-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0053/tmp/main-1-f3d7acfa-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0053/tmp/main-1-f3d7acfa-w960.webp"
+          },
+          "path": "beauty/BT-BM-0053/tmp/main-1-f3d7acfa.jpg",
+          "sha256": "f3d7acfa457b0f6a17877d8177daad8760569a7c6ac6e28016e2553ce96c8b0e",
+          "bytes": 65071,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0054": {
+      "name": {
+        "ko": "엘노아 에어 매트 쿠션",
+        "en": "Elnoa Air Matte Cushion"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0054/tmp/main-1-cd6a2973.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0054/tmp/main-1-cd6a2973.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0054-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0054/tmp/main-1-cd6a2973-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0054/tmp/main-1-cd6a2973-w960.webp"
+          },
+          "path": "beauty/BT-BM-0054/tmp/main-1-cd6a2973.jpg",
+          "sha256": "cd6a2973c979f42ef25883e6e9ccbee9f0b5c1f644d3b62ba781e820acff833d",
+          "bytes": 72381,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0055": {
+      "name": {
+        "ko": "엘노아 핏 커버 컨실러",
+        "en": "Elnoa Fit Cover Concealer"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0055/tmp/main-1-f3539556.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0055/tmp/main-1-f3539556.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0055-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0055/tmp/main-1-f3539556-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0055/tmp/main-1-f3539556-w960.webp"
+          },
+          "path": "beauty/BT-BM-0055/tmp/main-1-f3539556.jpg",
+          "sha256": "f35395562eee86fafaf923d5d15031977fc52e421077475531cb78c0dbe9dd19",
+          "bytes": 59973,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0056": {
+      "name": {
+        "ko": "엘노아 라이트 커버 리퀴드 컨실러",
+        "en": "Elnoa Light Cover Liquid Concealer"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0056/tmp/main-1-f3539556.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0056/tmp/main-1-f3539556.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0056-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0056/tmp/main-1-f3539556-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0056/tmp/main-1-f3539556-w960.webp"
+          },
+          "path": "beauty/BT-BM-0056/tmp/main-1-f3539556.jpg",
+          "sha256": "f35395562eee86fafaf923d5d15031977fc52e421077475531cb78c0dbe9dd19",
+          "bytes": 59973,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0057": {
+      "name": {
+        "ko": "엘노아 스팟 커버 스틱 컨실러",
+        "en": "Elnoa Spot Cover Stick Concealer"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0057/tmp/main-1-de0119b7.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0057/tmp/main-1-de0119b7.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0057-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0057/tmp/main-1-de0119b7-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0057/tmp/main-1-de0119b7-w960.webp"
+          },
+          "path": "beauty/BT-BM-0057/tmp/main-1-de0119b7.jpg",
+          "sha256": "de0119b7b87e7ea96b3694caeb0f1d656d2e102af991b5bfb271f57aceb506e2",
+          "bytes": 56332,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0058": {
+      "name": {
+        "ko": "엘노아 소프트 매트 크림 컨실러",
+        "en": "Elnoa Soft Matte Cream Concealer"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0058/tmp/main-1-f3539556.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0058/tmp/main-1-f3539556.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0058-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0058/tmp/main-1-f3539556-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0058/tmp/main-1-f3539556-w960.webp"
+          },
+          "path": "beauty/BT-BM-0058/tmp/main-1-f3539556.jpg",
+          "sha256": "f35395562eee86fafaf923d5d15031977fc52e421077475531cb78c0dbe9dd19",
+          "bytes": 59973,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0059": {
+      "name": {
+        "ko": "벨모라 실크 커버 컨실러",
+        "en": "Velmora Silk Cover Concealer"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0059/tmp/main-1-e1c9617d.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0059/tmp/main-1-e1c9617d.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0059-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0059/tmp/main-1-e1c9617d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0059/tmp/main-1-e1c9617d-w960.webp"
+          },
+          "path": "beauty/BT-BM-0059/tmp/main-1-e1c9617d.jpg",
+          "sha256": "e1c9617dbc612b0aab868db15aeae05ca3fcef0c646421e9aa3cdca99aa0f4fc",
+          "bytes": 56104,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0060": {
+      "name": {
+        "ko": "벨모라 오로라 커버 리퀴드 컨실러",
+        "en": "Velmora Aurora Cover Liquid Concealer"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0060/tmp/main-1-e1c9617d.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0060/tmp/main-1-e1c9617d.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0060-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0060/tmp/main-1-e1c9617d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0060/tmp/main-1-e1c9617d-w960.webp"
+          },
+          "path": "beauty/BT-BM-0060/tmp/main-1-e1c9617d.jpg",
+          "sha256": "e1c9617dbc612b0aab868db15aeae05ca3fcef0c646421e9aa3cdca99aa0f4fc",
+          "bytes": 56104,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0061": {
+      "name": {
+        "ko": "엘노아 로즈 베일 블러셔",
+        "en": "Elnoa Rose Veil Blusher"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0061/tmp/main-1-cd6a2973.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0061/tmp/main-1-cd6a2973.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0061-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0061/tmp/main-1-cd6a2973-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0061/tmp/main-1-cd6a2973-w960.webp"
+          },
+          "path": "beauty/BT-BM-0061/tmp/main-1-cd6a2973.jpg",
+          "sha256": "cd6a2973c979f42ef25883e6e9ccbee9f0b5c1f644d3b62ba781e820acff833d",
+          "bytes": 72381,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0062": {
+      "name": {
+        "ko": "벨모라 오로라 윤광 치크",
+        "en": "Velmora Aurora Lumi Radiant Cheek"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0062/tmp/main-1-630c2563.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0062/tmp/main-1-630c2563.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0062-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0062/tmp/main-1-630c2563-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0062/tmp/main-1-630c2563-w960.webp"
+          },
+          "path": "beauty/BT-BM-0062/tmp/main-1-630c2563.jpg",
+          "sha256": "630c25630c78c8705e3e5cc478be982c3a897e98286eac1defc279ba4e79b04f",
+          "bytes": 57620,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0063": {
+      "name": {
+        "ko": "엘노아 데일리 핑크 치크 블러셔",
+        "en": "Elnoa Daily Pink Cheek Blusher"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0063/tmp/main-1-cd6a2973.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0063/tmp/main-1-cd6a2973.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0063-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0063/tmp/main-1-cd6a2973-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0063/tmp/main-1-cd6a2973-w960.webp"
+          },
+          "path": "beauty/BT-BM-0063/tmp/main-1-cd6a2973.jpg",
+          "sha256": "cd6a2973c979f42ef25883e6e9ccbee9f0b5c1f644d3b62ba781e820acff833d",
+          "bytes": 72381,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0064": {
+      "name": {
+        "ko": "엘노아 코랄 데이 크림 블러셔",
+        "en": "Elnoa Coral Day Cream Blusher"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0064/tmp/main-1-73f88ad7.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0064/tmp/main-1-73f88ad7.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0064-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0064/tmp/main-1-73f88ad7-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0064/tmp/main-1-73f88ad7-w960.webp"
+          },
+          "path": "beauty/BT-BM-0064/tmp/main-1-73f88ad7.jpg",
+          "sha256": "73f88ad7641b68503b2902b5751f3845e04c3393982de34413507a6fdcec830e",
+          "bytes": 60993,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0065": {
+      "name": {
+        "ko": "엘노아 치크 누드 블러셔",
+        "en": "Elnoa Cheek Nude Blusher"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0065/tmp/main-1-cd6a2973.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0065/tmp/main-1-cd6a2973.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0065-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0065/tmp/main-1-cd6a2973-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0065/tmp/main-1-cd6a2973-w960.webp"
+          },
+          "path": "beauty/BT-BM-0065/tmp/main-1-cd6a2973.jpg",
+          "sha256": "cd6a2973c979f42ef25883e6e9ccbee9f0b5c1f644d3b62ba781e820acff833d",
+          "bytes": 72381,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0066": {
+      "name": {
+        "ko": "벨모라 치크 벨벳 블러셔",
+        "en": "Velmora Cheek Velvet Blusher"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0066/tmp/main-1-f3d7acfa.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0066/tmp/main-1-f3d7acfa.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0066-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0066/tmp/main-1-f3d7acfa-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0066/tmp/main-1-f3d7acfa-w960.webp"
+          },
+          "path": "beauty/BT-BM-0066/tmp/main-1-f3d7acfa.jpg",
+          "sha256": "f3d7acfa457b0f6a17877d8177daad8760569a7c6ac6e28016e2553ce96c8b0e",
+          "bytes": 65071,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0067": {
+      "name": {
+        "ko": "엘노아 블러시 스틱",
+        "en": "Elnoa Blush Stick"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0067/tmp/main-1-de0119b7.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0067/tmp/main-1-de0119b7.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0067-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0067/tmp/main-1-de0119b7-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0067/tmp/main-1-de0119b7-w960.webp"
+          },
+          "path": "beauty/BT-BM-0067/tmp/main-1-de0119b7.jpg",
+          "sha256": "de0119b7b87e7ea96b3694caeb0f1d656d2e102af991b5bfb271f57aceb506e2",
+          "bytes": 56332,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0068": {
+      "name": {
+        "ko": "엘노아 소프트 블러 치크",
+        "en": "Elnoa Soft Blur Cheek"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0068/tmp/main-1-cd6a2973.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0068/tmp/main-1-cd6a2973.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0068-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0068/tmp/main-1-cd6a2973-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0068/tmp/main-1-cd6a2973-w960.webp"
+          },
+          "path": "beauty/BT-BM-0068/tmp/main-1-cd6a2973.jpg",
+          "sha256": "cd6a2973c979f42ef25883e6e9ccbee9f0b5c1f644d3b62ba781e820acff833d",
+          "bytes": 72381,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0069": {
+      "name": {
+        "ko": "벨모라 로제 리추얼 치크 파우더",
+        "en": "Velmora Rose Ritual Cheek Powder"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0069/tmp/main-1-f3d7acfa.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0069/tmp/main-1-f3d7acfa.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0069-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0069/tmp/main-1-f3d7acfa-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0069/tmp/main-1-f3d7acfa-w960.webp"
+          },
+          "path": "beauty/BT-BM-0069/tmp/main-1-f3d7acfa.jpg",
+          "sha256": "f3d7acfa457b0f6a17877d8177daad8760569a7c6ac6e28016e2553ce96c8b0e",
+          "bytes": 65071,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0070": {
+      "name": {
+        "ko": "엘노아 핑크 핏 리퀴드 블러셔",
+        "en": "Elnoa Pink Fit Liquid Blusher"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0070/tmp/main-1-f3539556.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0070/tmp/main-1-f3539556.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0070-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0070/tmp/main-1-f3539556-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0070/tmp/main-1-f3539556-w960.webp"
+          },
+          "path": "beauty/BT-BM-0070/tmp/main-1-f3539556.jpg",
+          "sha256": "f35395562eee86fafaf923d5d15031977fc52e421077475531cb78c0dbe9dd19",
+          "bytes": 59973,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0071": {
+      "name": {
+        "ko": "엘노아 윤광 핏 하이라이터",
+        "en": "Elnoa Lumi Fit Highlighter"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0071/tmp/main-1-cd6a2973.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0071/tmp/main-1-cd6a2973.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0071-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0071/tmp/main-1-cd6a2973-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0071/tmp/main-1-cd6a2973-w960.webp"
+          },
+          "path": "beauty/BT-BM-0071/tmp/main-1-cd6a2973.jpg",
+          "sha256": "cd6a2973c979f42ef25883e6e9ccbee9f0b5c1f644d3b62ba781e820acff833d",
+          "bytes": 72381,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0072": {
+      "name": {
+        "ko": "벨모라 소프트 쉐딩 파우더",
+        "en": "Velmora Soft Shading Powder"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0072/tmp/main-1-f3d7acfa.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0072/tmp/main-1-f3d7acfa.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0072-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0072/tmp/main-1-f3d7acfa-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0072/tmp/main-1-f3d7acfa-w960.webp"
+          },
+          "path": "beauty/BT-BM-0072/tmp/main-1-f3d7acfa.jpg",
+          "sha256": "f3d7acfa457b0f6a17877d8177daad8760569a7c6ac6e28016e2553ce96c8b0e",
+          "bytes": 65071,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0073": {
+      "name": {
+        "ko": "엘노아 윤광 리퀴드 하이라이터",
+        "en": "Elnoa Lumi Liquid Highlighter"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0073/tmp/main-1-f3539556.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0073/tmp/main-1-f3539556.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0073-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0073/tmp/main-1-f3539556-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0073/tmp/main-1-f3539556-w960.webp"
+          },
+          "path": "beauty/BT-BM-0073/tmp/main-1-f3539556.jpg",
+          "sha256": "f35395562eee86fafaf923d5d15031977fc52e421077475531cb78c0dbe9dd19",
+          "bytes": 59973,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0074": {
+      "name": {
+        "ko": "엘노아 하이라이트 스틱",
+        "en": "Elnoa Highlight Stick"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0074/tmp/main-1-de0119b7.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0074/tmp/main-1-de0119b7.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0074-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0074/tmp/main-1-de0119b7-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0074/tmp/main-1-de0119b7-w960.webp"
+          },
+          "path": "beauty/BT-BM-0074/tmp/main-1-de0119b7.jpg",
+          "sha256": "de0119b7b87e7ea96b3694caeb0f1d656d2e102af991b5bfb271f57aceb506e2",
+          "bytes": 56332,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0075": {
+      "name": {
+        "ko": "벨모라 오로라 하이라이트 하이라이터",
+        "en": "Velmora Aurora Highlight Highlighter"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0075/tmp/main-1-f3d7acfa.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0075/tmp/main-1-f3d7acfa.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0075-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0075/tmp/main-1-f3d7acfa-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0075/tmp/main-1-f3d7acfa-w960.webp"
+          },
+          "path": "beauty/BT-BM-0075/tmp/main-1-f3d7acfa.jpg",
+          "sha256": "f3d7acfa457b0f6a17877d8177daad8760569a7c6ac6e28016e2553ce96c8b0e",
+          "bytes": 65071,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0076": {
+      "name": {
+        "ko": "엘노아 윤곽 핏 쉐딩 스틱",
+        "en": "Elnoa Contour Fit Shading Stick"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0076/tmp/main-1-de0119b7.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0076/tmp/main-1-de0119b7.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0076-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0076/tmp/main-1-de0119b7-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0076/tmp/main-1-de0119b7-w960.webp"
+          },
+          "path": "beauty/BT-BM-0076/tmp/main-1-de0119b7.jpg",
+          "sha256": "de0119b7b87e7ea96b3694caeb0f1d656d2e102af991b5bfb271f57aceb506e2",
+          "bytes": 56332,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0077": {
+      "name": {
+        "ko": "엘노아 데일리 쉐이드 쉐딩 파우더",
+        "en": "Elnoa Daily Shade Shading Powder"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0077/tmp/main-1-cd6a2973.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0077/tmp/main-1-cd6a2973.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0077-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0077/tmp/main-1-cd6a2973-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0077/tmp/main-1-cd6a2973-w960.webp"
+          },
+          "path": "beauty/BT-BM-0077/tmp/main-1-cd6a2973.jpg",
+          "sha256": "cd6a2973c979f42ef25883e6e9ccbee9f0b5c1f644d3b62ba781e820acff833d",
+          "bytes": 72381,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-BM-0078": {
+      "name": {
+        "ko": "벨모라 골드 베일 펄 하이라이터",
+        "en": "Velmora Gold Veil Pearl Highlighter"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0078/tmp/main-1-630c2563.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0078/tmp/main-1-630c2563.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-BM-0078-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0078/tmp/main-1-630c2563-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-BM-0078/tmp/main-1-630c2563-w960.webp"
+          },
+          "path": "beauty/BT-BM-0078/tmp/main-1-630c2563.jpg",
+          "sha256": "630c25630c78c8705e3e5cc478be982c3a897e98286eac1defc279ba4e79b04f",
+          "bytes": 57620,
+          "digital_source_type": null
+        }
+      ]
+    },
     "BT-CL-0001": {
       "name": {
         "ko": "누베드라 마일드 젠틀 폼 클렌저",
@@ -4644,6 +5456,122 @@
         }
       ]
     },
+    "BT-EM-0041": {
+      "name": {
+        "ko": "피쥬 핑크 누드 섀도 팔레트",
+        "en": "Fizzu Pink Nude Shadow Palette"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0041/tmp/main-1-65caf4fe.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0041/tmp/main-1-65caf4fe.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-EM-0041-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0041/tmp/main-1-65caf4fe-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0041/tmp/main-1-65caf4fe-w960.webp"
+          },
+          "path": "beauty/BT-EM-0041/tmp/main-1-65caf4fe.jpg",
+          "sha256": "65caf4fed2fdab0dd6b6dd5d176a499be72665c73f3ddfafd05bca3cae97c2b8",
+          "bytes": 74652,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-EM-0042": {
+      "name": {
+        "ko": "피쥬 브라운 데일리 섀도 팔레트",
+        "en": "Fizzu Brown Daily Shadow Palette"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0042/tmp/main-1-65caf4fe.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0042/tmp/main-1-65caf4fe.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-EM-0042-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0042/tmp/main-1-65caf4fe-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0042/tmp/main-1-65caf4fe-w960.webp"
+          },
+          "path": "beauty/BT-EM-0042/tmp/main-1-65caf4fe.jpg",
+          "sha256": "65caf4fed2fdab0dd6b6dd5d176a499be72665c73f3ddfafd05bca3cae97c2b8",
+          "bytes": 74652,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-EM-0043": {
+      "name": {
+        "ko": "피쥬 골드 샤인 섀도 팔레트",
+        "en": "Fizzu Gold Shine Shadow Palette"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0043/tmp/main-1-65caf4fe.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0043/tmp/main-1-65caf4fe.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-EM-0043-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0043/tmp/main-1-65caf4fe-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0043/tmp/main-1-65caf4fe-w960.webp"
+          },
+          "path": "beauty/BT-EM-0043/tmp/main-1-65caf4fe.jpg",
+          "sha256": "65caf4fed2fdab0dd6b6dd5d176a499be72665c73f3ddfafd05bca3cae97c2b8",
+          "bytes": 74652,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-EM-0044": {
+      "name": {
+        "ko": "피쥬 로즈 모브 섀도 팔레트",
+        "en": "Fizzu Rose Mauve Shadow Palette"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0044/tmp/main-1-65caf4fe.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0044/tmp/main-1-65caf4fe.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-EM-0044-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0044/tmp/main-1-65caf4fe-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-EM-0044/tmp/main-1-65caf4fe-w960.webp"
+          },
+          "path": "beauty/BT-EM-0044/tmp/main-1-65caf4fe.jpg",
+          "sha256": "65caf4fed2fdab0dd6b6dd5d176a499be72665c73f3ddfafd05bca3cae97c2b8",
+          "bytes": 74652,
+          "digital_source_type": null
+        }
+      ]
+    },
     "BT-FR-0001": {
       "name": {
         "ko": "벨모라 문스톤 오 드 퍼퓸",
@@ -5511,6 +6439,296 @@
           "sha256": "32f08b45a1846a84997631a42bb04a2a724690c3654e1483bc1f7021e7f8015a",
           "bytes": 55683,
           "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "BT-FR-0031": {
+      "name": {
+        "ko": "윌보아 리프 모닝 오 드 뚜왈렛",
+        "en": "Wilvoa Leaf Morning Eau de Toilette"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0031/tmp/main-1-e42ff08f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0031/tmp/main-1-e42ff08f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-FR-0031-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0031/tmp/main-1-e42ff08f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0031/tmp/main-1-e42ff08f-w960.webp"
+          },
+          "path": "beauty/BT-FR-0031/tmp/main-1-e42ff08f.jpg",
+          "sha256": "e42ff08f11c409acded3c4953d6359165ff2756f4c07a9f48e12a8772e705bf2",
+          "bytes": 58255,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-FR-0032": {
+      "name": {
+        "ko": "윌보아 리프 티 오 드 뚜왈렛",
+        "en": "Wilvoa Leaf Tea Eau de Toilette"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0032/tmp/main-1-e42ff08f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0032/tmp/main-1-e42ff08f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-FR-0032-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0032/tmp/main-1-e42ff08f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0032/tmp/main-1-e42ff08f-w960.webp"
+          },
+          "path": "beauty/BT-FR-0032/tmp/main-1-e42ff08f.jpg",
+          "sha256": "e42ff08f11c409acded3c4953d6359165ff2756f4c07a9f48e12a8772e705bf2",
+          "bytes": 58255,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-FR-0033": {
+      "name": {
+        "ko": "윌보아 오트 플로럴 미니 오 드 퍼퓸",
+        "en": "Wilvoa Oat Floral Mini Eau de Parfum"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0033/tmp/main-1-e42ff08f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0033/tmp/main-1-e42ff08f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-FR-0033-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0033/tmp/main-1-e42ff08f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0033/tmp/main-1-e42ff08f-w960.webp"
+          },
+          "path": "beauty/BT-FR-0033/tmp/main-1-e42ff08f.jpg",
+          "sha256": "e42ff08f11c409acded3c4953d6359165ff2756f4c07a9f48e12a8772e705bf2",
+          "bytes": 58255,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-FR-0034": {
+      "name": {
+        "ko": "윌보아 시더 우드 오 드 퍼퓸",
+        "en": "Wilvoa Cedar Wood Eau de Parfum"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0034/tmp/main-1-e42ff08f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0034/tmp/main-1-e42ff08f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-FR-0034-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0034/tmp/main-1-e42ff08f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0034/tmp/main-1-e42ff08f-w960.webp"
+          },
+          "path": "beauty/BT-FR-0034/tmp/main-1-e42ff08f.jpg",
+          "sha256": "e42ff08f11c409acded3c4953d6359165ff2756f4c07a9f48e12a8772e705bf2",
+          "bytes": 58255,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-FR-0035": {
+      "name": {
+        "ko": "윌보아 코튼 머스크 오 드 뚜왈렛",
+        "en": "Wilvoa Cotton Musk Eau de Toilette"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0035/tmp/main-1-e42ff08f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0035/tmp/main-1-e42ff08f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-FR-0035-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0035/tmp/main-1-e42ff08f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0035/tmp/main-1-e42ff08f-w960.webp"
+          },
+          "path": "beauty/BT-FR-0035/tmp/main-1-e42ff08f.jpg",
+          "sha256": "e42ff08f11c409acded3c4953d6359165ff2756f4c07a9f48e12a8772e705bf2",
+          "bytes": 58255,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-FR-0036": {
+      "name": {
+        "ko": "유조이 데일리 샤워 코롱",
+        "en": "Yujoy Daily Shower Cologne"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0036/tmp/main-1-022a55c5.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0036/tmp/main-1-022a55c5.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-FR-0036-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0036/tmp/main-1-022a55c5-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0036/tmp/main-1-022a55c5-w960.webp"
+          },
+          "path": "beauty/BT-FR-0036/tmp/main-1-022a55c5.jpg",
+          "sha256": "022a55c51a37c81baa88366170b3418cc1fd9078012c84a1966615b7c8fc734a",
+          "bytes": 65320,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-FR-0037": {
+      "name": {
+        "ko": "유조이 스윗 피치 바디 미스트",
+        "en": "Yujoy Sweet Peach Body Mist"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0037/tmp/main-1-022a55c5.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0037/tmp/main-1-022a55c5.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-FR-0037-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0037/tmp/main-1-022a55c5-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0037/tmp/main-1-022a55c5-w960.webp"
+          },
+          "path": "beauty/BT-FR-0037/tmp/main-1-022a55c5.jpg",
+          "sha256": "022a55c51a37c81baa88366170b3418cc1fd9078012c84a1966615b7c8fc734a",
+          "bytes": 65320,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-FR-0038": {
+      "name": {
+        "ko": "플루비 프레시 바디 미스트",
+        "en": "Fluvie Fresh Body Mist"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0038/tmp/main-1-bddd0ea2.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0038/tmp/main-1-bddd0ea2.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-FR-0038-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0038/tmp/main-1-bddd0ea2-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0038/tmp/main-1-bddd0ea2-w960.webp"
+          },
+          "path": "beauty/BT-FR-0038/tmp/main-1-bddd0ea2.jpg",
+          "sha256": "bddd0ea22d3cc7f7b14efa5e0679a1a8670df5aab2283a19268b1905efa9e09d",
+          "bytes": 63949,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-FR-0039": {
+      "name": {
+        "ko": "플루비 플라워 샤워 헤어 앤 바디 미스트",
+        "en": "Fluvie Flower Shower Hair and Body Mist"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0039/tmp/main-1-bddd0ea2.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0039/tmp/main-1-bddd0ea2.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-FR-0039-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0039/tmp/main-1-bddd0ea2-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0039/tmp/main-1-bddd0ea2-w960.webp"
+          },
+          "path": "beauty/BT-FR-0039/tmp/main-1-bddd0ea2.jpg",
+          "sha256": "bddd0ea22d3cc7f7b14efa5e0679a1a8670df5aab2283a19268b1905efa9e09d",
+          "bytes": 63949,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-FR-0040": {
+      "name": {
+        "ko": "플루비 머스크 데이 솔리드 퍼퓸",
+        "en": "Fluvie Musk Day Solid Perfume"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0040/tmp/main-1-31d4a365.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0040/tmp/main-1-31d4a365.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-FR-0040-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0040/tmp/main-1-31d4a365-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0040/tmp/main-1-31d4a365-w960.webp"
+          },
+          "path": "beauty/BT-FR-0040/tmp/main-1-31d4a365.jpg",
+          "sha256": "31d4a3654bcd748ad6b06a9dba705ef74920c17b56fb98e0c3e03253cd8b54e9",
+          "bytes": 62541,
+          "digital_source_type": null
         }
       ]
     },
@@ -7976,6 +9194,470 @@
           "sha256": "9b2f320ac229cce975a61983a81cc31b23ac7d6fb1c69d7291a243449773ada5",
           "bytes": 86882,
           "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "BT-LM-0051": {
+      "name": {
+        "ko": "피쥬 로즈 워터 틴트",
+        "en": "Fizzu Rose Water Tint"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0051/tmp/main-1-23b0b05a.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0051/tmp/main-1-23b0b05a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-LM-0051-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0051/tmp/main-1-23b0b05a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0051/tmp/main-1-23b0b05a-w960.webp"
+          },
+          "path": "beauty/BT-LM-0051/tmp/main-1-23b0b05a.jpg",
+          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
+          "bytes": 61784,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-LM-0052": {
+      "name": {
+        "ko": "피쥬 핑크 젤리 틴트",
+        "en": "Fizzu Pink Jelly Tint"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0052/tmp/main-1-23b0b05a.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0052/tmp/main-1-23b0b05a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-LM-0052-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0052/tmp/main-1-23b0b05a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0052/tmp/main-1-23b0b05a-w960.webp"
+          },
+          "path": "beauty/BT-LM-0052/tmp/main-1-23b0b05a.jpg",
+          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
+          "bytes": 61784,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-LM-0053": {
+      "name": {
+        "ko": "피쥬 베리 블러 틴트",
+        "en": "Fizzu Berry Blur Tint"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0053/tmp/main-1-23b0b05a.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0053/tmp/main-1-23b0b05a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-LM-0053-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0053/tmp/main-1-23b0b05a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0053/tmp/main-1-23b0b05a-w960.webp"
+          },
+          "path": "beauty/BT-LM-0053/tmp/main-1-23b0b05a.jpg",
+          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
+          "bytes": 61784,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-LM-0054": {
+      "name": {
+        "ko": "피쥬 로즈 새틴 립스틱",
+        "en": "Fizzu Rose Satin Lipstick"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0054/tmp/main-1-e1995448.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0054/tmp/main-1-e1995448.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-LM-0054-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0054/tmp/main-1-e1995448-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0054/tmp/main-1-e1995448-w960.webp"
+          },
+          "path": "beauty/BT-LM-0054/tmp/main-1-e1995448.jpg",
+          "sha256": "e19954482d2e5add7ca1180f33eee36124d62375e4c1a859482e17ee34446b06",
+          "bytes": 57549,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-LM-0055": {
+      "name": {
+        "ko": "피쥬 푸크시아 팝 매트 립스틱",
+        "en": "Fizzu Fuchsia Pop Matte Lipstick"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0055/tmp/main-1-e1995448.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0055/tmp/main-1-e1995448.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-LM-0055-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0055/tmp/main-1-e1995448-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0055/tmp/main-1-e1995448-w960.webp"
+          },
+          "path": "beauty/BT-LM-0055/tmp/main-1-e1995448.jpg",
+          "sha256": "e19954482d2e5add7ca1180f33eee36124d62375e4c1a859482e17ee34446b06",
+          "bytes": 57549,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-LM-0056": {
+      "name": {
+        "ko": "피쥬 핑크 베이지 누드 립스틱",
+        "en": "Fizzu Pink Beige Nude Lipstick"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0056/tmp/main-1-e1995448.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0056/tmp/main-1-e1995448.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-LM-0056-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0056/tmp/main-1-e1995448-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0056/tmp/main-1-e1995448-w960.webp"
+          },
+          "path": "beauty/BT-LM-0056/tmp/main-1-e1995448.jpg",
+          "sha256": "e19954482d2e5add7ca1180f33eee36124d62375e4c1a859482e17ee34446b06",
+          "bytes": 57549,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-LM-0057": {
+      "name": {
+        "ko": "피쥬 핑크 반짝 립 글로스",
+        "en": "Fizzu Pink Sparkle Lip Gloss"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0057/tmp/main-1-23b0b05a.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0057/tmp/main-1-23b0b05a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-LM-0057-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0057/tmp/main-1-23b0b05a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0057/tmp/main-1-23b0b05a-w960.webp"
+          },
+          "path": "beauty/BT-LM-0057/tmp/main-1-23b0b05a.jpg",
+          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
+          "bytes": 61784,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-LM-0058": {
+      "name": {
+        "ko": "피쥬 베리 샤인 립 글로스",
+        "en": "Fizzu Berry Shine Lip Gloss"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0058/tmp/main-1-23b0b05a.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0058/tmp/main-1-23b0b05a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-LM-0058-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0058/tmp/main-1-23b0b05a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0058/tmp/main-1-23b0b05a-w960.webp"
+          },
+          "path": "beauty/BT-LM-0058/tmp/main-1-23b0b05a.jpg",
+          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
+          "bytes": 61784,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-LM-0059": {
+      "name": {
+        "ko": "피쥬 핑크 밤 틴티드 립밤",
+        "en": "Fizzu Pink Tinted Lip Balm"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0059/tmp/main-1-e1995448.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0059/tmp/main-1-e1995448.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-LM-0059-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0059/tmp/main-1-e1995448-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0059/tmp/main-1-e1995448-w960.webp"
+          },
+          "path": "beauty/BT-LM-0059/tmp/main-1-e1995448.jpg",
+          "sha256": "e19954482d2e5add7ca1180f33eee36124d62375e4c1a859482e17ee34446b06",
+          "bytes": 57549,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-LM-0060": {
+      "name": {
+        "ko": "피쥬 코랄 핑크 듀이 틴트",
+        "en": "Fizzu Coral Pink Dewy Tint"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0060/tmp/main-1-23b0b05a.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0060/tmp/main-1-23b0b05a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-LM-0060-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0060/tmp/main-1-23b0b05a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0060/tmp/main-1-23b0b05a-w960.webp"
+          },
+          "path": "beauty/BT-LM-0060/tmp/main-1-23b0b05a.jpg",
+          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
+          "bytes": 61784,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-LM-0061": {
+      "name": {
+        "ko": "피쥬 핏 라인 립라이너",
+        "en": "Fizzu Fit Line Lip Liner"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0061/tmp/main-1-23b0b05a.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0061/tmp/main-1-23b0b05a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-LM-0061-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0061/tmp/main-1-23b0b05a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0061/tmp/main-1-23b0b05a-w960.webp"
+          },
+          "path": "beauty/BT-LM-0061/tmp/main-1-23b0b05a.jpg",
+          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
+          "bytes": 61784,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-LM-0062": {
+      "name": {
+        "ko": "피쥬 소프트 모브 새틴 립스틱",
+        "en": "Fizzu Soft Mauve Satin Lipstick"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0062/tmp/main-1-e1995448.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0062/tmp/main-1-e1995448.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-LM-0062-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0062/tmp/main-1-e1995448-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0062/tmp/main-1-e1995448-w960.webp"
+          },
+          "path": "beauty/BT-LM-0062/tmp/main-1-e1995448.jpg",
+          "sha256": "e19954482d2e5add7ca1180f33eee36124d62375e4c1a859482e17ee34446b06",
+          "bytes": 57549,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-LM-0063": {
+      "name": {
+        "ko": "피쥬 블룸 워터 틴트",
+        "en": "Fizzu Bloom Water Tint"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0063/tmp/main-1-23b0b05a.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0063/tmp/main-1-23b0b05a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-LM-0063-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0063/tmp/main-1-23b0b05a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0063/tmp/main-1-23b0b05a-w960.webp"
+          },
+          "path": "beauty/BT-LM-0063/tmp/main-1-23b0b05a.jpg",
+          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
+          "bytes": 61784,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-LM-0064": {
+      "name": {
+        "ko": "피쥬 로즈 듀이 글로스",
+        "en": "Fizzu Rose Dewy Gloss"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0064/tmp/main-1-23b0b05a.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0064/tmp/main-1-23b0b05a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-LM-0064-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0064/tmp/main-1-23b0b05a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0064/tmp/main-1-23b0b05a-w960.webp"
+          },
+          "path": "beauty/BT-LM-0064/tmp/main-1-23b0b05a.jpg",
+          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
+          "bytes": 61784,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-LM-0065": {
+      "name": {
+        "ko": "피쥬 버터 로즈 크림 립스틱",
+        "en": "Fizzu Butter Rose Cream Lipstick"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0065/tmp/main-1-e1995448.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0065/tmp/main-1-e1995448.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-LM-0065-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0065/tmp/main-1-e1995448-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0065/tmp/main-1-e1995448-w960.webp"
+          },
+          "path": "beauty/BT-LM-0065/tmp/main-1-e1995448.jpg",
+          "sha256": "e19954482d2e5add7ca1180f33eee36124d62375e4c1a859482e17ee34446b06",
+          "bytes": 57549,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-LM-0066": {
+      "name": {
+        "ko": "피쥬 핑크 시럽 틴트",
+        "en": "Fizzu Pink Syrup Tint"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0066/tmp/main-1-23b0b05a.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0066/tmp/main-1-23b0b05a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-LM-0066-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0066/tmp/main-1-23b0b05a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0066/tmp/main-1-23b0b05a-w960.webp"
+          },
+          "path": "beauty/BT-LM-0066/tmp/main-1-23b0b05a.jpg",
+          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
+          "bytes": 61784,
+          "digital_source_type": null
         }
       ]
     },
@@ -12619,6 +14301,818 @@
         }
       ]
     },
+    "BT-SK-0101": {
+      "name": {
+        "ko": "벨모라 오로라 래디언스 아이 크림",
+        "en": "Velmora Aurora Radiance Eye Cream"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0101/tmp/main-1-630c2563.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0101/tmp/main-1-630c2563.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0101-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0101/tmp/main-1-630c2563-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0101/tmp/main-1-630c2563-w960.webp"
+          },
+          "path": "beauty/BT-SK-0101/tmp/main-1-630c2563.jpg",
+          "sha256": "630c25630c78c8705e3e5cc478be982c3a897e98286eac1defc279ba4e79b04f",
+          "bytes": 57620,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0102": {
+      "name": {
+        "ko": "누베드라 배리어 케어 아이 밤",
+        "en": "Nuvedra Barrier Care Eye Balm"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0102/tmp/main-1-89950c43.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0102/tmp/main-1-89950c43.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0102-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0102/tmp/main-1-89950c43-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0102/tmp/main-1-89950c43-w960.webp"
+          },
+          "path": "beauty/BT-SK-0102/tmp/main-1-89950c43.jpg",
+          "sha256": "89950c43f685e940fa892301622e2acda737734d18060fdac520ddcc35a7a60e",
+          "bytes": 59662,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0103": {
+      "name": {
+        "ko": "윌보아 소프트 오트 아이 크림",
+        "en": "Wilvoa Soft Oat Eye Cream"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0103/tmp/main-1-3cf90659.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0103/tmp/main-1-3cf90659.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0103-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0103/tmp/main-1-3cf90659-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0103/tmp/main-1-3cf90659-w960.webp"
+          },
+          "path": "beauty/BT-SK-0103/tmp/main-1-3cf90659.jpg",
+          "sha256": "3cf906591a20c24c88ba2b3c2d6e7005c70eff5683d26480c9c61c5169d712c1",
+          "bytes": 58054,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0104": {
+      "name": {
+        "ko": "유조이 데일리 아이 앰플",
+        "en": "Yujoy Daily Eye Ampoule"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0104/tmp/main-1-2b8e99d0.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0104/tmp/main-1-2b8e99d0.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0104-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0104/tmp/main-1-2b8e99d0-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0104/tmp/main-1-2b8e99d0-w960.webp"
+          },
+          "path": "beauty/BT-SK-0104/tmp/main-1-2b8e99d0.jpg",
+          "sha256": "2b8e99d0d595ce42d88785e1733f28a0d4364e64471eaaf8f451a70e7386cf49",
+          "bytes": 66541,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0105": {
+      "name": {
+        "ko": "벨모라 벨벳 눈가 아이 앤 넥 크림",
+        "en": "Velmora Velvet Eye and Neck Cream"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0105/tmp/main-1-630c2563.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0105/tmp/main-1-630c2563.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0105-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0105/tmp/main-1-630c2563-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0105/tmp/main-1-630c2563-w960.webp"
+          },
+          "path": "beauty/BT-SK-0105/tmp/main-1-630c2563.jpg",
+          "sha256": "630c25630c78c8705e3e5cc478be982c3a897e98286eac1defc279ba4e79b04f",
+          "bytes": 57620,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0106": {
+      "name": {
+        "ko": "누베드라 시카 수딩 아이 세럼",
+        "en": "Nuvedra Cica Soothing Eye Serum"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0106/tmp/main-1-05c620ff.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0106/tmp/main-1-05c620ff.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0106-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0106/tmp/main-1-05c620ff-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0106/tmp/main-1-05c620ff-w960.webp"
+          },
+          "path": "beauty/BT-SK-0106/tmp/main-1-05c620ff.jpg",
+          "sha256": "05c620ffe1a868b634ce5760e0ae20febb08173cefea83a461f6a8653b43127a",
+          "bytes": 62134,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0107": {
+      "name": {
+        "ko": "윌보아 그린 티 토너 패드",
+        "en": "Wilvoa Green Tea Toner Pad"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0107/tmp/main-1-3cf90659.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0107/tmp/main-1-3cf90659.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0107-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0107/tmp/main-1-3cf90659-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0107/tmp/main-1-3cf90659-w960.webp"
+          },
+          "path": "beauty/BT-SK-0107/tmp/main-1-3cf90659.jpg",
+          "sha256": "3cf906591a20c24c88ba2b3c2d6e7005c70eff5683d26480c9c61c5169d712c1",
+          "bytes": 58054,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0108": {
+      "name": {
+        "ko": "누베드라 시카 카밍 패드",
+        "en": "Nuvedra Cica Calming Pad"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0108/tmp/main-1-792849ed.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0108/tmp/main-1-792849ed.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0108-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0108/tmp/main-1-792849ed-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0108/tmp/main-1-792849ed-w960.webp"
+          },
+          "path": "beauty/BT-SK-0108/tmp/main-1-792849ed.jpg",
+          "sha256": "792849ed55b4b5b9c3dd9626ca82f6bb981a6925d1f7ae7eaf298defa525f02e",
+          "bytes": 60951,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0109": {
+      "name": {
+        "ko": "유조이 데일리 수분 패드",
+        "en": "Yujoy Daily Moist Hydrating Pad"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0109/tmp/main-1-7ea625b6.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0109/tmp/main-1-7ea625b6.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0109-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0109/tmp/main-1-7ea625b6-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0109/tmp/main-1-7ea625b6-w960.webp"
+          },
+          "path": "beauty/BT-SK-0109/tmp/main-1-7ea625b6.jpg",
+          "sha256": "7ea625b6613937ab5c2e6566829663552f80cae134e786b07f47fe80ebb91a5c",
+          "bytes": 63538,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0110": {
+      "name": {
+        "ko": "윌보아 리프 포어 토너 패드",
+        "en": "Wilvoa Leaf Pore Toner Pad"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0110/tmp/main-1-3cf90659.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0110/tmp/main-1-3cf90659.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0110-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0110/tmp/main-1-3cf90659-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0110/tmp/main-1-3cf90659-w960.webp"
+          },
+          "path": "beauty/BT-SK-0110/tmp/main-1-3cf90659.jpg",
+          "sha256": "3cf906591a20c24c88ba2b3c2d6e7005c70eff5683d26480c9c61c5169d712c1",
+          "bytes": 58054,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0111": {
+      "name": {
+        "ko": "누베드라 마일드 라이트 결 정돈 패드",
+        "en": "Nuvedra Mild Light Texture Pad"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0111/tmp/main-1-792849ed.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0111/tmp/main-1-792849ed.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0111-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0111/tmp/main-1-792849ed-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0111/tmp/main-1-792849ed-w960.webp"
+          },
+          "path": "beauty/BT-SK-0111/tmp/main-1-792849ed.jpg",
+          "sha256": "792849ed55b4b5b9c3dd9626ca82f6bb981a6925d1f7ae7eaf298defa525f02e",
+          "bytes": 60951,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0112": {
+      "name": {
+        "ko": "유조이 시카 데일리 진정 패드",
+        "en": "Yujoy Cica Daily Soothing Pad"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0112/tmp/main-1-7ea625b6.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0112/tmp/main-1-7ea625b6.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0112-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0112/tmp/main-1-7ea625b6-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0112/tmp/main-1-7ea625b6-w960.webp"
+          },
+          "path": "beauty/BT-SK-0112/tmp/main-1-7ea625b6.jpg",
+          "sha256": "7ea625b6613937ab5c2e6566829663552f80cae134e786b07f47fe80ebb91a5c",
+          "bytes": 63538,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0113": {
+      "name": {
+        "ko": "윌보아 밀크 오트 토너 패드",
+        "en": "Wilvoa Milk Oat Toner Pad"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0113/tmp/main-1-3cf90659.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0113/tmp/main-1-3cf90659.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0113-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0113/tmp/main-1-3cf90659-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0113/tmp/main-1-3cf90659-w960.webp"
+          },
+          "path": "beauty/BT-SK-0113/tmp/main-1-3cf90659.jpg",
+          "sha256": "3cf906591a20c24c88ba2b3c2d6e7005c70eff5683d26480c9c61c5169d712c1",
+          "bytes": 58054,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0114": {
+      "name": {
+        "ko": "누베드라 에어 클리어 패드",
+        "en": "Nuvedra Air Clear Pad"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0114/tmp/main-1-792849ed.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0114/tmp/main-1-792849ed.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0114-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0114/tmp/main-1-792849ed-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0114/tmp/main-1-792849ed-w960.webp"
+          },
+          "path": "beauty/BT-SK-0114/tmp/main-1-792849ed.jpg",
+          "sha256": "792849ed55b4b5b9c3dd9626ca82f6bb981a6925d1f7ae7eaf298defa525f02e",
+          "bytes": 60951,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0115": {
+      "name": {
+        "ko": "유조이 데이 유자 토너 패드",
+        "en": "Yujoy Yuja Day Yuzu Toner Pad"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0115/tmp/main-1-7ea625b6.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0115/tmp/main-1-7ea625b6.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0115-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0115/tmp/main-1-7ea625b6-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0115/tmp/main-1-7ea625b6-w960.webp"
+          },
+          "path": "beauty/BT-SK-0115/tmp/main-1-7ea625b6.jpg",
+          "sha256": "7ea625b6613937ab5c2e6566829663552f80cae134e786b07f47fe80ebb91a5c",
+          "bytes": 63538,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0116": {
+      "name": {
+        "ko": "윌보아 알로에 쿨 쿨링 토너 패드",
+        "en": "Wilvoa Aloe Cool Cooling Toner Pad"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0116/tmp/main-1-3cf90659.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0116/tmp/main-1-3cf90659.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0116-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0116/tmp/main-1-3cf90659-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0116/tmp/main-1-3cf90659-w960.webp"
+          },
+          "path": "beauty/BT-SK-0116/tmp/main-1-3cf90659.jpg",
+          "sha256": "3cf906591a20c24c88ba2b3c2d6e7005c70eff5683d26480c9c61c5169d712c1",
+          "bytes": 58054,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0117": {
+      "name": {
+        "ko": "누베드라 시카 카밍 수분 젤 크림",
+        "en": "Nuvedra Cica Calming Hydrating Gel Cream"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0117/tmp/main-1-89950c43.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0117/tmp/main-1-89950c43.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0117-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0117/tmp/main-1-89950c43-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0117/tmp/main-1-89950c43-w960.webp"
+          },
+          "path": "beauty/BT-SK-0117/tmp/main-1-89950c43.jpg",
+          "sha256": "89950c43f685e940fa892301622e2acda737734d18060fdac520ddcc35a7a60e",
+          "bytes": 59662,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0118": {
+      "name": {
+        "ko": "윌보아 리프 슬리핑 크림",
+        "en": "Wilvoa Leaf Sleeping Cream"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0118/tmp/main-1-3cf90659.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0118/tmp/main-1-3cf90659.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0118-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0118/tmp/main-1-3cf90659-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0118/tmp/main-1-3cf90659-w960.webp"
+          },
+          "path": "beauty/BT-SK-0118/tmp/main-1-3cf90659.jpg",
+          "sha256": "3cf906591a20c24c88ba2b3c2d6e7005c70eff5683d26480c9c61c5169d712c1",
+          "bytes": 58054,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0119": {
+      "name": {
+        "ko": "벨모라 벨벳 리추얼 라이트 크림",
+        "en": "Velmora Velvet Ritual Light Cream"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0119/tmp/main-1-630c2563.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0119/tmp/main-1-630c2563.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0119-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0119/tmp/main-1-630c2563-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0119/tmp/main-1-630c2563-w960.webp"
+          },
+          "path": "beauty/BT-SK-0119/tmp/main-1-630c2563.jpg",
+          "sha256": "630c25630c78c8705e3e5cc478be982c3a897e98286eac1defc279ba4e79b04f",
+          "bytes": 57620,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0120": {
+      "name": {
+        "ko": "누베드라 세라 배리어 세라마이드 세럼",
+        "en": "Nuvedra Cera Barrier Ceramide Serum"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0120/tmp/main-1-05c620ff.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0120/tmp/main-1-05c620ff.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0120-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0120/tmp/main-1-05c620ff-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0120/tmp/main-1-05c620ff-w960.webp"
+          },
+          "path": "beauty/BT-SK-0120/tmp/main-1-05c620ff.jpg",
+          "sha256": "05c620ffe1a868b634ce5760e0ae20febb08173cefea83a461f6a8653b43127a",
+          "bytes": 62134,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0121": {
+      "name": {
+        "ko": "윌보아 리프 나이아신 나이아신아마이드 세럼",
+        "en": "Wilvoa Leaf Niacin Niacinamide Serum"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0121/tmp/main-1-5b1e8bad.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0121/tmp/main-1-5b1e8bad.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0121-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0121/tmp/main-1-5b1e8bad-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0121/tmp/main-1-5b1e8bad-w960.webp"
+          },
+          "path": "beauty/BT-SK-0121/tmp/main-1-5b1e8bad.jpg",
+          "sha256": "5b1e8bad950f77d9046100a30dc060961cb6fd26f58896730201a2f268280a5c",
+          "bytes": 59727,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0122": {
+      "name": {
+        "ko": "유조이 데일리 케어 수분 로션",
+        "en": "Yujoy Daily Care Hydrating Lotion"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0122/tmp/main-1-2b8e99d0.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0122/tmp/main-1-2b8e99d0.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0122-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0122/tmp/main-1-2b8e99d0-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0122/tmp/main-1-2b8e99d0-w960.webp"
+          },
+          "path": "beauty/BT-SK-0122/tmp/main-1-2b8e99d0.jpg",
+          "sha256": "2b8e99d0d595ce42d88785e1733f28a0d4364e64471eaaf8f451a70e7386cf49",
+          "bytes": 66541,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0123": {
+      "name": {
+        "ko": "누베드라 트러블 카밍 토너",
+        "en": "Nuvedra Calming Toner"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0123/tmp/main-1-93ae652f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0123/tmp/main-1-93ae652f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0123-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0123/tmp/main-1-93ae652f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0123/tmp/main-1-93ae652f-w960.webp"
+          },
+          "path": "beauty/BT-SK-0123/tmp/main-1-93ae652f.jpg",
+          "sha256": "93ae652f82c53c75bb125126f303f30f0262bab8e3653f0c6a093e1ef39a213f",
+          "bytes": 62139,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0124": {
+      "name": {
+        "ko": "유조이 데일리 세라 세라마이드 크림",
+        "en": "Yujoy Daily Cera Ceramide Cream"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0124/tmp/main-1-7ea625b6.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0124/tmp/main-1-7ea625b6.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0124-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0124/tmp/main-1-7ea625b6-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0124/tmp/main-1-7ea625b6-w960.webp"
+          },
+          "path": "beauty/BT-SK-0124/tmp/main-1-7ea625b6.jpg",
+          "sha256": "7ea625b6613937ab5c2e6566829663552f80cae134e786b07f47fe80ebb91a5c",
+          "bytes": 63538,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0125": {
+      "name": {
+        "ko": "윌보아 리프 수분 미스트",
+        "en": "Wilvoa Leaf Hydrating Mist"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0125/tmp/main-1-e42ff08f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0125/tmp/main-1-e42ff08f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0125-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0125/tmp/main-1-e42ff08f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0125/tmp/main-1-e42ff08f-w960.webp"
+          },
+          "path": "beauty/BT-SK-0125/tmp/main-1-e42ff08f.jpg",
+          "sha256": "e42ff08f11c409acded3c4953d6359165ff2756f4c07a9f48e12a8772e705bf2",
+          "bytes": 58255,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0126": {
+      "name": {
+        "ko": "벨모라 오로라 세라 배리어 에센스",
+        "en": "Velmora Aurora Cera Barrier Essence"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0126/tmp/main-1-38980f34.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0126/tmp/main-1-38980f34.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0126-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0126/tmp/main-1-38980f34-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0126/tmp/main-1-38980f34-w960.webp"
+          },
+          "path": "beauty/BT-SK-0126/tmp/main-1-38980f34.jpg",
+          "sha256": "38980f34c80a1ee5ec66f906570c3ce1300b035ea29e57279d6ecb2c402fa1b1",
+          "bytes": 58522,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0127": {
+      "name": {
+        "ko": "누베드라 카밍 수분 로션",
+        "en": "Nuvedra Calming Hydrating Lotion"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0127/tmp/main-1-93ae652f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0127/tmp/main-1-93ae652f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0127-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0127/tmp/main-1-93ae652f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0127/tmp/main-1-93ae652f-w960.webp"
+          },
+          "path": "beauty/BT-SK-0127/tmp/main-1-93ae652f.jpg",
+          "sha256": "93ae652f82c53c75bb125126f303f30f0262bab8e3653f0c6a093e1ef39a213f",
+          "bytes": 62139,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SK-0128": {
+      "name": {
+        "ko": "윌보아 리프 시카 앰플",
+        "en": "Wilvoa Leaf Cica Ampoule"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0128/tmp/main-1-5b1e8bad.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0128/tmp/main-1-5b1e8bad.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SK-0128-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0128/tmp/main-1-5b1e8bad-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0128/tmp/main-1-5b1e8bad-w960.webp"
+          },
+          "path": "beauty/BT-SK-0128/tmp/main-1-5b1e8bad.jpg",
+          "sha256": "5b1e8bad950f77d9046100a30dc060961cb6fd26f58896730201a2f268280a5c",
+          "bytes": 59727,
+          "digital_source_type": null
+        }
+      ]
+    },
     "BT-SN-0001": {
       "name": {
         "ko": "누베드라 데일리 마일드 선크림",
@@ -13486,6 +15980,412 @@
           "sha256": "d97e0140579f0772c36ac4224b7e848207b9934c18de0488a5bd42de86430558",
           "bytes": 53240,
           "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "BT-SN-0031": {
+      "name": {
+        "ko": "누베드라 데일리 쉴드 무기자차 선 스틱",
+        "en": "Nuvedra Daily Shield Mineral Sunscreen Stick"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0031/tmp/main-1-060fd727.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0031/tmp/main-1-060fd727.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SN-0031-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0031/tmp/main-1-060fd727-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0031/tmp/main-1-060fd727-w960.webp"
+          },
+          "path": "beauty/BT-SN-0031/tmp/main-1-060fd727.jpg",
+          "sha256": "060fd727240641928cfc23b311402d14bb94f5a05b35334c6d49f109b01ac2c0",
+          "bytes": 55959,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SN-0032": {
+      "name": {
+        "ko": "엘노아 매트 핏 유기자차 선 스틱",
+        "en": "Elnoa Matte Fit Chemical Sunscreen Stick"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0032/tmp/main-1-de0119b7.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0032/tmp/main-1-de0119b7.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SN-0032-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0032/tmp/main-1-de0119b7-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0032/tmp/main-1-de0119b7-w960.webp"
+          },
+          "path": "beauty/BT-SN-0032/tmp/main-1-de0119b7.jpg",
+          "sha256": "de0119b7b87e7ea96b3694caeb0f1d656d2e102af991b5bfb271f57aceb506e2",
+          "bytes": 56332,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SN-0033": {
+      "name": {
+        "ko": "누베드라 소프트 그린 수딩 선 스틱",
+        "en": "Nuvedra Soft Green Soothing Sunscreen Stick"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0033/tmp/main-1-060fd727.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0033/tmp/main-1-060fd727.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SN-0033-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0033/tmp/main-1-060fd727-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0033/tmp/main-1-060fd727-w960.webp"
+          },
+          "path": "beauty/BT-SN-0033/tmp/main-1-060fd727.jpg",
+          "sha256": "060fd727240641928cfc23b311402d14bb94f5a05b35334c6d49f109b01ac2c0",
+          "bytes": 55959,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SN-0034": {
+      "name": {
+        "ko": "엘노아 프리 핏 무기자차 선 스틱",
+        "en": "Elnoa Free Fit Mineral Sunscreen Stick"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0034/tmp/main-1-de0119b7.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0034/tmp/main-1-de0119b7.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SN-0034-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0034/tmp/main-1-de0119b7-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0034/tmp/main-1-de0119b7-w960.webp"
+          },
+          "path": "beauty/BT-SN-0034/tmp/main-1-de0119b7.jpg",
+          "sha256": "de0119b7b87e7ea96b3694caeb0f1d656d2e102af991b5bfb271f57aceb506e2",
+          "bytes": 56332,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SN-0035": {
+      "name": {
+        "ko": "엘노아 에어 핏 무기자차 선 쿠션",
+        "en": "Elnoa Air Fit Mineral Sunscreen Cushion"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0035/tmp/main-1-cd6a2973.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0035/tmp/main-1-cd6a2973.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SN-0035-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0035/tmp/main-1-cd6a2973-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0035/tmp/main-1-cd6a2973-w960.webp"
+          },
+          "path": "beauty/BT-SN-0035/tmp/main-1-cd6a2973.jpg",
+          "sha256": "cd6a2973c979f42ef25883e6e9ccbee9f0b5c1f644d3b62ba781e820acff833d",
+          "bytes": 72381,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SN-0036": {
+      "name": {
+        "ko": "누베드라 쿨 쉴드 유기자차 선 쿠션",
+        "en": "Nuvedra Cool Shield Chemical Sunscreen Cushion"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0036/tmp/main-1-49586465.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0036/tmp/main-1-49586465.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SN-0036-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0036/tmp/main-1-49586465-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0036/tmp/main-1-49586465-w960.webp"
+          },
+          "path": "beauty/BT-SN-0036/tmp/main-1-49586465.jpg",
+          "sha256": "495864658d03af7dbab21f433203b3cd4da8a08bed4f1c2774835a092ab435b8",
+          "bytes": 71329,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SN-0037": {
+      "name": {
+        "ko": "엘노아 데일리 선 팩트",
+        "en": "Elnoa Daily Pact Sunscreen Compact"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0037/tmp/main-1-cd6a2973.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0037/tmp/main-1-cd6a2973.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SN-0037-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0037/tmp/main-1-cd6a2973-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0037/tmp/main-1-cd6a2973-w960.webp"
+          },
+          "path": "beauty/BT-SN-0037/tmp/main-1-cd6a2973.jpg",
+          "sha256": "cd6a2973c979f42ef25883e6e9ccbee9f0b5c1f644d3b62ba781e820acff833d",
+          "bytes": 72381,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SN-0038": {
+      "name": {
+        "ko": "누베드라 마일드 윤광 무기자차 선 쿠션",
+        "en": "Nuvedra Mild Lumi Mineral Sunscreen Cushion"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0038/tmp/main-1-49586465.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0038/tmp/main-1-49586465.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SN-0038-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0038/tmp/main-1-49586465-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0038/tmp/main-1-49586465-w960.webp"
+          },
+          "path": "beauty/BT-SN-0038/tmp/main-1-49586465.jpg",
+          "sha256": "495864658d03af7dbab21f433203b3cd4da8a08bed4f1c2774835a092ab435b8",
+          "bytes": 71329,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SN-0039": {
+      "name": {
+        "ko": "누베드라 마일드 선 로션 SPF30",
+        "en": "Nuvedra Mild Sunscreen Lotion SPF30"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0039/tmp/main-1-89950c43.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0039/tmp/main-1-89950c43.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SN-0039-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0039/tmp/main-1-89950c43-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0039/tmp/main-1-89950c43-w960.webp"
+          },
+          "path": "beauty/BT-SN-0039/tmp/main-1-89950c43.jpg",
+          "sha256": "89950c43f685e940fa892301622e2acda737734d18060fdac520ddcc35a7a60e",
+          "bytes": 59662,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SN-0040": {
+      "name": {
+        "ko": "누베드라 마일드 선 로션 SPF50",
+        "en": "Nuvedra Mild Sunscreen Lotion SPF50"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0040/tmp/main-1-89950c43.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0040/tmp/main-1-89950c43.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SN-0040-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0040/tmp/main-1-89950c43-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0040/tmp/main-1-89950c43-w960.webp"
+          },
+          "path": "beauty/BT-SN-0040/tmp/main-1-89950c43.jpg",
+          "sha256": "89950c43f685e940fa892301622e2acda737734d18060fdac520ddcc35a7a60e",
+          "bytes": 59662,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SN-0041": {
+      "name": {
+        "ko": "엘노아 라이트 베일 선 파우더",
+        "en": "Elnoa Light Veil Sunscreen Powder"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0041/tmp/main-1-73f88ad7.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0041/tmp/main-1-73f88ad7.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SN-0041-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0041/tmp/main-1-73f88ad7-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0041/tmp/main-1-73f88ad7-w960.webp"
+          },
+          "path": "beauty/BT-SN-0041/tmp/main-1-73f88ad7.jpg",
+          "sha256": "73f88ad7641b68503b2902b5751f3845e04c3393982de34413507a6fdcec830e",
+          "bytes": 60993,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SN-0042": {
+      "name": {
+        "ko": "누베드라 에어 미스트 선 스프레이",
+        "en": "Nuvedra Air Mist Sunscreen Spray"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0042/tmp/main-1-6fbd2b08.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0042/tmp/main-1-6fbd2b08.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SN-0042-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0042/tmp/main-1-6fbd2b08-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0042/tmp/main-1-6fbd2b08-w960.webp"
+          },
+          "path": "beauty/BT-SN-0042/tmp/main-1-6fbd2b08.jpg",
+          "sha256": "6fbd2b08db0c3a458faf7410f67105bfbeccfc46740d8e89583eb3af2d36283d",
+          "bytes": 61292,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SN-0043": {
+      "name": {
+        "ko": "엘노아 소프트 톤 톤업 선 쿠션",
+        "en": "Elnoa Soft Tone Tone-up Sunscreen Cushion"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0043/tmp/main-1-cd6a2973.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0043/tmp/main-1-cd6a2973.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SN-0043-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0043/tmp/main-1-cd6a2973-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0043/tmp/main-1-cd6a2973-w960.webp"
+          },
+          "path": "beauty/BT-SN-0043/tmp/main-1-cd6a2973.jpg",
+          "sha256": "cd6a2973c979f42ef25883e6e9ccbee9f0b5c1f644d3b62ba781e820acff833d",
+          "bytes": 72381,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "BT-SN-0044": {
+      "name": {
+        "ko": "누베드라 프레시 라이트 유기자차 선 젤",
+        "en": "Nuvedra Fresh Light Chemical Sunscreen Gel"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0044/tmp/main-1-89950c43.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0044/tmp/main-1-89950c43.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "BT-SN-0044-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0044/tmp/main-1-89950c43-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0044/tmp/main-1-89950c43-w960.webp"
+          },
+          "path": "beauty/BT-SN-0044/tmp/main-1-89950c43.jpg",
+          "sha256": "89950c43f685e940fa892301622e2acda737734d18060fdac520ddcc35a7a60e",
+          "bytes": 59662,
+          "digital_source_type": null
         }
       ]
     },
