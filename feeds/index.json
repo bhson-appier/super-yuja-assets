@@ -51,8 +51,8 @@
       "locale": "ko",
       "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-food.csv",
       "rows": 229,
-      "bytes": 214708,
-      "sha256": "65454f4201d6d0116808df3e1c34de89e4ad8dabe05390ba6b018b2dfcba90fd"
+      "bytes": 214551,
+      "sha256": "0e12cd200bfdefd5db04afc3e66ffae8076414b5fc1cc815be89fa1a40606ee1"
     },
     {
       "name": "enterprise-food_en.csv",
@@ -61,8 +61,8 @@
       "locale": "en",
       "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-food_en.csv",
       "rows": 229,
-      "bytes": 197872,
-      "sha256": "02d0bd75b4c39e2f71d686c04e000d3bb27101c76394afab77dfe2059d518e59"
+      "bytes": 197590,
+      "sha256": "fea2d72b6434bed408e8c5cca138eb6f8c107700c84aabff808acc3c1623b916"
     },
     {
       "name": "enterprise-all.csv",
@@ -71,8 +71,8 @@
       "locale": "ko",
       "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-all.csv",
       "rows": 1429,
-      "bytes": 1273221,
-      "sha256": "6410bd08a882ad3d8820874f6a84c47a1b82c5286a5cd119b0baff55e73804b7"
+      "bytes": 1273064,
+      "sha256": "325e88fed3ec46fa6b46bf2f79b2ac9e6bfa9da7a03edcc5d7dc8865609a3d5b"
     },
     {
       "name": "enterprise-all_en.csv",
@@ -81,8 +81,8 @@
       "locale": "en",
       "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-all_en.csv",
       "rows": 1429,
-      "bytes": 1144238,
-      "sha256": "f289192be96a63dbc5745517a81632c7d470c59d255f50b7974e2783ac89986b"
+      "bytes": 1143956,
+      "sha256": "78429df5fdd3960e574880321f014acb5eaa1f491f3c22039b94a050fde82410"
     }
   ]
 }
