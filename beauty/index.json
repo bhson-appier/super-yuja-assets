@@ -6447,27 +6447,27 @@
         "ko": "윌보아 리프 모닝 오 드 뚜왈렛",
         "en": "Wilvoa Leaf Morning Eau de Toilette"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0031/tmp/main-1-e42ff08f.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0031/_/main-1-419340ee.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0031/tmp/main-1-e42ff08f.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0031/_/main-1-419340ee.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-FR-0031-main-v0",
+          "temporary": false,
+          "job_id": "BT-FR-0031-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0031/tmp/main-1-e42ff08f-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0031/tmp/main-1-e42ff08f-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0031/_/main-1-419340ee-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0031/_/main-1-419340ee-w960.webp"
           },
-          "path": "beauty/BT-FR-0031/tmp/main-1-e42ff08f.jpg",
-          "sha256": "e42ff08f11c409acded3c4953d6359165ff2756f4c07a9f48e12a8772e705bf2",
-          "bytes": 58255,
-          "digital_source_type": null
+          "path": "beauty/BT-FR-0031/_/main-1-419340ee.jpg",
+          "sha256": "419340ee7d11b24765069d471fafb40d66184ae1ce8d71ff0fdb55939eff2cf8",
+          "bytes": 91547,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6505,27 +6505,27 @@
         "ko": "윌보아 오트 플로럴 미니 오 드 퍼퓸",
         "en": "Wilvoa Oat Floral Mini Eau de Parfum"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0033/tmp/main-1-e42ff08f.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0033/_/main-1-12af8770.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0033/tmp/main-1-e42ff08f.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0033/_/main-1-12af8770.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-FR-0033-main-v0",
+          "temporary": false,
+          "job_id": "BT-FR-0033-main-logo-v2",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0033/tmp/main-1-e42ff08f-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0033/tmp/main-1-e42ff08f-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0033/_/main-1-12af8770-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0033/_/main-1-12af8770-w960.webp"
           },
-          "path": "beauty/BT-FR-0033/tmp/main-1-e42ff08f.jpg",
-          "sha256": "e42ff08f11c409acded3c4953d6359165ff2756f4c07a9f48e12a8772e705bf2",
-          "bytes": 58255,
-          "digital_source_type": null
+          "path": "beauty/BT-FR-0033/_/main-1-12af8770.jpg",
+          "sha256": "12af8770766209f34a944e714779e3883688f69e8db52e735b44ced0f96026cb",
+          "bytes": 85739,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6534,27 +6534,27 @@
         "ko": "윌보아 시더 우드 오 드 퍼퓸",
         "en": "Wilvoa Cedar Wood Eau de Parfum"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0034/tmp/main-1-e42ff08f.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0034/_/main-1-f9c09691.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0034/tmp/main-1-e42ff08f.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0034/_/main-1-f9c09691.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-FR-0034-main-v0",
+          "temporary": false,
+          "job_id": "BT-FR-0034-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0034/tmp/main-1-e42ff08f-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0034/tmp/main-1-e42ff08f-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0034/_/main-1-f9c09691-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0034/_/main-1-f9c09691-w960.webp"
           },
-          "path": "beauty/BT-FR-0034/tmp/main-1-e42ff08f.jpg",
-          "sha256": "e42ff08f11c409acded3c4953d6359165ff2756f4c07a9f48e12a8772e705bf2",
-          "bytes": 58255,
-          "digital_source_type": null
+          "path": "beauty/BT-FR-0034/_/main-1-f9c09691.jpg",
+          "sha256": "f9c09691abc3f4d509eee40b2c68314dd9c48063f4cc24350be6d6e3e7ef6968",
+          "bytes": 94034,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6563,27 +6563,27 @@
         "ko": "윌보아 코튼 머스크 오 드 뚜왈렛",
         "en": "Wilvoa Cotton Musk Eau de Toilette"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0035/tmp/main-1-e42ff08f.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0035/_/main-1-9130ee25.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0035/tmp/main-1-e42ff08f.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0035/_/main-1-9130ee25.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-FR-0035-main-v0",
+          "temporary": false,
+          "job_id": "BT-FR-0035-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0035/tmp/main-1-e42ff08f-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0035/tmp/main-1-e42ff08f-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0035/_/main-1-9130ee25-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0035/_/main-1-9130ee25-w960.webp"
           },
-          "path": "beauty/BT-FR-0035/tmp/main-1-e42ff08f.jpg",
-          "sha256": "e42ff08f11c409acded3c4953d6359165ff2756f4c07a9f48e12a8772e705bf2",
-          "bytes": 58255,
-          "digital_source_type": null
+          "path": "beauty/BT-FR-0035/_/main-1-9130ee25.jpg",
+          "sha256": "9130ee255f00346882900f4cd7bf83d835a5d00d53d1ffc4c90c496dc18216d2",
+          "bytes": 88209,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6592,27 +6592,27 @@
         "ko": "유조이 데일리 샤워 코롱",
         "en": "Yujoy Daily Shower Cologne"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0036/tmp/main-1-022a55c5.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0036/_/main-1-7b47c6e0.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0036/tmp/main-1-022a55c5.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0036/_/main-1-7b47c6e0.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-FR-0036-main-v0",
+          "temporary": false,
+          "job_id": "BT-FR-0036-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0036/tmp/main-1-022a55c5-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0036/tmp/main-1-022a55c5-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0036/_/main-1-7b47c6e0-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0036/_/main-1-7b47c6e0-w960.webp"
           },
-          "path": "beauty/BT-FR-0036/tmp/main-1-022a55c5.jpg",
-          "sha256": "022a55c51a37c81baa88366170b3418cc1fd9078012c84a1966615b7c8fc734a",
-          "bytes": 65320,
-          "digital_source_type": null
+          "path": "beauty/BT-FR-0036/_/main-1-7b47c6e0.jpg",
+          "sha256": "7b47c6e0497b22bc24a7c2eb3f5b0446b6938884e294211d63496d9a877c9376",
+          "bytes": 91551,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6621,27 +6621,27 @@
         "ko": "유조이 스윗 피치 바디 미스트",
         "en": "Yujoy Sweet Peach Body Mist"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0037/tmp/main-1-022a55c5.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0037/_/main-1-e63ca561.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0037/tmp/main-1-022a55c5.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0037/_/main-1-e63ca561.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-FR-0037-main-v0",
+          "temporary": false,
+          "job_id": "BT-FR-0037-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0037/tmp/main-1-022a55c5-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0037/tmp/main-1-022a55c5-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0037/_/main-1-e63ca561-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0037/_/main-1-e63ca561-w960.webp"
           },
-          "path": "beauty/BT-FR-0037/tmp/main-1-022a55c5.jpg",
-          "sha256": "022a55c51a37c81baa88366170b3418cc1fd9078012c84a1966615b7c8fc734a",
-          "bytes": 65320,
-          "digital_source_type": null
+          "path": "beauty/BT-FR-0037/_/main-1-e63ca561.jpg",
+          "sha256": "e63ca56114070cf750c54d4b9774222b029406ef2a4e6deb52f97c30b1e51727",
+          "bytes": 88544,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6650,27 +6650,27 @@
         "ko": "플루비 프레시 바디 미스트",
         "en": "Fluvie Fresh Body Mist"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0038/tmp/main-1-bddd0ea2.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0038/_/main-1-e3a6dc15.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0038/tmp/main-1-bddd0ea2.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0038/_/main-1-e3a6dc15.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-FR-0038-main-v0",
+          "temporary": false,
+          "job_id": "BT-FR-0038-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0038/tmp/main-1-bddd0ea2-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0038/tmp/main-1-bddd0ea2-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0038/_/main-1-e3a6dc15-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0038/_/main-1-e3a6dc15-w960.webp"
           },
-          "path": "beauty/BT-FR-0038/tmp/main-1-bddd0ea2.jpg",
-          "sha256": "bddd0ea22d3cc7f7b14efa5e0679a1a8670df5aab2283a19268b1905efa9e09d",
-          "bytes": 63949,
-          "digital_source_type": null
+          "path": "beauty/BT-FR-0038/_/main-1-e3a6dc15.jpg",
+          "sha256": "e3a6dc156cc09f266c6cbd38aec4fe9567567269e235417637269a6c996c8651",
+          "bytes": 59408,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6679,27 +6679,27 @@
         "ko": "플루비 플라워 샤워 헤어 앤 바디 미스트",
         "en": "Fluvie Flower Shower Hair and Body Mist"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0039/tmp/main-1-bddd0ea2.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0039/_/main-1-af6b778d.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0039/tmp/main-1-bddd0ea2.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0039/_/main-1-af6b778d.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-FR-0039-main-v0",
+          "temporary": false,
+          "job_id": "BT-FR-0039-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0039/tmp/main-1-bddd0ea2-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0039/tmp/main-1-bddd0ea2-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0039/_/main-1-af6b778d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0039/_/main-1-af6b778d-w960.webp"
           },
-          "path": "beauty/BT-FR-0039/tmp/main-1-bddd0ea2.jpg",
-          "sha256": "bddd0ea22d3cc7f7b14efa5e0679a1a8670df5aab2283a19268b1905efa9e09d",
-          "bytes": 63949,
-          "digital_source_type": null
+          "path": "beauty/BT-FR-0039/_/main-1-af6b778d.jpg",
+          "sha256": "af6b778dc52e6e32098b64b6b0dfd3f9270d65667f1507d72d43fa0a9f7ae072",
+          "bytes": 89851,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6708,27 +6708,27 @@
         "ko": "플루비 머스크 데이 솔리드 퍼퓸",
         "en": "Fluvie Musk Day Solid Perfume"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0040/tmp/main-1-31d4a365.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0040/_/main-1-d0b8307a.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0040/tmp/main-1-31d4a365.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0040/_/main-1-d0b8307a.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-FR-0040-main-v0",
+          "temporary": false,
+          "job_id": "BT-FR-0040-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0040/tmp/main-1-31d4a365-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0040/tmp/main-1-31d4a365-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0040/_/main-1-d0b8307a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0040/_/main-1-d0b8307a-w960.webp"
           },
-          "path": "beauty/BT-FR-0040/tmp/main-1-31d4a365.jpg",
-          "sha256": "31d4a3654bcd748ad6b06a9dba705ef74920c17b56fb98e0c3e03253cd8b54e9",
-          "bytes": 62541,
-          "digital_source_type": null
+          "path": "beauty/BT-FR-0040/_/main-1-d0b8307a.jpg",
+          "sha256": "d0b8307a7449e9a1a042885a87e2d03a30180acb6fae7ed5b6b7b80ef655aab6",
+          "bytes": 101346,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -9202,27 +9202,27 @@
         "ko": "피쥬 로즈 워터 틴트",
         "en": "Fizzu Rose Water Tint"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0051/tmp/main-1-23b0b05a.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0051/_/main-1-337632f8.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0051/tmp/main-1-23b0b05a.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0051/_/main-1-337632f8.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-LM-0051-main-v0",
+          "temporary": false,
+          "job_id": "BT-LM-0051-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0051/tmp/main-1-23b0b05a-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0051/tmp/main-1-23b0b05a-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0051/_/main-1-337632f8-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0051/_/main-1-337632f8-w960.webp"
           },
-          "path": "beauty/BT-LM-0051/tmp/main-1-23b0b05a.jpg",
-          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
-          "bytes": 61784,
-          "digital_source_type": null
+          "path": "beauty/BT-LM-0051/_/main-1-337632f8.jpg",
+          "sha256": "337632f8443e2f0312a738222f79383e92dbf5409f4649c911b40595d3f7bd73",
+          "bytes": 82098,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -9260,27 +9260,27 @@
         "ko": "피쥬 베리 블러 틴트",
         "en": "Fizzu Berry Blur Tint"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0053/tmp/main-1-23b0b05a.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0053/_/main-1-c7059838.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0053/tmp/main-1-23b0b05a.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0053/_/main-1-c7059838.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-LM-0053-main-v0",
+          "temporary": false,
+          "job_id": "BT-LM-0053-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0053/tmp/main-1-23b0b05a-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0053/tmp/main-1-23b0b05a-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0053/_/main-1-c7059838-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0053/_/main-1-c7059838-w960.webp"
           },
-          "path": "beauty/BT-LM-0053/tmp/main-1-23b0b05a.jpg",
-          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
-          "bytes": 61784,
-          "digital_source_type": null
+          "path": "beauty/BT-LM-0053/_/main-1-c7059838.jpg",
+          "sha256": "c705983807c0bd588be2dea613e7fff0f0774820cba973cac006556f3948277c",
+          "bytes": 79540,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -9289,27 +9289,27 @@
         "ko": "피쥬 로즈 새틴 립스틱",
         "en": "Fizzu Rose Satin Lipstick"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0054/tmp/main-1-e1995448.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0054/_/main-1-9e51bb0f.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0054/tmp/main-1-e1995448.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0054/_/main-1-9e51bb0f.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-LM-0054-main-v0",
+          "temporary": false,
+          "job_id": "BT-LM-0054-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0054/tmp/main-1-e1995448-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0054/tmp/main-1-e1995448-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0054/_/main-1-9e51bb0f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0054/_/main-1-9e51bb0f-w960.webp"
           },
-          "path": "beauty/BT-LM-0054/tmp/main-1-e1995448.jpg",
-          "sha256": "e19954482d2e5add7ca1180f33eee36124d62375e4c1a859482e17ee34446b06",
-          "bytes": 57549,
-          "digital_source_type": null
+          "path": "beauty/BT-LM-0054/_/main-1-9e51bb0f.jpg",
+          "sha256": "9e51bb0f7d48562d870451fe5b68bd96387cbb5bcc7bc774dd9448bb0f9cf28b",
+          "bytes": 117835,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -9318,27 +9318,27 @@
         "ko": "피쥬 푸크시아 팝 매트 립스틱",
         "en": "Fizzu Fuchsia Pop Matte Lipstick"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0055/tmp/main-1-e1995448.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0055/_/main-1-44e403a2.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0055/tmp/main-1-e1995448.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0055/_/main-1-44e403a2.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-LM-0055-main-v0",
+          "temporary": false,
+          "job_id": "BT-LM-0055-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0055/tmp/main-1-e1995448-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0055/tmp/main-1-e1995448-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0055/_/main-1-44e403a2-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0055/_/main-1-44e403a2-w960.webp"
           },
-          "path": "beauty/BT-LM-0055/tmp/main-1-e1995448.jpg",
-          "sha256": "e19954482d2e5add7ca1180f33eee36124d62375e4c1a859482e17ee34446b06",
-          "bytes": 57549,
-          "digital_source_type": null
+          "path": "beauty/BT-LM-0055/_/main-1-44e403a2.jpg",
+          "sha256": "44e403a275d3acc992ef87f6a5d007915464685b1512c84b314a37182ee3d756",
+          "bytes": 68251,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -9347,27 +9347,27 @@
         "ko": "피쥬 핑크 베이지 누드 립스틱",
         "en": "Fizzu Pink Beige Nude Lipstick"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0056/tmp/main-1-e1995448.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0056/_/main-1-3b38e492.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0056/tmp/main-1-e1995448.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0056/_/main-1-3b38e492.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-LM-0056-main-v0",
+          "temporary": false,
+          "job_id": "BT-LM-0056-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0056/tmp/main-1-e1995448-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0056/tmp/main-1-e1995448-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0056/_/main-1-3b38e492-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0056/_/main-1-3b38e492-w960.webp"
           },
-          "path": "beauty/BT-LM-0056/tmp/main-1-e1995448.jpg",
-          "sha256": "e19954482d2e5add7ca1180f33eee36124d62375e4c1a859482e17ee34446b06",
-          "bytes": 57549,
-          "digital_source_type": null
+          "path": "beauty/BT-LM-0056/_/main-1-3b38e492.jpg",
+          "sha256": "3b38e49287cdef323bfacec1b27ea0e62fb3de7fc58fdaa070a226c620e87d84",
+          "bytes": 105729,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -9405,27 +9405,27 @@
         "ko": "피쥬 베리 샤인 립 글로스",
         "en": "Fizzu Berry Shine Lip Gloss"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0058/tmp/main-1-23b0b05a.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0058/_/main-1-f5eabd31.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0058/tmp/main-1-23b0b05a.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0058/_/main-1-f5eabd31.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-LM-0058-main-v0",
+          "temporary": false,
+          "job_id": "BT-LM-0058-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0058/tmp/main-1-23b0b05a-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0058/tmp/main-1-23b0b05a-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0058/_/main-1-f5eabd31-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0058/_/main-1-f5eabd31-w960.webp"
           },
-          "path": "beauty/BT-LM-0058/tmp/main-1-23b0b05a.jpg",
-          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
-          "bytes": 61784,
-          "digital_source_type": null
+          "path": "beauty/BT-LM-0058/_/main-1-f5eabd31.jpg",
+          "sha256": "f5eabd317428ae3923b7a41c60455aec99a6a1cdba17f734d3d86aaad284524d",
+          "bytes": 48902,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -9434,27 +9434,27 @@
         "ko": "피쥬 핑크 밤 틴티드 립밤",
         "en": "Fizzu Pink Tinted Lip Balm"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0059/tmp/main-1-e1995448.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0059/_/main-1-9ad996f0.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0059/tmp/main-1-e1995448.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0059/_/main-1-9ad996f0.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-LM-0059-main-v0",
+          "temporary": false,
+          "job_id": "BT-LM-0059-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0059/tmp/main-1-e1995448-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0059/tmp/main-1-e1995448-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0059/_/main-1-9ad996f0-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0059/_/main-1-9ad996f0-w960.webp"
           },
-          "path": "beauty/BT-LM-0059/tmp/main-1-e1995448.jpg",
-          "sha256": "e19954482d2e5add7ca1180f33eee36124d62375e4c1a859482e17ee34446b06",
-          "bytes": 57549,
-          "digital_source_type": null
+          "path": "beauty/BT-LM-0059/_/main-1-9ad996f0.jpg",
+          "sha256": "9ad996f03f7fee6c9c34eac378df8d0df1326dd728ebb17f50671a21c4a4050a",
+          "bytes": 96214,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -9463,27 +9463,27 @@
         "ko": "피쥬 코랄 핑크 듀이 틴트",
         "en": "Fizzu Coral Pink Dewy Tint"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0060/tmp/main-1-23b0b05a.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0060/_/main-1-f6523ff9.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0060/tmp/main-1-23b0b05a.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0060/_/main-1-f6523ff9.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-LM-0060-main-v0",
+          "temporary": false,
+          "job_id": "BT-LM-0060-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0060/tmp/main-1-23b0b05a-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0060/tmp/main-1-23b0b05a-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0060/_/main-1-f6523ff9-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0060/_/main-1-f6523ff9-w960.webp"
           },
-          "path": "beauty/BT-LM-0060/tmp/main-1-23b0b05a.jpg",
-          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
-          "bytes": 61784,
-          "digital_source_type": null
+          "path": "beauty/BT-LM-0060/_/main-1-f6523ff9.jpg",
+          "sha256": "f6523ff93d042aca3ed99c41326ea44177774a69254fcd18b8b06e02b9dad050",
+          "bytes": 101716,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -9521,27 +9521,27 @@
         "ko": "피쥬 소프트 모브 새틴 립스틱",
         "en": "Fizzu Soft Mauve Satin Lipstick"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0062/tmp/main-1-e1995448.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0062/_/main-1-14a2cb3a.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0062/tmp/main-1-e1995448.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0062/_/main-1-14a2cb3a.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-LM-0062-main-v0",
+          "temporary": false,
+          "job_id": "BT-LM-0062-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0062/tmp/main-1-e1995448-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0062/tmp/main-1-e1995448-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0062/_/main-1-14a2cb3a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0062/_/main-1-14a2cb3a-w960.webp"
           },
-          "path": "beauty/BT-LM-0062/tmp/main-1-e1995448.jpg",
-          "sha256": "e19954482d2e5add7ca1180f33eee36124d62375e4c1a859482e17ee34446b06",
-          "bytes": 57549,
-          "digital_source_type": null
+          "path": "beauty/BT-LM-0062/_/main-1-14a2cb3a.jpg",
+          "sha256": "14a2cb3ada67162f51a4b833fc7e37114acada372a62848f04b5c5d274921fa7",
+          "bytes": 86577,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -9550,27 +9550,27 @@
         "ko": "피쥬 블룸 워터 틴트",
         "en": "Fizzu Bloom Water Tint"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0063/tmp/main-1-23b0b05a.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0063/_/main-1-9abc36c0.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0063/tmp/main-1-23b0b05a.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0063/_/main-1-9abc36c0.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-LM-0063-main-v0",
+          "temporary": false,
+          "job_id": "BT-LM-0063-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0063/tmp/main-1-23b0b05a-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0063/tmp/main-1-23b0b05a-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0063/_/main-1-9abc36c0-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0063/_/main-1-9abc36c0-w960.webp"
           },
-          "path": "beauty/BT-LM-0063/tmp/main-1-23b0b05a.jpg",
-          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
-          "bytes": 61784,
-          "digital_source_type": null
+          "path": "beauty/BT-LM-0063/_/main-1-9abc36c0.jpg",
+          "sha256": "9abc36c097a6b62f48de64723eae150b80ae25c9bbe7c86c4267e8061211b1e5",
+          "bytes": 53679,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -9579,27 +9579,27 @@
         "ko": "피쥬 로즈 듀이 글로스",
         "en": "Fizzu Rose Dewy Gloss"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0064/tmp/main-1-23b0b05a.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0064/_/main-1-b75a1165.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0064/tmp/main-1-23b0b05a.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0064/_/main-1-b75a1165.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-LM-0064-main-v0",
+          "temporary": false,
+          "job_id": "BT-LM-0064-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0064/tmp/main-1-23b0b05a-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0064/tmp/main-1-23b0b05a-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0064/_/main-1-b75a1165-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0064/_/main-1-b75a1165-w960.webp"
           },
-          "path": "beauty/BT-LM-0064/tmp/main-1-23b0b05a.jpg",
-          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
-          "bytes": 61784,
-          "digital_source_type": null
+          "path": "beauty/BT-LM-0064/_/main-1-b75a1165.jpg",
+          "sha256": "b75a1165df2c9320a7c26c4c0ed6887d434491a73cea2523f7bb7c11f5b306c3",
+          "bytes": 83062,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -9637,27 +9637,27 @@
         "ko": "피쥬 핑크 시럽 틴트",
         "en": "Fizzu Pink Syrup Tint"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0066/tmp/main-1-23b0b05a.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0066/_/main-1-9f043d6e.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0066/tmp/main-1-23b0b05a.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0066/_/main-1-9f043d6e.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-LM-0066-main-v0",
+          "temporary": false,
+          "job_id": "BT-LM-0066-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0066/tmp/main-1-23b0b05a-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0066/tmp/main-1-23b0b05a-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0066/_/main-1-9f043d6e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0066/_/main-1-9f043d6e-w960.webp"
           },
-          "path": "beauty/BT-LM-0066/tmp/main-1-23b0b05a.jpg",
-          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
-          "bytes": 61784,
-          "digital_source_type": null
+          "path": "beauty/BT-LM-0066/_/main-1-9f043d6e.jpg",
+          "sha256": "9f043d6e3cc0d9d897f5c50bedb2448ec406397813a074ee823f9f638fa3a8fb",
+          "bytes": 68562,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -10594,26 +10594,26 @@
         "ko": "다피 팩 핸드 마스크 장갑",
         "en": "Dapi Pack Hand Mask Gloves"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0033/_/main-1-c3e0b57d.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0033/_/main-1-1b69e423.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0033/_/main-1-c3e0b57d.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0033/_/main-1-1b69e423.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "BT-MP-0033-main-logo-v2",
+          "job_id": "BT-MP-0033-main-logo-v3",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0033/_/main-1-c3e0b57d-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0033/_/main-1-c3e0b57d-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0033/_/main-1-1b69e423-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-MP-0033/_/main-1-1b69e423-w960.webp"
           },
-          "path": "beauty/BT-MP-0033/_/main-1-c3e0b57d.jpg",
-          "sha256": "c3e0b57d45ade9dd5275257e24ecf6d6d26bac4a1700169391714a8274e219fb",
-          "bytes": 112965,
+          "path": "beauty/BT-MP-0033/_/main-1-1b69e423.jpg",
+          "sha256": "1b69e423d25313ccd41f535eefa077a9712339cf4b2223b0498fcdc4bd312e45",
+          "bytes": 140072,
           "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
@@ -14306,27 +14306,27 @@
         "ko": "벨모라 오로라 래디언스 아이 크림",
         "en": "Velmora Aurora Radiance Eye Cream"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0101/tmp/main-1-630c2563.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0101/_/main-1-8a777c93.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0101/tmp/main-1-630c2563.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0101/_/main-1-8a777c93.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-SK-0101-main-v0",
+          "temporary": false,
+          "job_id": "BT-SK-0101-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0101/tmp/main-1-630c2563-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0101/tmp/main-1-630c2563-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0101/_/main-1-8a777c93-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0101/_/main-1-8a777c93-w960.webp"
           },
-          "path": "beauty/BT-SK-0101/tmp/main-1-630c2563.jpg",
-          "sha256": "630c25630c78c8705e3e5cc478be982c3a897e98286eac1defc279ba4e79b04f",
-          "bytes": 57620,
-          "digital_source_type": null
+          "path": "beauty/BT-SK-0101/_/main-1-8a777c93.jpg",
+          "sha256": "8a777c93374fba7640518fea11e388d99e799cd8cf4d0517d362c9103e9582c4",
+          "bytes": 98709,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -14335,27 +14335,27 @@
         "ko": "누베드라 배리어 케어 아이 밤",
         "en": "Nuvedra Barrier Care Eye Balm"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0102/tmp/main-1-89950c43.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0102/_/main-1-53231104.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0102/tmp/main-1-89950c43.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0102/_/main-1-53231104.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-SK-0102-main-v0",
+          "temporary": false,
+          "job_id": "BT-SK-0102-main-logo-v2",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0102/tmp/main-1-89950c43-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0102/tmp/main-1-89950c43-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0102/_/main-1-53231104-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0102/_/main-1-53231104-w960.webp"
           },
-          "path": "beauty/BT-SK-0102/tmp/main-1-89950c43.jpg",
-          "sha256": "89950c43f685e940fa892301622e2acda737734d18060fdac520ddcc35a7a60e",
-          "bytes": 59662,
-          "digital_source_type": null
+          "path": "beauty/BT-SK-0102/_/main-1-53231104.jpg",
+          "sha256": "5323110435e7ea80378f960726e28ebe430a4c5fdf60600d41e900547599c53a",
+          "bytes": 72541,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -14364,27 +14364,27 @@
         "ko": "윌보아 소프트 오트 아이 크림",
         "en": "Wilvoa Soft Oat Eye Cream"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0103/tmp/main-1-3cf90659.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0103/_/main-1-119e3fcb.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0103/tmp/main-1-3cf90659.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0103/_/main-1-119e3fcb.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-SK-0103-main-v0",
+          "temporary": false,
+          "job_id": "BT-SK-0103-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0103/tmp/main-1-3cf90659-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0103/tmp/main-1-3cf90659-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0103/_/main-1-119e3fcb-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0103/_/main-1-119e3fcb-w960.webp"
           },
-          "path": "beauty/BT-SK-0103/tmp/main-1-3cf90659.jpg",
-          "sha256": "3cf906591a20c24c88ba2b3c2d6e7005c70eff5683d26480c9c61c5169d712c1",
-          "bytes": 58054,
-          "digital_source_type": null
+          "path": "beauty/BT-SK-0103/_/main-1-119e3fcb.jpg",
+          "sha256": "119e3fcb1527f9d2629b9116f5701ad2f5fafce611fc411cf7f3c251db479010",
+          "bytes": 94173,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -14393,27 +14393,27 @@
         "ko": "유조이 데일리 아이 앰플",
         "en": "Yujoy Daily Eye Ampoule"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0104/tmp/main-1-2b8e99d0.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0104/_/main-1-06e88fa4.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0104/tmp/main-1-2b8e99d0.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0104/_/main-1-06e88fa4.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-SK-0104-main-v0",
+          "temporary": false,
+          "job_id": "BT-SK-0104-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0104/tmp/main-1-2b8e99d0-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0104/tmp/main-1-2b8e99d0-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0104/_/main-1-06e88fa4-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0104/_/main-1-06e88fa4-w960.webp"
           },
-          "path": "beauty/BT-SK-0104/tmp/main-1-2b8e99d0.jpg",
-          "sha256": "2b8e99d0d595ce42d88785e1733f28a0d4364e64471eaaf8f451a70e7386cf49",
-          "bytes": 66541,
-          "digital_source_type": null
+          "path": "beauty/BT-SK-0104/_/main-1-06e88fa4.jpg",
+          "sha256": "06e88fa46822b30e6d20991e06a8a4bcea2b8b85244b73f766cc8f73862b789d",
+          "bytes": 71469,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -14422,27 +14422,27 @@
         "ko": "벨모라 벨벳 눈가 아이 앤 넥 크림",
         "en": "Velmora Velvet Eye and Neck Cream"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0105/tmp/main-1-630c2563.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0105/_/main-1-dc772d85.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0105/tmp/main-1-630c2563.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0105/_/main-1-dc772d85.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-SK-0105-main-v0",
+          "temporary": false,
+          "job_id": "BT-SK-0105-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0105/tmp/main-1-630c2563-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0105/tmp/main-1-630c2563-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0105/_/main-1-dc772d85-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0105/_/main-1-dc772d85-w960.webp"
           },
-          "path": "beauty/BT-SK-0105/tmp/main-1-630c2563.jpg",
-          "sha256": "630c25630c78c8705e3e5cc478be982c3a897e98286eac1defc279ba4e79b04f",
-          "bytes": 57620,
-          "digital_source_type": null
+          "path": "beauty/BT-SK-0105/_/main-1-dc772d85.jpg",
+          "sha256": "dc772d85843151da1aa27b618bb2e5225b6c5a76275bff10256e7162c5483297",
+          "bytes": 82396,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -14451,27 +14451,27 @@
         "ko": "누베드라 시카 수딩 아이 세럼",
         "en": "Nuvedra Cica Soothing Eye Serum"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0106/tmp/main-1-05c620ff.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0106/_/main-1-3bbbe468.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0106/tmp/main-1-05c620ff.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0106/_/main-1-3bbbe468.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-SK-0106-main-v0",
+          "temporary": false,
+          "job_id": "BT-SK-0106-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0106/tmp/main-1-05c620ff-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0106/tmp/main-1-05c620ff-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0106/_/main-1-3bbbe468-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SK-0106/_/main-1-3bbbe468-w960.webp"
           },
-          "path": "beauty/BT-SK-0106/tmp/main-1-05c620ff.jpg",
-          "sha256": "05c620ffe1a868b634ce5760e0ae20febb08173cefea83a461f6a8653b43127a",
-          "bytes": 62134,
-          "digital_source_type": null
+          "path": "beauty/BT-SK-0106/_/main-1-3bbbe468.jpg",
+          "sha256": "3bbbe468aa4f61e2f95f1da7e98c7a595e997fbf6db1a277df0f0519d5f7a21b",
+          "bytes": 104778,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -16336,27 +16336,27 @@
         "ko": "엘노아 소프트 톤 톤업 선 쿠션",
         "en": "Elnoa Soft Tone Tone-up Sunscreen Cushion"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0043/tmp/main-1-cd6a2973.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0043/_/main-1-22ed06a9.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0043/tmp/main-1-cd6a2973.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0043/_/main-1-22ed06a9.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-SN-0043-main-v0",
+          "temporary": false,
+          "job_id": "BT-SN-0043-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0043/tmp/main-1-cd6a2973-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0043/tmp/main-1-cd6a2973-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0043/_/main-1-22ed06a9-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0043/_/main-1-22ed06a9-w960.webp"
           },
-          "path": "beauty/BT-SN-0043/tmp/main-1-cd6a2973.jpg",
-          "sha256": "cd6a2973c979f42ef25883e6e9ccbee9f0b5c1f644d3b62ba781e820acff833d",
-          "bytes": 72381,
-          "digital_source_type": null
+          "path": "beauty/BT-SN-0043/_/main-1-22ed06a9.jpg",
+          "sha256": "22ed06a9731a0c37a50efc7d60dfbbbe3992200d00161d7b7e91b5ceb71f924f",
+          "bytes": 121999,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
