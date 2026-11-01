@@ -2559,26 +2559,26 @@
         "ko": "강원 영계",
         "en": "Gangwon Young Chicken"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0015/main/main-1-ec9ed98f.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0015/main/main-1-75b6d3b4.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0015/main/main-1-ec9ed98f.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0015/main/main-1-75b6d3b4.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-CK-04-main-v2",
+          "job_id": "FD-MT-0015-tray-r3-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0015/main/main-1-ec9ed98f-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0015/main/main-1-ec9ed98f-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0015/main/main-1-75b6d3b4-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0015/main/main-1-75b6d3b4-w960.webp"
           },
-          "path": "food/FD-MT-0015/main/main-1-ec9ed98f.jpg",
-          "sha256": "ec9ed98f0f42779842e3762b82010560c225e12eef5018dd6ae2b561b5d411e2",
-          "bytes": 166614,
+          "path": "food/FD-MT-0015/main/main-1-75b6d3b4.jpg",
+          "sha256": "75b6d3b49d193464d8aecfd35202e9a4124b8bdf132f485df80914d54c1ae723",
+          "bytes": 109377,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -3619,27 +3619,27 @@
         "ko": "경북 계란 대란",
         "en": "Large Gyeongbuk Eggs"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0045/tmp-main/main-1-35b25292.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0045/main/main-1-cdba51e7.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0045/tmp-main/main-1-35b25292.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0045/main/main-1-cdba51e7.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0045-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0045-tray-r3-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0045/tmp-main/main-1-35b25292-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0045/tmp-main/main-1-35b25292-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0045/main/main-1-cdba51e7-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0045/main/main-1-cdba51e7-w960.webp"
           },
-          "path": "food/FD-MT-0045/tmp-main/main-1-35b25292.jpg",
-          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
-          "bytes": 72961,
-          "digital_source_type": null
+          "path": "food/FD-MT-0045/main/main-1-cdba51e7.jpg",
+          "sha256": "cdba51e773b4bb2623ce6d3fbc3cf694007bc0dd37bb4b98d1d5b467889a020d",
+          "bytes": 165265,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
