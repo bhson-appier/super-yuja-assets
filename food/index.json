@@ -4,6 +4,566 @@
   "url_form": "<vertical>/<productId>/<group>/<kind>-<seq>-<sha8>.jpg",
   "note": "AI-generated product photos of a demo shop (수퍼유자), not a real store. Files never change in place. placeholder = a temporary drawn image (not AI-generated) until the photo is approved.",
   "products": {
+    "FD-BV-0001": {
+      "name": {
+        "ko": "원두막 무가당 콜드브루 블랙",
+        "en": "Wondumak Unsweetened Black Cold Brew Coffee"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0001/main/main-1-7c66b4da.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0001/main/main-1-7c66b4da.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": "T0-BV-main",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0001/main/main-1-7c66b4da-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0001/main/main-1-7c66b4da-w960.webp"
+          },
+          "path": "food/FD-BV-0001/main/main-1-7c66b4da.jpg",
+          "sha256": "7c66b4da1e574080a70f7e2eb6446652daf2b53c3cd4eb52e33a7ffbe94a5c8f",
+          "bytes": 72168,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0001/main/scene-1-7061c982.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": "T0-BV-scene",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0001/main/scene-1-7061c982-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0001/main/scene-1-7061c982-w960.webp"
+          },
+          "path": "food/FD-BV-0001/main/scene-1-7061c982.jpg",
+          "sha256": "7061c982244bcc8e57c84de55f5ed14619c35881b5baa556311671a3babe67f6",
+          "bytes": 197198,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-BV-0002": {
+      "name": {
+        "ko": "원두막 디카페인 콜드브루 블랙",
+        "en": "Wondumak Decaf Black Cold Brew Coffee"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0002/tmp-main/main-1-c14a7daf.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0002/tmp-main/main-1-c14a7daf.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-BV-0002-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0002/tmp-main/main-1-c14a7daf-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0002/tmp-main/main-1-c14a7daf-w960.webp"
+          },
+          "path": "food/FD-BV-0002/tmp-main/main-1-c14a7daf.jpg",
+          "sha256": "c14a7dafa6f8eadf5587d44b157eac65ef8c22d000bf2a0ecec32a9f5772ee84",
+          "bytes": 59117,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-BV-0003": {
+      "name": {
+        "ko": "옹달샘 무가당 사과주스",
+        "en": "Ongdalsaem Unsweetened Apple Juice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0003/tmp-main/main-1-ff1a93d3.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0003/tmp-main/main-1-ff1a93d3.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-BV-0003-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0003/tmp-main/main-1-ff1a93d3-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0003/tmp-main/main-1-ff1a93d3-w960.webp"
+          },
+          "path": "food/FD-BV-0003/tmp-main/main-1-ff1a93d3.jpg",
+          "sha256": "ff1a93d3b28ee8cec5ad9fde4dbeb22f732938cff734e5dfcf4d961695f35be9",
+          "bytes": 67435,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-BV-0004": {
+      "name": {
+        "ko": "유조이 무가당 사과주스",
+        "en": "Yujoy Unsweetened Apple Juice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0004/tmp-main/main-1-c3e7163d.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0004/tmp-main/main-1-c3e7163d.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-BV-0004-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0004/tmp-main/main-1-c3e7163d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0004/tmp-main/main-1-c3e7163d-w960.webp"
+          },
+          "path": "food/FD-BV-0004/tmp-main/main-1-c3e7163d.jpg",
+          "sha256": "c3e7163d1ac643d27d2723f232df5fa8bcd55e6110e20f51b3879595c4bec510",
+          "bytes": 64851,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-BV-0005": {
+      "name": {
+        "ko": "차마루 볶은 보리차",
+        "en": "Chamaru Roasted Barley Tea"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0005/tmp-main/main-1-6229652f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0005/tmp-main/main-1-6229652f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-BV-0005-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0005/tmp-main/main-1-6229652f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0005/tmp-main/main-1-6229652f-w960.webp"
+          },
+          "path": "food/FD-BV-0005/tmp-main/main-1-6229652f.jpg",
+          "sha256": "6229652f4ab69ad1d03ee08228b9c1652613f0158a2f2dbb49010b80b8a83f79",
+          "bytes": 65663,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-BV-0006": {
+      "name": {
+        "ko": "차마루 현미 보리차",
+        "en": "Chamaru Brown Rice Barley Tea"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0006/tmp-main/main-1-6229652f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0006/tmp-main/main-1-6229652f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-BV-0006-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0006/tmp-main/main-1-6229652f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0006/tmp-main/main-1-6229652f-w960.webp"
+          },
+          "path": "food/FD-BV-0006/tmp-main/main-1-6229652f.jpg",
+          "sha256": "6229652f4ab69ad1d03ee08228b9c1652613f0158a2f2dbb49010b80b8a83f79",
+          "bytes": 65663,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-BV-0007": {
+      "name": {
+        "ko": "차마루 녹차",
+        "en": "Chamaru Green Tea"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0007/tmp-main/main-1-6229652f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0007/tmp-main/main-1-6229652f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-BV-0007-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0007/tmp-main/main-1-6229652f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-BV-0007/tmp-main/main-1-6229652f-w960.webp"
+          },
+          "path": "food/FD-BV-0007/tmp-main/main-1-6229652f.jpg",
+          "sha256": "6229652f4ab69ad1d03ee08228b9c1652613f0158a2f2dbb49010b80b8a83f79",
+          "bytes": 65663,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-DY-0001": {
+      "name": {
+        "ko": "유조이 국산콩 부침두부",
+        "en": "Yujoy Korean-Soybean Firm Tofu"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0001/main/main-1-2f019a8e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0001/main/main-1-2f019a8e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": "T0-DY-main",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0001/main/main-1-2f019a8e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0001/main/main-1-2f019a8e-w960.webp"
+          },
+          "path": "food/FD-DY-0001/main/main-1-2f019a8e.jpg",
+          "sha256": "2f019a8e0e719a8ea81670b4824042e8a617c97b9a1cee4463f8204714610f3b",
+          "bytes": 107534,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0001/main/scene-1-78385e93.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": "T0-DY-scene",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0001/main/scene-1-78385e93-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0001/main/scene-1-78385e93-w960.webp"
+          },
+          "path": "food/FD-DY-0001/main/scene-1-78385e93.jpg",
+          "sha256": "78385e93b5d376e37c86ee5e13c4d15ac05816ad29af09200e5d82c16698f5d9",
+          "bytes": 284618,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-DY-0002": {
+      "name": {
+        "ko": "흰구름 저지방 우유",
+        "en": "Huingureum Low-Fat Milk"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0002/tmp-main/main-1-dd84220a.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0002/tmp-main/main-1-dd84220a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-DY-0002-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0002/tmp-main/main-1-dd84220a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0002/tmp-main/main-1-dd84220a-w960.webp"
+          },
+          "path": "food/FD-DY-0002/tmp-main/main-1-dd84220a.jpg",
+          "sha256": "dd84220aa43e5fadf389ff5b0f5d89df1cf6cd550aa939f8523453a0c7147f3d",
+          "bytes": 63905,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-DY-0003": {
+      "name": {
+        "ko": "흰구름 오리지널 우유",
+        "en": "Huingureum Original Milk"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0003/tmp-main/main-1-dd84220a.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0003/tmp-main/main-1-dd84220a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-DY-0003-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0003/tmp-main/main-1-dd84220a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0003/tmp-main/main-1-dd84220a-w960.webp"
+          },
+          "path": "food/FD-DY-0003/tmp-main/main-1-dd84220a.jpg",
+          "sha256": "dd84220aa43e5fadf389ff5b0f5d89df1cf6cd550aa939f8523453a0c7147f3d",
+          "bytes": 63905,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-DY-0004": {
+      "name": {
+        "ko": "언덕목장 오리지널 우유",
+        "en": "Eondeok Original Milk"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0004/tmp-main/main-1-9eb4388f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0004/tmp-main/main-1-9eb4388f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-DY-0004-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0004/tmp-main/main-1-9eb4388f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0004/tmp-main/main-1-9eb4388f-w960.webp"
+          },
+          "path": "food/FD-DY-0004/tmp-main/main-1-9eb4388f.jpg",
+          "sha256": "9eb4388f651b30b1d7f4bfbe5cebfc6768f6d5425b74cd5e44945ee2a37f16d9",
+          "bytes": 59382,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-DY-0005": {
+      "name": {
+        "ko": "흰구름 플레인 요거트",
+        "en": "Huingureum Plain Yogurt"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0005/tmp-main/main-1-dd84220a.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0005/tmp-main/main-1-dd84220a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-DY-0005-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0005/tmp-main/main-1-dd84220a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0005/tmp-main/main-1-dd84220a-w960.webp"
+          },
+          "path": "food/FD-DY-0005/tmp-main/main-1-dd84220a.jpg",
+          "sha256": "dd84220aa43e5fadf389ff5b0f5d89df1cf6cd550aa939f8523453a0c7147f3d",
+          "bytes": 63905,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-DY-0006": {
+      "name": {
+        "ko": "언덕목장 무가당 요거트",
+        "en": "Eondeok Unsweetened Yogurt"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0006/tmp-main/main-1-9eb4388f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0006/tmp-main/main-1-9eb4388f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-DY-0006-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0006/tmp-main/main-1-9eb4388f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0006/tmp-main/main-1-9eb4388f-w960.webp"
+          },
+          "path": "food/FD-DY-0006/tmp-main/main-1-9eb4388f.jpg",
+          "sha256": "9eb4388f651b30b1d7f4bfbe5cebfc6768f6d5425b74cd5e44945ee2a37f16d9",
+          "bytes": 59382,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-DY-0007": {
+      "name": {
+        "ko": "언덕목장 슬라이스 치즈",
+        "en": "Eondeok Sliced Cheese"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0007/tmp-main/main-1-4fbe0bd9.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0007/tmp-main/main-1-4fbe0bd9.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-DY-0007-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0007/tmp-main/main-1-4fbe0bd9-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0007/tmp-main/main-1-4fbe0bd9-w960.webp"
+          },
+          "path": "food/FD-DY-0007/tmp-main/main-1-4fbe0bd9.jpg",
+          "sha256": "4fbe0bd9f44c305fdecdb3ebac669e22e032e7bef684d7177714201d33bfc884",
+          "bytes": 64662,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-DY-0008": {
+      "name": {
+        "ko": "유조이 슬라이스 치즈",
+        "en": "Yujoy Sliced Cheese"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0008/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0008/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-DY-0008-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0008/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0008/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-DY-0008/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-DY-0009": {
+      "name": {
+        "ko": "언덕목장 가염 버터",
+        "en": "Eondeok Salted Butter"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0009/tmp-main/main-1-4fbe0bd9.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0009/tmp-main/main-1-4fbe0bd9.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-DY-0009-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0009/tmp-main/main-1-4fbe0bd9-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0009/tmp-main/main-1-4fbe0bd9-w960.webp"
+          },
+          "path": "food/FD-DY-0009/tmp-main/main-1-4fbe0bd9.jpg",
+          "sha256": "4fbe0bd9f44c305fdecdb3ebac669e22e032e7bef684d7177714201d33bfc884",
+          "bytes": 64662,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-DY-0010": {
+      "name": {
+        "ko": "흰구름 국산콩 부침두부",
+        "en": "Huingureum Korean-Soybean Firm Tofu"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0010/tmp-main/main-1-d053620d.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0010/tmp-main/main-1-d053620d.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-DY-0010-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0010/tmp-main/main-1-d053620d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0010/tmp-main/main-1-d053620d-w960.webp"
+          },
+          "path": "food/FD-DY-0010/tmp-main/main-1-d053620d.jpg",
+          "sha256": "d053620d2fea1eb68c3f9b4f820d63cdaa4465c4bfe1cf75a078db984e70a54a",
+          "bytes": 66079,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-DY-0011": {
+      "name": {
+        "ko": "흰구름 순두부",
+        "en": "Huingureum Soft Tofu"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0011/tmp-main/main-1-d053620d.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0011/tmp-main/main-1-d053620d.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-DY-0011-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0011/tmp-main/main-1-d053620d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-DY-0011/tmp-main/main-1-d053620d-w960.webp"
+          },
+          "path": "food/FD-DY-0011/tmp-main/main-1-d053620d.jpg",
+          "sha256": "d053620d2fea1eb68c3f9b4f820d63cdaa4465c4bfe1cf75a078db984e70a54a",
+          "bytes": 66079,
+          "digital_source_type": null
+        }
+      ]
+    },
     "FD-FR-0001": {
       "name": {
         "ko": "경북 홍로 사과 특",
@@ -913,6 +1473,412 @@
           "sha256": "458eb024c333cd2266096929516e34292c81d5ca5ceea3938849c904cf351ac2",
           "bytes": 258713,
           "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-FR-0021": {
+      "name": {
+        "ko": "경북 홍로 사과",
+        "en": "Gyeongbuk Hongro Apples"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0021/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0021/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-FR-0021-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0021/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0021/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-FR-0021/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-FR-0022": {
+      "name": {
+        "ko": "충북 홍로 사과",
+        "en": "Chungbuk Hongro Apples"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0022/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0022/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-FR-0022-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0022/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0022/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-FR-0022/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-FR-0023": {
+      "name": {
+        "ko": "경북 부사 사과 특",
+        "en": "Premium Gyeongbuk Fuji Apples"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0023/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0023/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-FR-0023-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0023/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0023/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-FR-0023/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-FR-0024": {
+      "name": {
+        "ko": "충북 부사 사과",
+        "en": "Chungbuk Fuji Apples"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0024/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0024/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-FR-0024-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0024/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0024/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-FR-0024/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-FR-0025": {
+      "name": {
+        "ko": "경북 시나노골드 사과",
+        "en": "Gyeongbuk Shinano Gold Apples"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0025/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0025/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-FR-0025-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0025/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0025/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-FR-0025/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-FR-0026": {
+      "name": {
+        "ko": "강원 감홍 사과",
+        "en": "Gangwon Gamhong Apples"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0026/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0026/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-FR-0026-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0026/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0026/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-FR-0026/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-FR-0027": {
+      "name": {
+        "ko": "경북 시나노골드 사과 특",
+        "en": "Premium Gyeongbuk Shinano Gold Apples"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0027/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0027/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-FR-0027-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0027/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0027/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-FR-0027/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-FR-0028": {
+      "name": {
+        "ko": "강원 감홍 사과 특",
+        "en": "Premium Gangwon Gamhong Apples"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0028/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0028/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-FR-0028-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0028/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0028/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-FR-0028/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-FR-0029": {
+      "name": {
+        "ko": "충남 신고 배",
+        "en": "Chungnam Singo Pears"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0029/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0029/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-FR-0029-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0029/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0029/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-FR-0029/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-FR-0030": {
+      "name": {
+        "ko": "경기 신고 배 특",
+        "en": "Premium Gyeonggi Singo Pears"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0030/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0030/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-FR-0030-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0030/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0030/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-FR-0030/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-FR-0031": {
+      "name": {
+        "ko": "전남 한라봉 특",
+        "en": "Premium Jeonnam Hallabong Oranges"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0031/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0031/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-FR-0031-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0031/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0031/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-FR-0031/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-FR-0032": {
+      "name": {
+        "ko": "충북 부사 사과 특",
+        "en": "Premium Chungbuk Fuji Apples"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0032/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0032/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-FR-0032-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0032/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0032/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-FR-0032/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-KS-0002": {
+      "name": {
+        "ko": "어부네 시금치나물",
+        "en": "Eobune Seasoned Spinach"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-KS-0002/tmp-main/main-1-72b4a645.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-KS-0002/tmp-main/main-1-72b4a645.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-KS-0002-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-KS-0002/tmp-main/main-1-72b4a645-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-KS-0002/tmp-main/main-1-72b4a645-w960.webp"
+          },
+          "path": "food/FD-KS-0002/tmp-main/main-1-72b4a645.jpg",
+          "sha256": "72b4a6455d7d9320115aeb5c264bc0eb4bcd5c68a63bdc8b24227cd23257f894",
+          "bytes": 62238,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-KS-0003": {
+      "name": {
+        "ko": "서림댁 시금치나물",
+        "en": "Seorimdaek Seasoned Spinach"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-KS-0003/tmp-main/main-1-eb9d9c4f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-KS-0003/tmp-main/main-1-eb9d9c4f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-KS-0003-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-KS-0003/tmp-main/main-1-eb9d9c4f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-KS-0003/tmp-main/main-1-eb9d9c4f-w960.webp"
+          },
+          "path": "food/FD-KS-0003/tmp-main/main-1-eb9d9c4f.jpg",
+          "sha256": "eb9d9c4f2dd68b6b1465e4ba7dfd521b555d40136333f4aaea10dfa677b0a891",
+          "bytes": 58945,
+          "digital_source_type": null
         }
       ]
     },
@@ -2068,6 +3034,2267 @@
         }
       ]
     },
+    "FD-MT-0025": {
+      "name": {
+        "ko": "제주 도톰 삼겹살 1+ 구이용",
+        "en": "Grade 1+ Jeju Thick-Cut Pork Belly for Grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0025/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0025/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0025-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0025/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0025/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0025/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0026": {
+      "name": {
+        "ko": "제주 도톰 삼겹살 1등급 구이용",
+        "en": "Grade 1 Jeju Thick-Cut Pork Belly for Grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0026/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0026/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0026-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0026/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0026/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0026/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0027": {
+      "name": {
+        "ko": "충북 도톰 삼겹살 1+ 구이용",
+        "en": "Grade 1+ Chungbuk Thick-Cut Pork Belly for Grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0027/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0027/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0027-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0027/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0027/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0027/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0028": {
+      "name": {
+        "ko": "강원 돼지 삼겹살 1+ 구이용",
+        "en": "Grade 1+ Gangwon Pork Belly for Grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0028/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0028/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0028-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0028/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0028/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0028/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0029": {
+      "name": {
+        "ko": "강원 돼지 삼겹살 1등급 구이용",
+        "en": "Grade 1 Gangwon Pork Belly for Grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0029/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0029/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0029-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0029/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0029/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0029/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0030": {
+      "name": {
+        "ko": "경북 돼지 삼겹살 1+ 구이용",
+        "en": "Grade 1+ Gyeongbuk Pork Belly for Grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0030/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0030/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0030-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0030/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0030/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0030/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0031": {
+      "name": {
+        "ko": "경북 돼지 삼겹살 1등급 구이용",
+        "en": "Grade 1 Gyeongbuk Pork Belly for Grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0031/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0031/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0031-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0031/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0031/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0031/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0032": {
+      "name": {
+        "ko": "충남 돼지 삼겹살 1+ 구이용",
+        "en": "Grade 1+ Chungnam Pork Belly for Grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0032/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0032/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0032-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0032/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0032/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0032/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0033": {
+      "name": {
+        "ko": "전남 돼지 삼겹살 1등급 구이용",
+        "en": "Grade 1 Jeonnam Pork Belly for Grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0033/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0033/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0033-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0033/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0033/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0033/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0034": {
+      "name": {
+        "ko": "강원 도톰 삼겹살 1+ 구이용",
+        "en": "Grade 1+ Gangwon Thick-Cut Pork Belly for Grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0034/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0034/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0034-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0034/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0034/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0034/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0035": {
+      "name": {
+        "ko": "경북 도톰 삼겹살 1등급 구이용",
+        "en": "Grade 1 Gyeongbuk Thick-Cut Pork Belly for Grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0035/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0035/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0035-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0035/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0035/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0035/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0036": {
+      "name": {
+        "ko": "충남 도톰 삼겹살 1+ 구이용",
+        "en": "Grade 1+ Chungnam Thick-Cut Pork Belly for Grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0036/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0036/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0036-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0036/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0036/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0036/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0037": {
+      "name": {
+        "ko": "전북 도톰 삼겹살 1등급 구이용",
+        "en": "Grade 1 Jeonbuk Thick-Cut Pork Belly for Grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0037/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0037/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0037-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0037/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0037/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0037/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0038": {
+      "name": {
+        "ko": "한우 우둔 1+ 장조림용",
+        "en": "Grade 1+ Hanwoo Beef Round for Braising"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0038/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0038/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0038-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0038/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0038/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0038/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0039": {
+      "name": {
+        "ko": "한우 우둔 1++ 장조림용",
+        "en": "Grade 1++ Hanwoo Beef Round for Braising"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0039/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0039/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0039-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0039/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0039/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0039/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0040": {
+      "name": {
+        "ko": "한우 다짐육 1+ 다짐용",
+        "en": "Grade 1+ Hanwoo Ground Beef"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0040/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0040/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0040-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0040/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0040/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0040/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0041": {
+      "name": {
+        "ko": "한우 다짐육 1++ 다짐용",
+        "en": "Grade 1++ Hanwoo Ground Beef"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0041/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0041/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0041-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0041/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0041/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0041/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0042": {
+      "name": {
+        "ko": "한우 불고기용 1++",
+        "en": "Grade 1++ Hanwoo Bulgogi Beef"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0042/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0042/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0042-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0042/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0042/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0042/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0043": {
+      "name": {
+        "ko": "한우 국거리 1++",
+        "en": "Grade 1++ Hanwoo Beef Stew Meat"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0043/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0043/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0043-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0043/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0043/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0043/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0044": {
+      "name": {
+        "ko": "충남 계란 특란",
+        "en": "Extra Large Chungnam Eggs"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0044/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0044/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0044-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0044/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0044/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-MT-0044/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0045": {
+      "name": {
+        "ko": "경북 계란 대란",
+        "en": "Large Gyeongbuk Eggs"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0045/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0045/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0045-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0045/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0045/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-MT-0045/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0046": {
+      "name": {
+        "ko": "전북 계란 특란",
+        "en": "Extra Large Jeonbuk Eggs"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0046/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0046/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0046-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0046/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0046/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-MT-0046/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0047": {
+      "name": {
+        "ko": "경기 유정란 특란",
+        "en": "Extra Large Gyeonggi Fertile Eggs"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0047/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0047/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0047-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0047/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0047/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-MT-0047/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0048": {
+      "name": {
+        "ko": "충북 유정란 대란",
+        "en": "Large Chungbuk Fertile Eggs"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0048/tmp-main/main-1-35b25292.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0048/tmp-main/main-1-35b25292.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0048-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0048/tmp-main/main-1-35b25292-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0048/tmp-main/main-1-35b25292-w960.webp"
+          },
+          "path": "food/FD-MT-0048/tmp-main/main-1-35b25292.jpg",
+          "sha256": "35b25292b0d25b0ecd87695865421eeea69baf1bf0ece0ea73104e512354b40c",
+          "bytes": 72961,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0049": {
+      "name": {
+        "ko": "한우 등심 1등급 구이용",
+        "en": "Grade 1 Hanwoo Beef Sirloin for Grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0049/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0049/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0049-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0049/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0049/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0049/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0050": {
+      "name": {
+        "ko": "한우 채끝 1등급 구이용",
+        "en": "Grade 1 Hanwoo Beef Striploin for Grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0050/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0050/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0050-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0050/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0050/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0050/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0051": {
+      "name": {
+        "ko": "한우 차돌박이 1+ 구이용",
+        "en": "Grade 1+ Hanwoo Beef Brisket for Grilling"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0051/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0051/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0051-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0051/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0051/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0051/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-MT-0052": {
+      "name": {
+        "ko": "강원 닭날개",
+        "en": "Gangwon Chicken Wings"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0052/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0052/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-MT-0052-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0052/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0052/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-MT-0052/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0001": {
+      "name": {
+        "ko": "경기 새청무 백미",
+        "en": "Gyeonggi Saecheongmu White Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0001/main/main-1-d4a91dba.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0001/main/main-1-d4a91dba.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": "T0-RC-main",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0001/main/main-1-d4a91dba-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0001/main/main-1-d4a91dba-w960.webp"
+          },
+          "path": "food/FD-RC-0001/main/main-1-d4a91dba.jpg",
+          "sha256": "d4a91dbace0129d7a306e2302f4b42c3c484adb692794139b46fbaaec06ea482",
+          "bytes": 124497,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0001/main/scene-1-1b680f19.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": "T0-RC-scene",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0001/main/scene-1-1b680f19-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0001/main/scene-1-1b680f19-w960.webp"
+          },
+          "path": "food/FD-RC-0001/main/scene-1-1b680f19.jpg",
+          "sha256": "1b680f19d2ff9e74b0b455805b211162d17ee78c62f9fdaf016c1ea69fa6afd7",
+          "bytes": 218694,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-RC-0002": {
+      "name": {
+        "ko": "충북 새청무 백미",
+        "en": "Chungbuk Saecheongmu White Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0002/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0002/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0002-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0002/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0002/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0002/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0003": {
+      "name": {
+        "ko": "충남 새청무 백미",
+        "en": "Chungnam Saecheongmu White Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0003/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0003/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0003-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0003/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0003/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0003/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0004": {
+      "name": {
+        "ko": "전북 신동진 백미",
+        "en": "Jeonbuk Sindongjin White Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0004/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0004/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0004-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0004/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0004/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0004/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0005": {
+      "name": {
+        "ko": "전남 신동진 백미",
+        "en": "Jeonnam Sindongjin White Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0005/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0005/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0005-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0005/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0005/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0005/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0006": {
+      "name": {
+        "ko": "충남 신동진 백미",
+        "en": "Chungnam Sindongjin White Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0006/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0006/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0006-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0006/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0006/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0006/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0007": {
+      "name": {
+        "ko": "경기 신동진 백미",
+        "en": "Gyeonggi Sindongjin White Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0007/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0007/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0007-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0007/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0007/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0007/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0008": {
+      "name": {
+        "ko": "경기 삼광 백미",
+        "en": "Gyeonggi Samgwang White Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0008/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0008/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0008-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0008/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0008/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0008/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0009": {
+      "name": {
+        "ko": "전북 삼광 백미",
+        "en": "Jeonbuk Samgwang White Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0009/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0009/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0009-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0009/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0009/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0009/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0010": {
+      "name": {
+        "ko": "충북 삼광 백미",
+        "en": "Chungbuk Samgwang White Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0010/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0010/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0010-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0010/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0010/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0010/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0011": {
+      "name": {
+        "ko": "경기 고시히카리 백미",
+        "en": "Gyeonggi Koshihikari White Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0011/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0011/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0011-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0011/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0011/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0011/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0012": {
+      "name": {
+        "ko": "충남 고시히카리 백미",
+        "en": "Chungnam Koshihikari White Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0012/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0012/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0012-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0012/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0012/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0012/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0013": {
+      "name": {
+        "ko": "전남 고시히카리 백미",
+        "en": "Jeonnam Koshihikari White Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0013/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0013/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0013-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0013/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0013/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0013/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0014": {
+      "name": {
+        "ko": "강원 오대 백미",
+        "en": "Gangwon Odae White Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0014/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0014/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0014-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0014/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0014/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0014/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0015": {
+      "name": {
+        "ko": "경기 오대 백미",
+        "en": "Gyeonggi Odae White Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0015/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0015/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0015-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0015/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0015/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0015/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0016": {
+      "name": {
+        "ko": "충북 오대 백미",
+        "en": "Chungbuk Odae White Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0016/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0016/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0016-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0016/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0016/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0016/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0017": {
+      "name": {
+        "ko": "전북 신동진 현미",
+        "en": "Jeonbuk Sindongjin Brown Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0017/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0017/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0017-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0017/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0017/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0017/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0018": {
+      "name": {
+        "ko": "경기 삼광 현미",
+        "en": "Gyeonggi Samgwang Brown Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0018/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0018/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0018-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0018/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0018/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0018/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0019": {
+      "name": {
+        "ko": "강원 오대 현미",
+        "en": "Gangwon Odae Brown Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0019/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0019/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0019-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0019/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0019/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0019/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0020": {
+      "name": {
+        "ko": "충남 찹쌀",
+        "en": "Chungnam Glutinous Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0020/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0020/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0020-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0020/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0020/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0020/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0021": {
+      "name": {
+        "ko": "전남 찹쌀",
+        "en": "Jeonnam Glutinous Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0021/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0021/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0021-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0021/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0021/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0021/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0022": {
+      "name": {
+        "ko": "전남 흑미",
+        "en": "Jeonnam Black Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0022/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0022/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0022-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0022/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0022/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0022/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RC-0023": {
+      "name": {
+        "ko": "전북 흑미",
+        "en": "Jeonbuk Black Rice"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0023/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0023/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RC-0023-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0023/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RC-0023/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-RC-0023/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RM-0001": {
+      "name": {
+        "ko": "새참 햄 듬뿍 부대찌개 밀키트",
+        "en": "Saecham Extra Ham Korean Army Stew Meal Kit"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0001/main/main-1-607b852d.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0001/main/main-1-607b852d.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": "T0-RM-main",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0001/main/main-1-607b852d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0001/main/main-1-607b852d-w960.webp"
+          },
+          "path": "food/FD-RM-0001/main/main-1-607b852d.jpg",
+          "sha256": "607b852da3c8d209f306cdd0f3edbc61e551bb26f59fb229dd4a862ad9362415",
+          "bytes": 214783,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0001/main/scene-1-3bc73d31.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": "T0-RM-scene",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0001/main/scene-1-3bc73d31-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0001/main/scene-1-3bc73d31-w960.webp"
+          },
+          "path": "food/FD-RM-0001/main/scene-1-3bc73d31.jpg",
+          "sha256": "3bc73d31b60501a6632e7394a7e0a44add014a56233072c3e9068daa56c16da7",
+          "bytes": 392907,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-RM-0002": {
+      "name": {
+        "ko": "장모님 소불고기 전골 밀키트",
+        "en": "Jangmonim Beef Bulgogi Hot Pot Meal Kit"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0002/tmp-main/main-1-ee854bed.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0002/tmp-main/main-1-ee854bed.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RM-0002-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0002/tmp-main/main-1-ee854bed-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0002/tmp-main/main-1-ee854bed-w960.webp"
+          },
+          "path": "food/FD-RM-0002/tmp-main/main-1-ee854bed.jpg",
+          "sha256": "ee854bedfee585d9554b748f334d8b4b094b100f9cb7ad0c0e8081d84ad70de0",
+          "bytes": 68840,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RM-0003": {
+      "name": {
+        "ko": "장모님 햄 듬뿍 부대찌개 밀키트",
+        "en": "Jangmonim Extra Ham Korean Army Stew Meal Kit"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0003/tmp-main/main-1-ee854bed.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0003/tmp-main/main-1-ee854bed.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RM-0003-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0003/tmp-main/main-1-ee854bed-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0003/tmp-main/main-1-ee854bed-w960.webp"
+          },
+          "path": "food/FD-RM-0003/tmp-main/main-1-ee854bed.jpg",
+          "sha256": "ee854bedfee585d9554b748f334d8b4b094b100f9cb7ad0c0e8081d84ad70de0",
+          "bytes": 68840,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RM-0004": {
+      "name": {
+        "ko": "새참 소불고기 전골 밀키트",
+        "en": "Saecham Beef Bulgogi Hot Pot Meal Kit"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0004/tmp-main/main-1-868d0dc8.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0004/tmp-main/main-1-868d0dc8.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RM-0004-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0004/tmp-main/main-1-868d0dc8-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0004/tmp-main/main-1-868d0dc8-w960.webp"
+          },
+          "path": "food/FD-RM-0004/tmp-main/main-1-868d0dc8.jpg",
+          "sha256": "868d0dc839df4326e120aa65ec7908730bdaade357372220cab58524b3310e4b",
+          "bytes": 70802,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RM-0005": {
+      "name": {
+        "ko": "새참 설렁탕",
+        "en": "Saecham Seolleongtang Beef Bone Soup"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0005/tmp-main/main-1-e93a6151.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0005/tmp-main/main-1-e93a6151.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RM-0005-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0005/tmp-main/main-1-e93a6151-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0005/tmp-main/main-1-e93a6151-w960.webp"
+          },
+          "path": "food/FD-RM-0005/tmp-main/main-1-e93a6151.jpg",
+          "sha256": "e93a61512b91624d10cf3d1166ffc8d2ac7f6bc93b2ea2bc4924e210f87c53ec",
+          "bytes": 68839,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RM-0006": {
+      "name": {
+        "ko": "무쇠솥 설렁탕",
+        "en": "Musoesot Seolleongtang Beef Bone Soup"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0006/tmp-main/main-1-5c52066b.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0006/tmp-main/main-1-5c52066b.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RM-0006-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0006/tmp-main/main-1-5c52066b-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0006/tmp-main/main-1-5c52066b-w960.webp"
+          },
+          "path": "food/FD-RM-0006/tmp-main/main-1-5c52066b.jpg",
+          "sha256": "5c52066b1404bc2c9083b42ca2aeee6b8815b911bef1895f5d6f22aad2a133d2",
+          "bytes": 63554,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RM-0007": {
+      "name": {
+        "ko": "무쇠솥 육개장",
+        "en": "Musoesot Yukgaejang Spicy Beef Soup"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0007/tmp-main/main-1-5c52066b.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0007/tmp-main/main-1-5c52066b.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RM-0007-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0007/tmp-main/main-1-5c52066b-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0007/tmp-main/main-1-5c52066b-w960.webp"
+          },
+          "path": "food/FD-RM-0007/tmp-main/main-1-5c52066b.jpg",
+          "sha256": "5c52066b1404bc2c9083b42ca2aeee6b8815b911bef1895f5d6f22aad2a133d2",
+          "bytes": 63554,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RM-0008": {
+      "name": {
+        "ko": "새참 육개장",
+        "en": "Saecham Yukgaejang Spicy Beef Soup"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0008/tmp-main/main-1-e93a6151.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0008/tmp-main/main-1-e93a6151.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RM-0008-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0008/tmp-main/main-1-e93a6151-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0008/tmp-main/main-1-e93a6151-w960.webp"
+          },
+          "path": "food/FD-RM-0008/tmp-main/main-1-e93a6151.jpg",
+          "sha256": "e93a61512b91624d10cf3d1166ffc8d2ac7f6bc93b2ea2bc4924e210f87c53ec",
+          "bytes": 68839,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RM-0009": {
+      "name": {
+        "ko": "새참 고기 만두",
+        "en": "Saecham Pork Dumplings"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0009/tmp-main/main-1-ccabd1cc.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0009/tmp-main/main-1-ccabd1cc.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RM-0009-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0009/tmp-main/main-1-ccabd1cc-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0009/tmp-main/main-1-ccabd1cc-w960.webp"
+          },
+          "path": "food/FD-RM-0009/tmp-main/main-1-ccabd1cc.jpg",
+          "sha256": "ccabd1cc0d009bf2026f802fe1ab2e9c602b0b1cab3106d659490e3968e883cd",
+          "bytes": 69850,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RM-0010": {
+      "name": {
+        "ko": "새참 김치 만두",
+        "en": "Saecham Kimchi Dumplings"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0010/tmp-main/main-1-ccabd1cc.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0010/tmp-main/main-1-ccabd1cc.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RM-0010-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0010/tmp-main/main-1-ccabd1cc-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0010/tmp-main/main-1-ccabd1cc-w960.webp"
+          },
+          "path": "food/FD-RM-0010/tmp-main/main-1-ccabd1cc.jpg",
+          "sha256": "ccabd1cc0d009bf2026f802fe1ab2e9c602b0b1cab3106d659490e3968e883cd",
+          "bytes": 69850,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RM-0011": {
+      "name": {
+        "ko": "새참 큼직한 만두",
+        "en": "Saecham Jumbo Dumplings"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0011/tmp-main/main-1-ccabd1cc.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0011/tmp-main/main-1-ccabd1cc.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RM-0011-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0011/tmp-main/main-1-ccabd1cc-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0011/tmp-main/main-1-ccabd1cc-w960.webp"
+          },
+          "path": "food/FD-RM-0011/tmp-main/main-1-ccabd1cc.jpg",
+          "sha256": "ccabd1cc0d009bf2026f802fe1ab2e9c602b0b1cab3106d659490e3968e883cd",
+          "bytes": 69850,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-RM-0012": {
+      "name": {
+        "ko": "장모님 닭가슴살 채소볼",
+        "en": "Jangmonim Chicken Breast Salad Bowl"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0012/tmp-main/main-1-3118206d.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0012/tmp-main/main-1-3118206d.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-RM-0012-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0012/tmp-main/main-1-3118206d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-RM-0012/tmp-main/main-1-3118206d-w960.webp"
+          },
+          "path": "food/FD-RM-0012/tmp-main/main-1-3118206d.jpg",
+          "sha256": "3118206d6a54e888c47782cc9c855729d4e82dc015ab3972454dac099aaf991a",
+          "bytes": 64772,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SA-0001": {
+      "name": {
+        "ko": "서림댁 태양초 찹쌀고추장",
+        "en": "Seorimdaek Sun-Dried Glutinous Rice Gochujang"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0001/main/main-1-5813f8e0.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0001/main/main-1-5813f8e0.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": "T0-SA-main",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0001/main/main-1-5813f8e0-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0001/main/main-1-5813f8e0-w960.webp"
+          },
+          "path": "food/FD-SA-0001/main/main-1-5813f8e0.jpg",
+          "sha256": "5813f8e03a79ca6ea36232ce3db498045ca04357715d13f671a8e0a3276bc563",
+          "bytes": 144850,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0001/main/scene-1-13a57ea2.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": "T0-SA-scene",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0001/main/scene-1-13a57ea2-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0001/main/scene-1-13a57ea2-w960.webp"
+          },
+          "path": "food/FD-SA-0001/main/scene-1-13a57ea2.jpg",
+          "sha256": "13a57ea29f75a2587a18041bf2b7aca5dbca7a38c02b02b9b8d7e1cdb0d9a3ae",
+          "bytes": 288493,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SA-0002": {
+      "name": {
+        "ko": "큰집 태양초 찹쌀고추장",
+        "en": "Keunjip Sun-Dried Glutinous Rice Gochujang"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0002/tmp-main/main-1-318388eb.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0002/tmp-main/main-1-318388eb.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SA-0002-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0002/tmp-main/main-1-318388eb-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0002/tmp-main/main-1-318388eb-w960.webp"
+          },
+          "path": "food/FD-SA-0002/tmp-main/main-1-318388eb.jpg",
+          "sha256": "318388eb2ece81ac1ebafc717d72a23f97d3a3d191446da29b0c49fab8590492",
+          "bytes": 65758,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SA-0003": {
+      "name": {
+        "ko": "큰집 순한맛 찹쌀고추장",
+        "en": "Keunjip Mild Glutinous Rice Gochujang"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0003/tmp-main/main-1-318388eb.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0003/tmp-main/main-1-318388eb.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SA-0003-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0003/tmp-main/main-1-318388eb-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0003/tmp-main/main-1-318388eb-w960.webp"
+          },
+          "path": "food/FD-SA-0003/tmp-main/main-1-318388eb.jpg",
+          "sha256": "318388eb2ece81ac1ebafc717d72a23f97d3a3d191446da29b0c49fab8590492",
+          "bytes": 65758,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SA-0004": {
+      "name": {
+        "ko": "서림댁 된장",
+        "en": "Seorimdaek Doenjang Soybean Paste"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0004/tmp-main/main-1-eb9d9c4f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0004/tmp-main/main-1-eb9d9c4f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SA-0004-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0004/tmp-main/main-1-eb9d9c4f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0004/tmp-main/main-1-eb9d9c4f-w960.webp"
+          },
+          "path": "food/FD-SA-0004/tmp-main/main-1-eb9d9c4f.jpg",
+          "sha256": "eb9d9c4f2dd68b6b1465e4ba7dfd521b555d40136333f4aaea10dfa677b0a891",
+          "bytes": 58945,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SA-0005": {
+      "name": {
+        "ko": "윤씨네 들기름",
+        "en": "Yunssine Perilla Oil"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0005/tmp-main/main-1-8dab10da.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0005/tmp-main/main-1-8dab10da.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SA-0005-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0005/tmp-main/main-1-8dab10da-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0005/tmp-main/main-1-8dab10da-w960.webp"
+          },
+          "path": "food/FD-SA-0005/tmp-main/main-1-8dab10da.jpg",
+          "sha256": "8dab10da5d1ff883b16c379f60d093393eaadb6e9896d01da9bb239c5729d839",
+          "bytes": 60154,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SA-0006": {
+      "name": {
+        "ko": "구름재 라면",
+        "en": "Gureumjae Ramen Noodles"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0006/tmp-main/main-1-6f89ab9c.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0006/tmp-main/main-1-6f89ab9c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SA-0006-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0006/tmp-main/main-1-6f89ab9c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0006/tmp-main/main-1-6f89ab9c-w960.webp"
+          },
+          "path": "food/FD-SA-0006/tmp-main/main-1-6f89ab9c.jpg",
+          "sha256": "6f89ab9cec2b77f40c9b538f6b164b054fb1a596c52aa49d7b6a1279424e482f",
+          "bytes": 63308,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SA-0007": {
+      "name": {
+        "ko": "큰집 진간장",
+        "en": "Keunjip Soy Sauce"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0007/tmp-main/main-1-318388eb.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0007/tmp-main/main-1-318388eb.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SA-0007-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0007/tmp-main/main-1-318388eb-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0007/tmp-main/main-1-318388eb-w960.webp"
+          },
+          "path": "food/FD-SA-0007/tmp-main/main-1-318388eb.jpg",
+          "sha256": "318388eb2ece81ac1ebafc717d72a23f97d3a3d191446da29b0c49fab8590492",
+          "bytes": 65758,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SA-0008": {
+      "name": {
+        "ko": "구름재 스파게티면",
+        "en": "Gureumjae Spaghetti"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0008/tmp-main/main-1-6f89ab9c.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0008/tmp-main/main-1-6f89ab9c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SA-0008-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0008/tmp-main/main-1-6f89ab9c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0008/tmp-main/main-1-6f89ab9c-w960.webp"
+          },
+          "path": "food/FD-SA-0008/tmp-main/main-1-6f89ab9c.jpg",
+          "sha256": "6f89ab9cec2b77f40c9b538f6b164b054fb1a596c52aa49d7b6a1279424e482f",
+          "bytes": 63308,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SA-0009": {
+      "name": {
+        "ko": "서림댁 스파게티면",
+        "en": "Seorimdaek Spaghetti"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0009/tmp-main/main-1-f960fc77.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0009/tmp-main/main-1-f960fc77.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SA-0009-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0009/tmp-main/main-1-f960fc77-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0009/tmp-main/main-1-f960fc77-w960.webp"
+          },
+          "path": "food/FD-SA-0009/tmp-main/main-1-f960fc77.jpg",
+          "sha256": "f960fc7789aeebba6fc12763434acad84e625e635592df9b11dba3991841ac88",
+          "bytes": 64765,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SA-0010": {
+      "name": {
+        "ko": "구름재 펜네",
+        "en": "Gureumjae Penne"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0010/tmp-main/main-1-6f89ab9c.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0010/tmp-main/main-1-6f89ab9c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SA-0010-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0010/tmp-main/main-1-6f89ab9c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0010/tmp-main/main-1-6f89ab9c-w960.webp"
+          },
+          "path": "food/FD-SA-0010/tmp-main/main-1-6f89ab9c.jpg",
+          "sha256": "6f89ab9cec2b77f40c9b538f6b164b054fb1a596c52aa49d7b6a1279424e482f",
+          "bytes": 63308,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SA-0011": {
+      "name": {
+        "ko": "서림댁 토마토 파스타 소스",
+        "en": "Seorimdaek Tomato Pasta Sauce"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0011/tmp-main/main-1-eb9d9c4f.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0011/tmp-main/main-1-eb9d9c4f.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SA-0011-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0011/tmp-main/main-1-eb9d9c4f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0011/tmp-main/main-1-eb9d9c4f-w960.webp"
+          },
+          "path": "food/FD-SA-0011/tmp-main/main-1-eb9d9c4f.jpg",
+          "sha256": "eb9d9c4f2dd68b6b1465e4ba7dfd521b555d40136333f4aaea10dfa677b0a891",
+          "bytes": 58945,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SA-0012": {
+      "name": {
+        "ko": "큰집 토마토 파스타 소스",
+        "en": "Keunjip Tomato Pasta Sauce"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0012/tmp-main/main-1-318388eb.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0012/tmp-main/main-1-318388eb.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SA-0012-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0012/tmp-main/main-1-318388eb-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0012/tmp-main/main-1-318388eb-w960.webp"
+          },
+          "path": "food/FD-SA-0012/tmp-main/main-1-318388eb.jpg",
+          "sha256": "318388eb2ece81ac1ebafc717d72a23f97d3a3d191446da29b0c49fab8590492",
+          "bytes": 65758,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SA-0013": {
+      "name": {
+        "ko": "윤씨네 올리브유",
+        "en": "Yunssine Olive Oil"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0013/tmp-main/main-1-8dab10da.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0013/tmp-main/main-1-8dab10da.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SA-0013-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0013/tmp-main/main-1-8dab10da-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SA-0013/tmp-main/main-1-8dab10da-w960.webp"
+          },
+          "path": "food/FD-SA-0013/tmp-main/main-1-8dab10da.jpg",
+          "sha256": "8dab10da5d1ff883b16c379f60d093393eaadb6e9896d01da9bb239c5729d839",
+          "bytes": 60154,
+          "digital_source_type": null
+        }
+      ]
+    },
     "FD-SF-0001": {
       "name": {
         "ko": "노르웨이 고등어 통마리",
@@ -2929,6 +6156,605 @@
           "sha256": "b1acebebad4663d3ad81279a9e03e0352fcb3dce93e147354a10f3b94a52d6cd",
           "bytes": 267415,
           "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SF-0021": {
+      "name": {
+        "ko": "전남 조기 통마리",
+        "en": "Jeonnam Whole Yellow Croaker"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0021/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0021/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SF-0021-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0021/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0021/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-SF-0021/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SF-0022": {
+      "name": {
+        "ko": "경북 오징어 손질",
+        "en": "Gyeongbuk Cleaned Squid"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0022/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0022/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SF-0022-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0022/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0022/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-SF-0022/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SF-0023": {
+      "name": {
+        "ko": "충남 꽃게 손질",
+        "en": "Chungnam Cleaned Blue Crab"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0023/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0023/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SF-0023-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0023/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0023/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-SF-0023/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SF-0024": {
+      "name": {
+        "ko": "경남 홍합 손질",
+        "en": "Gyeongnam Cleaned Mussels"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0024/tmp-main/main-1-b6a2d52e.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0024/tmp-main/main-1-b6a2d52e.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SF-0024-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0024/tmp-main/main-1-b6a2d52e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0024/tmp-main/main-1-b6a2d52e-w960.webp"
+          },
+          "path": "food/FD-SF-0024/tmp-main/main-1-b6a2d52e.jpg",
+          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
+          "bytes": 66245,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SN-0001": {
+      "name": {
+        "ko": "소풍 바삭한 버터 쿠키",
+        "en": "Sopung Crisp Butter Cookies"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0001/main/main-1-71b079b2.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0001/main/main-1-71b079b2.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": "T0-SN-main",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0001/main/main-1-71b079b2-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0001/main/main-1-71b079b2-w960.webp"
+          },
+          "path": "food/FD-SN-0001/main/main-1-71b079b2.jpg",
+          "sha256": "71b079b2affb3cdec5806245ff1a059ff5453bb287d1b77226f9a7af2871155c",
+          "bytes": 125656,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        },
+        {
+          "group": "main",
+          "kind": "scene",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0001/main/scene-1-6dd8cc90.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": "T0-SN-scene",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0001/main/scene-1-6dd8cc90-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0001/main/scene-1-6dd8cc90-w960.webp"
+          },
+          "path": "food/FD-SN-0001/main/scene-1-6dd8cc90.jpg",
+          "sha256": "6dd8cc909872ad312c53e0d7d1f780953ceab7ec0029ca50eeae73818796aa76",
+          "bytes": 175086,
+          "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-SN-0002": {
+      "name": {
+        "ko": "소풍 볶은 땅콩 과자",
+        "en": "Sopung Roasted Peanut Crackers"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0002/tmp-main/main-1-35e20c3c.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0002/tmp-main/main-1-35e20c3c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SN-0002-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0002/tmp-main/main-1-35e20c3c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0002/tmp-main/main-1-35e20c3c-w960.webp"
+          },
+          "path": "food/FD-SN-0002/tmp-main/main-1-35e20c3c.jpg",
+          "sha256": "35e20c3ccde6206f735aa13e20ae04531b307a698dfeb0b59b25fc1dd5906edd",
+          "bytes": 71785,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SN-0003": {
+      "name": {
+        "ko": "단비 단호박 아이 쌀과자",
+        "en": "Danbi Pumpkin Kids Rice Puffs"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0003/tmp-main/main-1-d505d9c5.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0003/tmp-main/main-1-d505d9c5.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SN-0003-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0003/tmp-main/main-1-d505d9c5-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0003/tmp-main/main-1-d505d9c5-w960.webp"
+          },
+          "path": "food/FD-SN-0003/tmp-main/main-1-d505d9c5.jpg",
+          "sha256": "d505d9c57d55c091029a2423e5e4d2796e1744468a718e259d99deed74f7d44e",
+          "bytes": 74914,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SN-0004": {
+      "name": {
+        "ko": "단비 바삭한 버터 쿠키",
+        "en": "Danbi Crisp Butter Cookies"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0004/tmp-main/main-1-d505d9c5.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0004/tmp-main/main-1-d505d9c5.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SN-0004-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0004/tmp-main/main-1-d505d9c5-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0004/tmp-main/main-1-d505d9c5-w960.webp"
+          },
+          "path": "food/FD-SN-0004/tmp-main/main-1-d505d9c5.jpg",
+          "sha256": "d505d9c57d55c091029a2423e5e4d2796e1744468a718e259d99deed74f7d44e",
+          "bytes": 74914,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SN-0005": {
+      "name": {
+        "ko": "단비 볶은 땅콩 과자",
+        "en": "Danbi Roasted Peanut Crackers"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0005/tmp-main/main-1-d505d9c5.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0005/tmp-main/main-1-d505d9c5.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SN-0005-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0005/tmp-main/main-1-d505d9c5-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0005/tmp-main/main-1-d505d9c5-w960.webp"
+          },
+          "path": "food/FD-SN-0005/tmp-main/main-1-d505d9c5.jpg",
+          "sha256": "d505d9c57d55c091029a2423e5e4d2796e1744468a718e259d99deed74f7d44e",
+          "bytes": 74914,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SN-0006": {
+      "name": {
+        "ko": "소풍 허니 땅콩 과자",
+        "en": "Sopung Honey Peanut Crackers"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0006/tmp-main/main-1-35e20c3c.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0006/tmp-main/main-1-35e20c3c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SN-0006-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0006/tmp-main/main-1-35e20c3c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0006/tmp-main/main-1-35e20c3c-w960.webp"
+          },
+          "path": "food/FD-SN-0006/tmp-main/main-1-35e20c3c.jpg",
+          "sha256": "35e20c3ccde6206f735aa13e20ae04531b307a698dfeb0b59b25fc1dd5906edd",
+          "bytes": 71785,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SN-0007": {
+      "name": {
+        "ko": "단비 허니 땅콩 과자",
+        "en": "Danbi Honey Peanut Crackers"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0007/tmp-main/main-1-d505d9c5.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0007/tmp-main/main-1-d505d9c5.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SN-0007-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0007/tmp-main/main-1-d505d9c5-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0007/tmp-main/main-1-d505d9c5-w960.webp"
+          },
+          "path": "food/FD-SN-0007/tmp-main/main-1-d505d9c5.jpg",
+          "sha256": "d505d9c57d55c091029a2423e5e4d2796e1744468a718e259d99deed74f7d44e",
+          "bytes": 74914,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SN-0008": {
+      "name": {
+        "ko": "단비 현미 쌀과자",
+        "en": "Danbi Brown Rice Crackers"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0008/tmp-main/main-1-d505d9c5.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0008/tmp-main/main-1-d505d9c5.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SN-0008-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0008/tmp-main/main-1-d505d9c5-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0008/tmp-main/main-1-d505d9c5-w960.webp"
+          },
+          "path": "food/FD-SN-0008/tmp-main/main-1-d505d9c5.jpg",
+          "sha256": "d505d9c57d55c091029a2423e5e4d2796e1744468a718e259d99deed74f7d44e",
+          "bytes": 74914,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SN-0009": {
+      "name": {
+        "ko": "소풍 현미 쌀과자",
+        "en": "Sopung Brown Rice Crackers"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0009/tmp-main/main-1-35e20c3c.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0009/tmp-main/main-1-35e20c3c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SN-0009-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0009/tmp-main/main-1-35e20c3c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0009/tmp-main/main-1-35e20c3c-w960.webp"
+          },
+          "path": "food/FD-SN-0009/tmp-main/main-1-35e20c3c.jpg",
+          "sha256": "35e20c3ccde6206f735aa13e20ae04531b307a698dfeb0b59b25fc1dd5906edd",
+          "bytes": 71785,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SN-0010": {
+      "name": {
+        "ko": "반죽당 단호박 쌀케이크",
+        "en": "Banjukdang Pumpkin Rice Cake"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0010/tmp-main/main-1-33a1ae1a.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0010/tmp-main/main-1-33a1ae1a.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SN-0010-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0010/tmp-main/main-1-33a1ae1a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0010/tmp-main/main-1-33a1ae1a-w960.webp"
+          },
+          "path": "food/FD-SN-0010/tmp-main/main-1-33a1ae1a.jpg",
+          "sha256": "33a1ae1ae40d09fce735b02519c94818123dcd97fe92b725c24ca452664bbea9",
+          "bytes": 70692,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SN-0011": {
+      "name": {
+        "ko": "다과상 단호박 쌀케이크",
+        "en": "Dagwasang Pumpkin Rice Cake"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0011/tmp-main/main-1-b4892057.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0011/tmp-main/main-1-b4892057.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SN-0011-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0011/tmp-main/main-1-b4892057-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0011/tmp-main/main-1-b4892057-w960.webp"
+          },
+          "path": "food/FD-SN-0011/tmp-main/main-1-b4892057.jpg",
+          "sha256": "b489205715064df50933aeafca1b6b9e1b2a740a9c6676f9d3d8055f8753b265",
+          "bytes": 67374,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SN-0012": {
+      "name": {
+        "ko": "소풍 호두 쿠키",
+        "en": "Sopung Walnut Cookies"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0012/tmp-main/main-1-35e20c3c.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0012/tmp-main/main-1-35e20c3c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SN-0012-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0012/tmp-main/main-1-35e20c3c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0012/tmp-main/main-1-35e20c3c-w960.webp"
+          },
+          "path": "food/FD-SN-0012/tmp-main/main-1-35e20c3c.jpg",
+          "sha256": "35e20c3ccde6206f735aa13e20ae04531b307a698dfeb0b59b25fc1dd5906edd",
+          "bytes": 71785,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SN-0013": {
+      "name": {
+        "ko": "다과상 인절미",
+        "en": "Dagwasang Injeolmi Rice Cake"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0013/tmp-main/main-1-b4892057.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0013/tmp-main/main-1-b4892057.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SN-0013-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0013/tmp-main/main-1-b4892057-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0013/tmp-main/main-1-b4892057-w960.webp"
+          },
+          "path": "food/FD-SN-0013/tmp-main/main-1-b4892057.jpg",
+          "sha256": "b489205715064df50933aeafca1b6b9e1b2a740a9c6676f9d3d8055f8753b265",
+          "bytes": 67374,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SN-0014": {
+      "name": {
+        "ko": "소풍 오트 그래놀라",
+        "en": "Sopung Oat Granola"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0014/tmp-main/main-1-35e20c3c.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0014/tmp-main/main-1-35e20c3c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SN-0014-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0014/tmp-main/main-1-35e20c3c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0014/tmp-main/main-1-35e20c3c-w960.webp"
+          },
+          "path": "food/FD-SN-0014/tmp-main/main-1-35e20c3c.jpg",
+          "sha256": "35e20c3ccde6206f735aa13e20ae04531b307a698dfeb0b59b25fc1dd5906edd",
+          "bytes": 71785,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SN-0015": {
+      "name": {
+        "ko": "단비 오트 그래놀라",
+        "en": "Danbi Oat Granola"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0015/tmp-main/main-1-d505d9c5.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0015/tmp-main/main-1-d505d9c5.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SN-0015-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0015/tmp-main/main-1-d505d9c5-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0015/tmp-main/main-1-d505d9c5-w960.webp"
+          },
+          "path": "food/FD-SN-0015/tmp-main/main-1-d505d9c5.jpg",
+          "sha256": "d505d9c57d55c091029a2423e5e4d2796e1744468a718e259d99deed74f7d44e",
+          "bytes": 74914,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-SN-0016": {
+      "name": {
+        "ko": "소풍 콘플레이크",
+        "en": "Sopung Corn Flakes"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0016/tmp-main/main-1-35e20c3c.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0016/tmp-main/main-1-35e20c3c.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-SN-0016-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0016/tmp-main/main-1-35e20c3c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0016/tmp-main/main-1-35e20c3c-w960.webp"
+          },
+          "path": "food/FD-SN-0016/tmp-main/main-1-35e20c3c.jpg",
+          "sha256": "35e20c3ccde6206f735aa13e20ae04531b307a698dfeb0b59b25fc1dd5906edd",
+          "bytes": 71785,
+          "digital_source_type": null
         }
       ]
     },
@@ -4705,6 +8531,93 @@
           "sha256": "b905d3a9ef96ec160ba829749c57634941ede52b28f54ad1955a86800ee194da",
           "bytes": 301377,
           "digital_source_type": "trainedAlgorithmicMedia"
+        }
+      ]
+    },
+    "FD-VG-0038": {
+      "name": {
+        "ko": "경남 양파",
+        "en": "Gyeongnam Yellow Onions"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0038/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0038/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-VG-0038-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0038/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0038/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-VG-0038/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-VG-0039": {
+      "name": {
+        "ko": "제주 세척 당근",
+        "en": "Jeju Washed Carrots"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0039/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0039/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-VG-0039-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0039/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0039/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-VG-0039/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
+        }
+      ]
+    },
+    "FD-VG-0040": {
+      "name": {
+        "ko": "강원 감자",
+        "en": "Gangwon Potatoes"
+      },
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0040/tmp-main/main-1-901e9155.jpg",
+      "default_model": null,
+      "slots": [
+        {
+          "group": "tmp-main",
+          "kind": "main",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0040/tmp-main/main-1-901e9155.jpg",
+          "w": 1200,
+          "h": 1200,
+          "placeholder": false,
+          "temporary": true,
+          "job_id": "FD-VG-0040-main-v0",
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0040/tmp-main/main-1-901e9155-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0040/tmp-main/main-1-901e9155-w960.webp"
+          },
+          "path": "food/FD-VG-0040/tmp-main/main-1-901e9155.jpg",
+          "sha256": "901e91557b46f1a9082af5a34c07deac153b92a4b254f0621096668458049bb0",
+          "bytes": 68178,
+          "digital_source_type": null
         }
       ]
     }
