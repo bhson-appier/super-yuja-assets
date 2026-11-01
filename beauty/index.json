@@ -6476,27 +6476,27 @@
         "ko": "윌보아 리프 티 오 드 뚜왈렛",
         "en": "Wilvoa Leaf Tea Eau de Toilette"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0032/tmp/main-1-e42ff08f.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0032/_/main-1-8fec4268.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0032/tmp/main-1-e42ff08f.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0032/_/main-1-8fec4268.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-FR-0032-main-v0",
+          "temporary": false,
+          "job_id": "BT-FR-0032-main-logo-v2",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0032/tmp/main-1-e42ff08f-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0032/tmp/main-1-e42ff08f-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0032/_/main-1-8fec4268-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-FR-0032/_/main-1-8fec4268-w960.webp"
           },
-          "path": "beauty/BT-FR-0032/tmp/main-1-e42ff08f.jpg",
-          "sha256": "e42ff08f11c409acded3c4953d6359165ff2756f4c07a9f48e12a8772e705bf2",
-          "bytes": 58255,
-          "digital_source_type": null
+          "path": "beauty/BT-FR-0032/_/main-1-8fec4268.jpg",
+          "sha256": "8fec42684dee20c4f9ab76e53e4cf3dc559b6fe3c8452d75e681444cdde993a1",
+          "bytes": 70679,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -9231,27 +9231,27 @@
         "ko": "피쥬 핑크 젤리 틴트",
         "en": "Fizzu Pink Jelly Tint"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0052/tmp/main-1-23b0b05a.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0052/_/main-1-dc3e5a8d.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0052/tmp/main-1-23b0b05a.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0052/_/main-1-dc3e5a8d.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-LM-0052-main-v0",
+          "temporary": false,
+          "job_id": "BT-LM-0052-main-logo-v4",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0052/tmp/main-1-23b0b05a-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0052/tmp/main-1-23b0b05a-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0052/_/main-1-dc3e5a8d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0052/_/main-1-dc3e5a8d-w960.webp"
           },
-          "path": "beauty/BT-LM-0052/tmp/main-1-23b0b05a.jpg",
-          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
-          "bytes": 61784,
-          "digital_source_type": null
+          "path": "beauty/BT-LM-0052/_/main-1-dc3e5a8d.jpg",
+          "sha256": "dc3e5a8d1424fbd3cf35fd0542383bc5581c67069ff39501bc4c98a3944b0479",
+          "bytes": 49216,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -9376,27 +9376,27 @@
         "ko": "피쥬 핑크 반짝 립 글로스",
         "en": "Fizzu Pink Sparkle Lip Gloss"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0057/tmp/main-1-23b0b05a.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0057/_/main-1-a3a8d08b.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0057/tmp/main-1-23b0b05a.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0057/_/main-1-a3a8d08b.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-LM-0057-main-v0",
+          "temporary": false,
+          "job_id": "BT-LM-0057-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0057/tmp/main-1-23b0b05a-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0057/tmp/main-1-23b0b05a-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0057/_/main-1-a3a8d08b-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0057/_/main-1-a3a8d08b-w960.webp"
           },
-          "path": "beauty/BT-LM-0057/tmp/main-1-23b0b05a.jpg",
-          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
-          "bytes": 61784,
-          "digital_source_type": null
+          "path": "beauty/BT-LM-0057/_/main-1-a3a8d08b.jpg",
+          "sha256": "a3a8d08b72c7c946450c0242a0640f32de2bf3a80d96d9a3ea35c98af25482d7",
+          "bytes": 79571,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -9492,27 +9492,27 @@
         "ko": "피쥬 핏 라인 립라이너",
         "en": "Fizzu Fit Line Lip Liner"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0061/tmp/main-1-23b0b05a.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0061/_/main-1-6286fd66.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0061/tmp/main-1-23b0b05a.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0061/_/main-1-6286fd66.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-LM-0061-main-v0",
+          "temporary": false,
+          "job_id": "BT-LM-0061-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0061/tmp/main-1-23b0b05a-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0061/tmp/main-1-23b0b05a-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0061/_/main-1-6286fd66-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0061/_/main-1-6286fd66-w960.webp"
           },
-          "path": "beauty/BT-LM-0061/tmp/main-1-23b0b05a.jpg",
-          "sha256": "23b0b05a990434b39fa63e96761c5018903a361b527e0ec810ce53c39025b558",
-          "bytes": 61784,
-          "digital_source_type": null
+          "path": "beauty/BT-LM-0061/_/main-1-6286fd66.jpg",
+          "sha256": "6286fd66536a03498d39936942710d6b990df8c30d4eabc27a7d9e4271751883",
+          "bytes": 76172,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -9608,27 +9608,27 @@
         "ko": "피쥬 버터 로즈 크림 립스틱",
         "en": "Fizzu Butter Rose Cream Lipstick"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0065/tmp/main-1-e1995448.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0065/_/main-1-5b3c941e.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0065/tmp/main-1-e1995448.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0065/_/main-1-5b3c941e.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-LM-0065-main-v0",
+          "temporary": false,
+          "job_id": "BT-LM-0065-main-logo-v4",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0065/tmp/main-1-e1995448-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0065/tmp/main-1-e1995448-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0065/_/main-1-5b3c941e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-LM-0065/_/main-1-5b3c941e-w960.webp"
           },
-          "path": "beauty/BT-LM-0065/tmp/main-1-e1995448.jpg",
-          "sha256": "e19954482d2e5add7ca1180f33eee36124d62375e4c1a859482e17ee34446b06",
-          "bytes": 57549,
-          "digital_source_type": null
+          "path": "beauty/BT-LM-0065/_/main-1-5b3c941e.jpg",
+          "sha256": "5b3c941ebe940162de016129e48cebe410ef9b6eedbd5d62723868553609ded9",
+          "bytes": 95072,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -15988,27 +15988,27 @@
         "ko": "누베드라 데일리 쉴드 무기자차 선 스틱",
         "en": "Nuvedra Daily Shield Mineral Sunscreen Stick"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0031/tmp/main-1-060fd727.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0031/_/main-1-43709b1a.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0031/tmp/main-1-060fd727.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0031/_/main-1-43709b1a.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-SN-0031-main-v0",
+          "temporary": false,
+          "job_id": "BT-SN-0031-main-logo-v4",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0031/tmp/main-1-060fd727-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0031/tmp/main-1-060fd727-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0031/_/main-1-43709b1a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0031/_/main-1-43709b1a-w960.webp"
           },
-          "path": "beauty/BT-SN-0031/tmp/main-1-060fd727.jpg",
-          "sha256": "060fd727240641928cfc23b311402d14bb94f5a05b35334c6d49f109b01ac2c0",
-          "bytes": 55959,
-          "digital_source_type": null
+          "path": "beauty/BT-SN-0031/_/main-1-43709b1a.jpg",
+          "sha256": "43709b1a64b38c3f236409aed7f802ed87924d126056e352301d25354aae3090",
+          "bytes": 100636,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -16017,27 +16017,27 @@
         "ko": "엘노아 매트 핏 유기자차 선 스틱",
         "en": "Elnoa Matte Fit Chemical Sunscreen Stick"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0032/tmp/main-1-de0119b7.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0032/_/main-1-1de31c32.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0032/tmp/main-1-de0119b7.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0032/_/main-1-1de31c32.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-SN-0032-main-v0",
+          "temporary": false,
+          "job_id": "BT-SN-0032-main-logo-v4",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0032/tmp/main-1-de0119b7-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0032/tmp/main-1-de0119b7-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0032/_/main-1-1de31c32-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0032/_/main-1-1de31c32-w960.webp"
           },
-          "path": "beauty/BT-SN-0032/tmp/main-1-de0119b7.jpg",
-          "sha256": "de0119b7b87e7ea96b3694caeb0f1d656d2e102af991b5bfb271f57aceb506e2",
-          "bytes": 56332,
-          "digital_source_type": null
+          "path": "beauty/BT-SN-0032/_/main-1-1de31c32.jpg",
+          "sha256": "1de31c328bd07fc68eceeaf7a340235031f40fce5a345979a5b4b0fb492575b1",
+          "bytes": 83552,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -16046,27 +16046,27 @@
         "ko": "누베드라 소프트 그린 수딩 선 스틱",
         "en": "Nuvedra Soft Green Soothing Sunscreen Stick"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0033/tmp/main-1-060fd727.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0033/_/main-1-6d717de5.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0033/tmp/main-1-060fd727.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0033/_/main-1-6d717de5.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-SN-0033-main-v0",
+          "temporary": false,
+          "job_id": "BT-SN-0033-main-logo-v3",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0033/tmp/main-1-060fd727-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0033/tmp/main-1-060fd727-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0033/_/main-1-6d717de5-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0033/_/main-1-6d717de5-w960.webp"
           },
-          "path": "beauty/BT-SN-0033/tmp/main-1-060fd727.jpg",
-          "sha256": "060fd727240641928cfc23b311402d14bb94f5a05b35334c6d49f109b01ac2c0",
-          "bytes": 55959,
-          "digital_source_type": null
+          "path": "beauty/BT-SN-0033/_/main-1-6d717de5.jpg",
+          "sha256": "6d717de503d63ff5aa053f8f29507fb11320e882151ac6224d62f1fbc9232fb5",
+          "bytes": 80128,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -16075,27 +16075,27 @@
         "ko": "엘노아 프리 핏 무기자차 선 스틱",
         "en": "Elnoa Free Fit Mineral Sunscreen Stick"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0034/tmp/main-1-de0119b7.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0034/_/main-1-510595b5.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0034/tmp/main-1-de0119b7.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0034/_/main-1-510595b5.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-SN-0034-main-v0",
+          "temporary": false,
+          "job_id": "BT-SN-0034-main-logo-v3",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0034/tmp/main-1-de0119b7-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0034/tmp/main-1-de0119b7-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0034/_/main-1-510595b5-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0034/_/main-1-510595b5-w960.webp"
           },
-          "path": "beauty/BT-SN-0034/tmp/main-1-de0119b7.jpg",
-          "sha256": "de0119b7b87e7ea96b3694caeb0f1d656d2e102af991b5bfb271f57aceb506e2",
-          "bytes": 56332,
-          "digital_source_type": null
+          "path": "beauty/BT-SN-0034/_/main-1-510595b5.jpg",
+          "sha256": "510595b5f18fe65a58a72d999e75e5fce43ab4cf1c4ef5d027fd7c5ac5da3988",
+          "bytes": 98857,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -16104,27 +16104,27 @@
         "ko": "엘노아 에어 핏 무기자차 선 쿠션",
         "en": "Elnoa Air Fit Mineral Sunscreen Cushion"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0035/tmp/main-1-cd6a2973.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0035/_/main-1-4ebbcb10.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0035/tmp/main-1-cd6a2973.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0035/_/main-1-4ebbcb10.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-SN-0035-main-v0",
+          "temporary": false,
+          "job_id": "BT-SN-0035-main-logo-v1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0035/tmp/main-1-cd6a2973-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0035/tmp/main-1-cd6a2973-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0035/_/main-1-4ebbcb10-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0035/_/main-1-4ebbcb10-w960.webp"
           },
-          "path": "beauty/BT-SN-0035/tmp/main-1-cd6a2973.jpg",
-          "sha256": "cd6a2973c979f42ef25883e6e9ccbee9f0b5c1f644d3b62ba781e820acff833d",
-          "bytes": 72381,
-          "digital_source_type": null
+          "path": "beauty/BT-SN-0035/_/main-1-4ebbcb10.jpg",
+          "sha256": "4ebbcb10f9379dc77a98dcf9cb2f05c2322e0b58c8181bf6f92396cef2b15e8f",
+          "bytes": 99577,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -16133,27 +16133,27 @@
         "ko": "누베드라 쿨 쉴드 유기자차 선 쿠션",
         "en": "Nuvedra Cool Shield Chemical Sunscreen Cushion"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0036/tmp/main-1-49586465.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0036/_/main-1-645ed255.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0036/tmp/main-1-49586465.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0036/_/main-1-645ed255.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-SN-0036-main-v0",
+          "temporary": false,
+          "job_id": "BT-SN-0036-main-logo-v3",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0036/tmp/main-1-49586465-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0036/tmp/main-1-49586465-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0036/_/main-1-645ed255-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0036/_/main-1-645ed255-w960.webp"
           },
-          "path": "beauty/BT-SN-0036/tmp/main-1-49586465.jpg",
-          "sha256": "495864658d03af7dbab21f433203b3cd4da8a08bed4f1c2774835a092ab435b8",
-          "bytes": 71329,
-          "digital_source_type": null
+          "path": "beauty/BT-SN-0036/_/main-1-645ed255.jpg",
+          "sha256": "645ed255ecec0b4645645b42ec89ad499123c46b18c8ecad4b90b9bc2a40808e",
+          "bytes": 121309,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -16191,27 +16191,27 @@
         "ko": "누베드라 마일드 윤광 무기자차 선 쿠션",
         "en": "Nuvedra Mild Lumi Mineral Sunscreen Cushion"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0038/tmp/main-1-49586465.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0038/_/main-1-73d43edd.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp",
+          "group": "_",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0038/tmp/main-1-49586465.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0038/_/main-1-73d43edd.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "BT-SN-0038-main-v0",
+          "temporary": false,
+          "job_id": "BT-SN-0038-main-logo-v3",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0038/tmp/main-1-49586465-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0038/tmp/main-1-49586465-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0038/_/main-1-73d43edd-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/beauty/BT-SN-0038/_/main-1-73d43edd-w960.webp"
           },
-          "path": "beauty/BT-SN-0038/tmp/main-1-49586465.jpg",
-          "sha256": "495864658d03af7dbab21f433203b3cd4da8a08bed4f1c2774835a092ab435b8",
-          "bytes": 71329,
-          "digital_source_type": null
+          "path": "beauty/BT-SN-0038/_/main-1-73d43edd.jpg",
+          "sha256": "73d43eddad7ea49168ada95f41532090f3c84b8c22f89a650d5967c29cb100e0",
+          "bytes": 79888,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
