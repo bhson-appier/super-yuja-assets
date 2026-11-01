@@ -41,14 +41,14 @@ BotBonnie도 같은 피드를 씁니다) 하나입니다. 버티컬마다 한 �
 https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-<버티컬>.csv   (모두 합친 파일: enterprise-all.csv)
 ```
 
-- [enterprise-beauty.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-beauty.csv) · 상품 528개
-- [enterprise-beauty_en.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-beauty_en.csv) · 상품 528개
+- [enterprise-beauty.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-beauty.csv) · 상품 540개
+- [enterprise-beauty_en.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-beauty_en.csv) · 상품 540개
 - [enterprise-fashion.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-fashion.csv) · 상품 597개
 - [enterprise-fashion_en.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-fashion_en.csv) · 상품 597개
 - [enterprise-food.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-food.csv) · 상품 128개
 - [enterprise-food_en.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-food_en.csv) · 상품 128개
-- [enterprise-all.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-all.csv) · 상품 1253개
-- [enterprise-all_en.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-all_en.csv) · 상품 1253개
+- [enterprise-all.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-all.csv) · 상품 1265개
+- [enterprise-all_en.csv](https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-all_en.csv) · 상품 1265개
 
 - 같은 파일을 `https://super.yuja.dev/feeds/<파일>`에서도 받을 수 있습니다(데모 사이트가 직접 내보냄).
 - 목록·행 수·SHA-256: `feeds/index.json`. 공개를 멈춘 버티컬의 피드는 바로 지웁니다.
