@@ -11,8 +11,8 @@
       "locale": "ko",
       "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-beauty.csv",
       "rows": 600,
-      "bytes": 493134,
-      "sha256": "0c9798295f0e172ce0388660830f9a69fe57e4fc66462e7b11a4d1bed1be1753"
+      "bytes": 493078,
+      "sha256": "3dd4122942193e2b8742b627bf42392695a0f25aa9e771ccc29c1d65addc7fb5"
     },
     {
       "name": "enterprise-beauty_en.csv",
@@ -21,8 +21,8 @@
       "locale": "en",
       "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-beauty_en.csv",
       "rows": 600,
-      "bytes": 445866,
-      "sha256": "ffa88be9145c85f01a1a869feb8d8df0aab02930f049954600a0bf25d8d984fd"
+      "bytes": 445810,
+      "sha256": "ffb1f2058805f8d12d800a8e7fe78013190f5e7c729054b78b42548bd0b074ca"
     },
     {
       "name": "enterprise-fashion.csv",
@@ -71,8 +71,8 @@
       "locale": "ko",
       "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-all.csv",
       "rows": 1429,
-      "bytes": 1271721,
-      "sha256": "e8fc1b5be4191b33952f524cf5c86f6ac19a7ad4f8cf13646ff94599c0913f50"
+      "bytes": 1271665,
+      "sha256": "689598cee3c2aa97e38d1c437292a18a41faa8f63404b8378d6b70281d389294"
     },
     {
       "name": "enterprise-all_en.csv",
@@ -81,8 +81,8 @@
       "locale": "en",
       "url": "https://bhson-appier.github.io/super-yuja-assets/feeds/enterprise-all_en.csv",
       "rows": 1429,
-      "bytes": 1142428,
-      "sha256": "74294ec0b8eacdb95e905b4db0829f784ff53a2b07fc06c9cf32f52d14fddb31"
+      "bytes": 1142372,
+      "sha256": "48cf1439107f55d79b19fb6a0a1bacbeb0d9cfa498fb5394d86c343d7102e672"
     }
   ]
 }
