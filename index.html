@@ -56,8 +56,8 @@ function el(tag, attrs, ...kids) { const e = document.createElement(tag); for (c
 function card([id, p]) {
   const shots = el("div", { class: "shots" });
   for (const s of p.slots) {
-    const img = el("img", { src: s.url, alt: `${p.name.ko} ${KIND[s.kind] || s.kind} 사진${s.placeholder ? " (임시 그림)" : " (AI 생성 이미지)"}`, loading: "lazy", decoding: "async", width: "600", height: "600" });
-    const badge = el("span", { class: s.placeholder ? "badge tmp" : "badge", "aria-hidden": "true" }, s.placeholder ? "임시" : "✦ AI 생성");
+    const img = el("img", { src: s.url, alt: `${p.name.ko} ${KIND[s.kind] || s.kind} 사진${s.placeholder || s.temporary ? " (임시 그림)" : " (AI 생성 이미지)"}`, loading: "lazy", decoding: "async", width: "600", height: "600" });
+    const badge = el("span", { class: s.placeholder || s.temporary ? "badge tmp" : "badge", "aria-hidden": "true" }, s.placeholder || s.temporary ? "임시" : "✦ AI 생성");
     const cap = el("figcaption", {}, el("a", { href: s.url }, `${s.group} · ${KIND[s.kind] || s.kind} ${s.seq}`));
     shots.append(el("figure", {}, el("div", { class: "ph" }, img, badge), cap));
   }

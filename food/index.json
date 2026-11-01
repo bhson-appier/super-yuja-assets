@@ -20,6 +20,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-01-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0001/main/main-1-212a99af-w640.webp",
@@ -38,6 +39,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-01-scene-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0001/main/scene-1-4639a5f3-w640.webp",
@@ -66,6 +68,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-IM-01-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0003/main/main-1-6c9823a1-w640.webp",
@@ -84,6 +87,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-IM-01-scene-E-fruit_plate-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0003/main/scene-1-3fae61a0-w640.webp",
@@ -112,6 +116,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-03-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0004/main/main-1-96677326-w640.webp",
@@ -130,6 +135,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-03-scene-E-fruit_basket-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0004/main/scene-1-104bf355-w640.webp",
@@ -158,6 +164,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-08-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0005/main/main-1-a263c8d2-w640.webp",
@@ -176,6 +183,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-08-scene-E-fruit_basket-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0005/main/scene-1-8c986163-w640.webp",
@@ -204,6 +212,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-10-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0006/main/main-1-49649464-w640.webp",
@@ -222,6 +231,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-10-scene-E-fruit_basket-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0006/main/scene-1-5be30c31-w640.webp",
@@ -250,6 +260,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-11-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0007/main/main-1-42f2c528-w640.webp",
@@ -268,6 +279,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-11-scene-E-fruit_basket-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0007/main/scene-1-bbacce1b-w640.webp",
@@ -296,6 +308,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-14-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0008/main/main-1-e04bba54-w640.webp",
@@ -314,6 +327,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-14-scene-E-fruit_plate-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0008/main/scene-1-458eb024-w640.webp",
@@ -342,6 +356,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-15-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0009/main/main-1-618d8fe8-w640.webp",
@@ -360,6 +375,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-15-scene-E-fruit_basket-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0009/main/scene-1-9b235808-w640.webp",
@@ -388,6 +404,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-23-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0010/main/main-1-7aaec644-w640.webp",
@@ -406,6 +423,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-23-scene-E-fruit_basket-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0010/main/scene-1-c125166b-w640.webp",
@@ -434,6 +452,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-IM-08-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0011/main/main-1-b48b34bf-w640.webp",
@@ -452,6 +471,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-IM-08-scene-E-fruit_plate-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0011/main/scene-1-3f1229f9-w640.webp",
@@ -480,6 +500,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-FZ-02-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0012/main/main-1-5a4b0f0f-w640.webp",
@@ -498,6 +519,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-FZ-02-scene-E-fruit_plate-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0012/main/scene-1-b6b67972-w640.webp",
@@ -526,6 +548,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-01-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0013/main/main-1-212a99af-w640.webp",
@@ -544,6 +567,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-01-scene-E-fruit_basket-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0013/main/scene-1-4639a5f3-w640.webp",
@@ -572,6 +596,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-03-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0014/main/main-1-96677326-w640.webp",
@@ -590,6 +615,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-03-scene-E-fruit_basket-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0014/main/scene-1-104bf355-w640.webp",
@@ -618,6 +644,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-10-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0015/main/main-1-49649464-w640.webp",
@@ -636,6 +663,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-10-scene-E-fruit_basket-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0015/main/scene-1-5be30c31-w640.webp",
@@ -664,6 +692,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-08-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0016/main/main-1-a263c8d2-w640.webp",
@@ -682,6 +711,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-08-scene-E-fruit_basket-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0016/main/scene-1-8c986163-w640.webp",
@@ -710,6 +740,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-15-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0017/main/main-1-618d8fe8-w640.webp",
@@ -728,6 +759,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-15-scene-E-fruit_basket-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0017/main/scene-1-9b235808-w640.webp",
@@ -756,6 +788,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-23-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0018/main/main-1-7aaec644-w640.webp",
@@ -774,6 +807,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-23-scene-E-fruit_basket-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0018/main/scene-1-c125166b-w640.webp",
@@ -802,6 +836,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-11-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0019/main/main-1-42f2c528-w640.webp",
@@ -820,6 +855,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-11-scene-E-fruit_basket-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0019/main/scene-1-bbacce1b-w640.webp",
@@ -848,6 +884,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-14-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0020/main/main-1-e04bba54-w640.webp",
@@ -866,6 +903,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-FR-DO-14-scene-E-fruit_plate-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-FR-0020/main/scene-1-458eb024-w640.webp",
@@ -894,6 +932,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-PK-01-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0001/main/main-1-7a9528af-w640.webp",
@@ -912,6 +951,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "T0-MT-scene",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0001/main/scene-1-cb0a45c0-w640.webp",
@@ -940,6 +980,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-01-main-E-meat_raw_tray-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0002/main/main-1-76ee26a7-w640.webp",
@@ -958,6 +999,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-01-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0002/main/scene-1-9502076a-w640.webp",
@@ -986,6 +1028,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-EG-01-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0003/main/main-1-60930e24-w640.webp",
@@ -1004,6 +1047,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-EG-01-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0003/main/scene-1-6e91cdd8-w640.webp",
@@ -1032,6 +1076,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-03-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0004/main/main-1-b606642c-w640.webp",
@@ -1050,6 +1095,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-03-scene-E-dish-r2-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0004/main/scene-1-3fd5576c-w640.webp",
@@ -1078,6 +1124,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-05-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0005/main/main-1-2a6a4c72-w640.webp",
@@ -1096,6 +1143,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-05-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0005/main/scene-1-a1ed0d1c-w640.webp",
@@ -1124,6 +1172,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-06-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0006/main/main-1-0786d0d6-w640.webp",
@@ -1142,6 +1191,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-06-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0006/main/scene-1-108c2611-w640.webp",
@@ -1170,6 +1220,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-09-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0007/main/main-1-68abac60-w640.webp",
@@ -1188,6 +1239,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-09-scene-E-dish_overhead-r2-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0007/main/scene-1-ffae78f1-w640.webp",
@@ -1216,6 +1268,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-11-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0008/main/main-1-ffc6658e-w640.webp",
@@ -1234,6 +1287,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-11-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0008/main/scene-1-efc54fa0-w640.webp",
@@ -1262,6 +1316,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-PK-02-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0009/main/main-1-cef5a2d1-w640.webp",
@@ -1280,6 +1335,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-PK-02-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0009/main/scene-1-47b8a5e2-w640.webp",
@@ -1308,6 +1364,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-PK-03-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0010/main/main-1-563f881c-w640.webp",
@@ -1326,6 +1383,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-PK-03-scene-E-dish-r2-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0010/main/scene-1-4bad786e-w640.webp",
@@ -1354,6 +1412,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-PK-04-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0011/main/main-1-3d875974-w640.webp",
@@ -1372,6 +1431,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-PK-04-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0011/main/scene-1-21ccfd0b-w640.webp",
@@ -1400,6 +1460,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-PK-10-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0012/main/main-1-520f13ac-w640.webp",
@@ -1418,6 +1479,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-PK-10-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0012/main/scene-1-9c7b0fd2-w640.webp",
@@ -1446,6 +1508,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-CK-01-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0013/main/main-1-3be80fe1-w640.webp",
@@ -1464,6 +1527,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-CK-01-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0013/main/scene-1-7a30742f-w640.webp",
@@ -1492,6 +1556,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-CK-02-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0014/main/main-1-d67ef4aa-w640.webp",
@@ -1510,6 +1575,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-CK-02-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0014/main/scene-1-19148249-w640.webp",
@@ -1538,6 +1604,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-CK-04-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0015/main/main-1-ec9ed98f-w640.webp",
@@ -1556,6 +1623,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-CK-04-scene-E-dish_overhead-r2-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0015/main/scene-1-df38e562-w640.webp",
@@ -1584,6 +1652,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-EG-02-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0016/main/main-1-cb7cba9f-w640.webp",
@@ -1602,6 +1671,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-EG-02-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0016/main/scene-1-9f91685e-w640.webp",
@@ -1630,6 +1700,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-01-main-E-meat_raw_tray-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0017/main/main-1-76ee26a7-w640.webp",
@@ -1648,6 +1719,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-01-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0017/main/scene-1-9502076a-w640.webp",
@@ -1676,6 +1748,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-03-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0018/main/main-1-b606642c-w640.webp",
@@ -1694,6 +1767,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-03-scene-E-dish-r2-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0018/main/scene-1-3fd5576c-w640.webp",
@@ -1722,6 +1796,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-05-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0019/main/main-1-2a6a4c72-w640.webp",
@@ -1740,6 +1815,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-05-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0019/main/scene-1-a1ed0d1c-w640.webp",
@@ -1768,6 +1844,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-06-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0020/main/main-1-0786d0d6-w640.webp",
@@ -1786,6 +1863,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-BF-06-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0020/main/scene-1-108c2611-w640.webp",
@@ -1814,6 +1892,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-PK-01-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0021/main/main-1-7a9528af-w640.webp",
@@ -1832,6 +1911,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-PK-01-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0021/main/scene-1-cb0a45c0-w640.webp",
@@ -1860,6 +1940,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-PK-02-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0022/main/main-1-cef5a2d1-w640.webp",
@@ -1878,6 +1959,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-PK-02-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0022/main/scene-1-47b8a5e2-w640.webp",
@@ -1906,6 +1988,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-EG-01-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0023/main/main-1-60930e24-w640.webp",
@@ -1924,6 +2007,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-EG-01-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0023/main/scene-1-6e91cdd8-w640.webp",
@@ -1952,6 +2036,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-EG-02-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0024/main/main-1-cb7cba9f-w640.webp",
@@ -1970,6 +2055,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-MT-EG-02-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0024/main/scene-1-9f91685e-w640.webp",
@@ -1998,6 +2084,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-FS-01-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0001/main/main-1-8a7a0a2f-w640.webp",
@@ -2016,6 +2103,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "T0-SF-scene",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0001/main/scene-1-a22d1243-w640.webp",
@@ -2044,6 +2132,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-FS-06-main-E-fillet_ice-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0002/main/main-1-26278963-w640.webp",
@@ -2062,6 +2151,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-FS-06-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0002/main/scene-1-a0a389f1-w640.webp",
@@ -2090,6 +2180,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-FS-04-main-E-fish_whole_white-r2-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0004/main/main-1-f572c070-w640.webp",
@@ -2108,6 +2199,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-FS-04-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0004/main/scene-1-268a1e9d-w640.webp",
@@ -2136,6 +2228,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-01-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0006/main/main-1-c3047b78-w640.webp",
@@ -2154,6 +2247,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-01-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0006/main/scene-1-3558e2e9-w640.webp",
@@ -2182,6 +2276,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-02-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0007/main/main-1-0c0e0e10-w640.webp",
@@ -2200,6 +2295,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-02-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0007/main/scene-1-035dfe3e-w640.webp",
@@ -2228,6 +2324,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-03-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0008/main/main-1-1c811524-w640.webp",
@@ -2246,6 +2343,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-03-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0008/main/scene-1-9ebbe2aa-w640.webp",
@@ -2274,6 +2372,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-04-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0009/main/main-1-ff882495-w640.webp",
@@ -2292,6 +2391,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-04-scene-E-dish-r2-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0009/main/scene-1-bb019c7c-w640.webp",
@@ -2320,6 +2420,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-05-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0010/main/main-1-1d4660ea-w640.webp",
@@ -2338,6 +2439,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-05-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0010/main/scene-1-4da267b7-w640.webp",
@@ -2366,6 +2468,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-06-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0011/main/main-1-0a569633-w640.webp",
@@ -2384,6 +2487,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-06-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0011/main/scene-1-a06f8a96-w640.webp",
@@ -2412,6 +2516,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-07-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0012/main/main-1-f822a4d0-w640.webp",
@@ -2430,6 +2535,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-07-scene-E-dish_overhead-r2-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0012/main/scene-1-0d0dd62e-w640.webp",
@@ -2458,6 +2564,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-09-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0013/main/main-1-afbb5d2b-w640.webp",
@@ -2476,6 +2583,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-09-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0013/main/scene-1-3c4bd450-w640.webp",
@@ -2504,6 +2612,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-10-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0014/main/main-1-b2fc3fa9-w640.webp",
@@ -2522,6 +2631,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-10-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0014/main/scene-1-be85fa12-w640.webp",
@@ -2550,6 +2660,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-14-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0015/main/main-1-7f64e179-w640.webp",
@@ -2568,6 +2679,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-SH-14-scene-E-dish-r2-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0015/main/scene-1-f0431922-w640.webp",
@@ -2596,6 +2708,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-DR-01-main-E-dried_pouch-r2-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0016/main/main-1-8e65b70d-w640.webp",
@@ -2614,6 +2727,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-DR-01-scene-E-dish_overhead-r4-s2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0016/main/scene-1-810e1ba2-w640.webp",
@@ -2642,6 +2756,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-DR-02-main-E-dried_chae-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0017/main/main-1-c49bda9f-w640.webp",
@@ -2660,6 +2775,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-DR-02-scene-E-dish_overhead-r3-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0017/main/scene-1-4659e338-w640.webp",
@@ -2688,6 +2804,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-DR-05-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0018/main/main-1-fe2560c7-w640.webp",
@@ -2706,6 +2823,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-DR-05-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0018/main/scene-1-f517fc70-w640.webp",
@@ -2734,6 +2852,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-DR-08-main-E-dried_pouch-r2-s2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0019/main/main-1-78b3d846-w640.webp",
@@ -2752,6 +2871,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-DR-08-scene-E-dish_overhead-r3-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0019/main/scene-1-65898f32-w640.webp",
@@ -2780,6 +2900,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-DR-09-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0020/main/main-1-860f0b30-w640.webp",
@@ -2798,6 +2919,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-SF-DR-09-scene-E-dish",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0020/main/scene-1-b1acebeb-w640.webp",
@@ -2826,6 +2948,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-01-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0001/main/main-1-7267a699-w640.webp",
@@ -2844,6 +2967,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-01-scene-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0001/main/scene-1-73bd01df-w640.webp",
@@ -2872,6 +2996,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-05-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0002/main/main-1-9ccca7bf-w640.webp",
@@ -2890,6 +3015,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-05-scene-E-veg_basket-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0002/main/scene-1-7467694c-w640.webp",
@@ -2918,6 +3044,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-03-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0003/main/main-1-f735175a-w640.webp",
@@ -2936,6 +3063,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-03-scene-E-veg_basket-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0003/main/scene-1-b905d3a9-w640.webp",
@@ -2964,6 +3092,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-04-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0004/main/main-1-363c2b15-w640.webp",
@@ -2982,6 +3111,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-04-scene-E-veg_board-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0004/main/scene-1-1884da9b-w640.webp",
@@ -3010,6 +3140,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-05-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0005/main/main-1-23a08a98-w640.webp",
@@ -3028,6 +3159,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-05-scene-E-veg_board-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0005/main/scene-1-66e38771-w640.webp",
@@ -3056,6 +3188,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-07-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0006/main/main-1-7d0d2eda-w640.webp",
@@ -3074,6 +3207,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-07-scene-E-veg_board-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0006/main/scene-1-b77e72c7-w640.webp",
@@ -3102,6 +3236,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-08-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0007/main/main-1-dde4644e-w640.webp",
@@ -3120,6 +3255,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-08-scene-E-veg_basket-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0007/main/scene-1-9284148d-w640.webp",
@@ -3148,6 +3284,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-09-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0008/main/main-1-94ebe9dd-w640.webp",
@@ -3166,6 +3303,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-09-scene-E-veg_board-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0008/main/scene-1-bfa63e8f-w640.webp",
@@ -3194,6 +3332,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-12-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0009/main/main-1-8f9e093b-w640.webp",
@@ -3212,6 +3351,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-12-scene-E-veg_board-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0009/main/scene-1-9613209d-w640.webp",
@@ -3240,6 +3380,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-14-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0010/main/main-1-565e0831-w640.webp",
@@ -3258,6 +3399,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-14-scene-E-veg_board-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0010/main/scene-1-627ff302-w640.webp",
@@ -3286,6 +3428,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-21-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0011/main/main-1-cd9b912b-w640.webp",
@@ -3304,6 +3447,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-21-scene-E-veg_board-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0011/main/scene-1-9b6ee68a-w640.webp",
@@ -3332,6 +3476,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-01-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0012/main/main-1-96498618-w640.webp",
@@ -3350,6 +3495,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-01-scene-E-veg_basket-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0012/main/scene-1-f5a7bb32-w640.webp",
@@ -3378,6 +3524,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-02-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0013/main/main-1-0c45c7b9-w640.webp",
@@ -3396,6 +3543,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-02-scene-E-veg_basket-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0013/main/scene-1-47179cd1-w640.webp",
@@ -3424,6 +3572,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-03-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0014/main/main-1-25f4d643-w640.webp",
@@ -3442,6 +3591,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-03-scene-E-veg_board-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0014/main/scene-1-eb9a44bf-w640.webp",
@@ -3470,6 +3620,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-06-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0015/main/main-1-49b176a2-w640.webp",
@@ -3488,6 +3639,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-06-scene-E-veg_basket-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0015/main/scene-1-12763dde-w640.webp",
@@ -3516,6 +3668,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-12-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0016/main/main-1-69772a6c-w640.webp",
@@ -3534,6 +3687,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-12-scene-E-veg_board-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0016/main/scene-1-227c2fc5-w640.webp",
@@ -3562,6 +3716,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-18-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0017/main/main-1-a9432213-w640.webp",
@@ -3580,6 +3735,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-18-scene-E-veg_board-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0017/main/scene-1-826aecae-w640.webp",
@@ -3608,6 +3764,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-19-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0018/main/main-1-5d5f6fc3-w640.webp",
@@ -3626,6 +3783,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-19-scene-E-veg_board-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0018/main/scene-1-0bc92b77-w640.webp",
@@ -3654,6 +3812,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-20-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0019/main/main-1-ee2b6701-w640.webp",
@@ -3672,6 +3831,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-20-scene-E-veg_board-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0019/main/scene-1-4c272813-w640.webp",
@@ -3700,6 +3860,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-21-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0020/main/main-1-5ffdfdc6-w640.webp",
@@ -3718,6 +3879,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-21-scene-E-veg_board-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0020/main/scene-1-d0f14062-w640.webp",
@@ -3746,6 +3908,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-MS-05-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0021/main/main-1-1cb8f4c0-w640.webp",
@@ -3764,6 +3927,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-MS-05-scene-E-veg_basket-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0021/main/scene-1-578e17c7-w640.webp",
@@ -3792,6 +3956,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-PR-01-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0022/main/main-1-313a341a-w640.webp",
@@ -3810,6 +3975,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-PR-01-scene-E-veg_bowl-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0022/main/scene-1-c1359f41-w640.webp",
@@ -3838,6 +4004,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-PR-06-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0023/main/main-1-6ee0706e-w640.webp",
@@ -3856,6 +4023,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-PR-06-scene-E-veg_bowl-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0023/main/scene-1-6658fe01-w640.webp",
@@ -3884,6 +4052,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-PR-08-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0024/main/main-1-19fac7ca-w640.webp",
@@ -3902,6 +4071,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-PR-08-scene-E-veg_bowl-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0024/main/scene-1-3438fece-w640.webp",
@@ -3930,6 +4100,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-01-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0025/main/main-1-96498618-w640.webp",
@@ -3948,6 +4119,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-01-scene-E-veg_basket-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0025/main/scene-1-f5a7bb32-w640.webp",
@@ -3976,6 +4148,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-02-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0026/main/main-1-0c45c7b9-w640.webp",
@@ -3994,6 +4167,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-02-scene-E-veg_basket-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0026/main/scene-1-47179cd1-w640.webp",
@@ -4022,6 +4196,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-03-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0027/main/main-1-25f4d643-w640.webp",
@@ -4040,6 +4215,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-03-scene-E-veg_board-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0027/main/scene-1-eb9a44bf-w640.webp",
@@ -4068,6 +4244,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-05-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0028/main/main-1-9ccca7bf-w640.webp",
@@ -4086,6 +4263,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-05-scene-E-veg_basket-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0028/main/scene-1-7467694c-w640.webp",
@@ -4114,6 +4292,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-01-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0029/main/main-1-7267a699-w640.webp",
@@ -4132,6 +4311,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-01-scene-E-veg_basket-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0029/main/scene-1-344f829d-w640.webp",
@@ -4160,6 +4340,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-04-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0030/main/main-1-363c2b15-w640.webp",
@@ -4178,6 +4359,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-04-scene-E-veg_board-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0030/main/scene-1-1884da9b-w640.webp",
@@ -4206,6 +4388,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-19-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0031/main/main-1-5d5f6fc3-w640.webp",
@@ -4224,6 +4407,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-19-scene-E-veg_board-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0031/main/scene-1-0bc92b77-w640.webp",
@@ -4252,6 +4436,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-21-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0032/main/main-1-5ffdfdc6-w640.webp",
@@ -4270,6 +4455,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-21-scene-E-veg_board-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0032/main/scene-1-d0f14062-w640.webp",
@@ -4298,6 +4484,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-14-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0033/main/main-1-565e0831-w640.webp",
@@ -4316,6 +4503,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-14-scene-E-veg_board-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0033/main/scene-1-627ff302-w640.webp",
@@ -4344,6 +4532,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-12-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0034/main/main-1-8f9e093b-w640.webp",
@@ -4362,6 +4551,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-12-scene-E-veg_board-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0034/main/scene-1-9613209d-w640.webp",
@@ -4390,6 +4580,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-06-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0035/main/main-1-49b176a2-w640.webp",
@@ -4408,6 +4599,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-06-scene-E-veg_basket-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0035/main/scene-1-12763dde-w640.webp",
@@ -4436,6 +4628,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-20-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0036/main/main-1-ee2b6701-w640.webp",
@@ -4454,6 +4647,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-RT-20-scene-E-veg_board-s0",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0036/main/scene-1-4c272813-w640.webp",
@@ -4482,6 +4676,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-03-main-v2",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0037/main/main-1-f735175a-w640.webp",
@@ -4500,6 +4695,7 @@
           "w": 1200,
           "h": 1200,
           "placeholder": false,
+          "temporary": false,
           "job_id": "FS-VG-LF-03-scene-E-veg_basket-s1",
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-VG-0037/main/scene-1-b905d3a9-w640.webp",

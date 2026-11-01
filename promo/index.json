@@ -17,6 +17,7 @@
           "w": 832,
           "h": 1040,
           "placeholder": false,
+          "temporary": false,
           "job_id": null,
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-NEW/intro-1-b24dc7ea-w640.webp"
@@ -35,6 +36,7 @@
           "w": 832,
           "h": 1040,
           "placeholder": false,
+          "temporary": false,
           "job_id": null,
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-NEW/intro-2-25b05669-w640.webp"
@@ -53,6 +55,7 @@
           "w": 1024,
           "h": 1024,
           "placeholder": false,
+          "temporary": false,
           "job_id": null,
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-NEW/slide-1-70e9a2a1-w640.webp",
@@ -72,6 +75,7 @@
           "w": 1536,
           "h": 384,
           "placeholder": false,
+          "temporary": false,
           "job_id": null,
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-NEW/banner-1-55eec84c-w640.webp",
@@ -99,6 +103,7 @@
           "w": 832,
           "h": 1040,
           "placeholder": false,
+          "temporary": false,
           "job_id": null,
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WELCOME/intro-1-288a5dae-w640.webp"
@@ -117,6 +122,7 @@
           "w": 832,
           "h": 1040,
           "placeholder": false,
+          "temporary": false,
           "job_id": null,
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WELCOME/intro-2-d51a745c-w640.webp"
@@ -135,6 +141,7 @@
           "w": 1024,
           "h": 1024,
           "placeholder": false,
+          "temporary": false,
           "job_id": null,
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WELCOME/slide-1-6dfa3ecc-w640.webp",
@@ -154,6 +161,7 @@
           "w": 1536,
           "h": 384,
           "placeholder": false,
+          "temporary": false,
           "job_id": null,
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WELCOME/banner-1-50a75af9-w640.webp",
@@ -181,6 +189,7 @@
           "w": 832,
           "h": 1040,
           "placeholder": false,
+          "temporary": false,
           "job_id": null,
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-OUTER/intro-1-44dcd3f4-w640.webp"
@@ -199,6 +208,7 @@
           "w": 832,
           "h": 1040,
           "placeholder": false,
+          "temporary": false,
           "job_id": null,
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-OUTER/intro-2-334e4087-w640.webp"
@@ -217,6 +227,7 @@
           "w": 1024,
           "h": 1024,
           "placeholder": false,
+          "temporary": false,
           "job_id": null,
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-OUTER/slide-1-7cac4a65-w640.webp",
@@ -236,6 +247,7 @@
           "w": 1536,
           "h": 384,
           "placeholder": false,
+          "temporary": false,
           "job_id": null,
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-OUTER/banner-1-3ac91fca-w640.webp",
@@ -263,6 +275,7 @@
           "w": 832,
           "h": 1040,
           "placeholder": false,
+          "temporary": false,
           "job_id": null,
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-KNIT/intro-1-8ace71d6-w640.webp"
@@ -281,6 +294,7 @@
           "w": 832,
           "h": 1040,
           "placeholder": false,
+          "temporary": false,
           "job_id": null,
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-KNIT/intro-2-cc36837c-w640.webp"
@@ -299,6 +313,7 @@
           "w": 1024,
           "h": 1024,
           "placeholder": false,
+          "temporary": false,
           "job_id": null,
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-KNIT/slide-1-b18a681d-w640.webp",
@@ -318,6 +333,7 @@
           "w": 1536,
           "h": 384,
           "placeholder": false,
+          "temporary": false,
           "job_id": null,
           "variants": {
             "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-KNIT/banner-1-cddbbc63-w640.webp",
