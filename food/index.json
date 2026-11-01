@@ -1887,26 +1887,26 @@
         "ko": "제주 돼지 삼겹살 1등급 구이용",
         "en": "Grade 1 Jeju Pork Belly for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0001/main/main-1-7a9528af.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0001/main/main-1-1837229e.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0001/main/main-1-7a9528af.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0001/main/main-1-1837229e.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-PK-01-main-v2",
+          "job_id": "FD-MT-0001-tray-r2-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0001/main/main-1-7a9528af-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0001/main/main-1-7a9528af-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0001/main/main-1-1837229e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0001/main/main-1-1837229e-w960.webp"
           },
-          "path": "food/FD-MT-0001/main/main-1-7a9528af.jpg",
-          "sha256": "7a9528af7cdab08d50a95cbaaf097582566e9eed5aaff15c5428b04aa094b4a8",
-          "bytes": 150379,
+          "path": "food/FD-MT-0001/main/main-1-1837229e.jpg",
+          "sha256": "1837229e9f487c1b940f98ddce600514f94588e642415f5f97b7522f5eeb119b",
+          "bytes": 142095,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -1935,26 +1935,26 @@
         "ko": "한우 등심 1++ 구이용",
         "en": "Grade 1++ Hanwoo Beef Sirloin for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0002/main/main-1-76ee26a7.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0002/main/main-1-08fbc251.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0002/main/main-1-76ee26a7.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0002/main/main-1-08fbc251.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-BF-01-main-E-meat_raw_tray-s1",
+          "job_id": "FD-MT-0002-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0002/main/main-1-76ee26a7-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0002/main/main-1-76ee26a7-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0002/main/main-1-08fbc251-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0002/main/main-1-08fbc251-w960.webp"
           },
-          "path": "food/FD-MT-0002/main/main-1-76ee26a7.jpg",
-          "sha256": "76ee26a7e581e398ddcb32e17d8640f5f9fba49be73284df64d25b6722106fa7",
-          "bytes": 286594,
+          "path": "food/FD-MT-0002/main/main-1-08fbc251.jpg",
+          "sha256": "08fbc2518b50771cb8c3a70ea91b92bf5eef674f78fac5f32a6ab5b8a6e1c3c5",
+          "bytes": 170043,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -1983,26 +1983,26 @@
         "ko": "국내산 계란 특란",
         "en": "Extra Large Korean Eggs"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0003/main/main-1-60930e24.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0003/main/main-1-2e37318a.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0003/main/main-1-60930e24.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0003/main/main-1-2e37318a.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-EG-01-main-v2",
+          "job_id": "FD-MT-0003-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0003/main/main-1-60930e24-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0003/main/main-1-60930e24-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0003/main/main-1-2e37318a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0003/main/main-1-2e37318a-w960.webp"
           },
-          "path": "food/FD-MT-0003/main/main-1-60930e24.jpg",
-          "sha256": "60930e24b75bbc377181596cfd7900a3f037cbd47508f8e05ac58ff0f3f848a1",
-          "bytes": 120589,
+          "path": "food/FD-MT-0003/main/main-1-2e37318a.jpg",
+          "sha256": "2e37318af46a35775774183f4ec502ac32bda4bef604cea050a0073a366afcf3",
+          "bytes": 136072,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2031,26 +2031,26 @@
         "ko": "한우 채끝 1+ 구이용",
         "en": "Grade 1+ Hanwoo Beef Striploin for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0004/main/main-1-b606642c.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0004/main/main-1-f2724ab1.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0004/main/main-1-b606642c.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0004/main/main-1-f2724ab1.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-BF-03-main-v2",
+          "job_id": "FD-MT-0004-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0004/main/main-1-b606642c-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0004/main/main-1-b606642c-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0004/main/main-1-f2724ab1-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0004/main/main-1-f2724ab1-w960.webp"
           },
-          "path": "food/FD-MT-0004/main/main-1-b606642c.jpg",
-          "sha256": "b606642c97ce03cd0eb1bc32713e5783842a486635bc8e2582b67fa00043f9ff",
-          "bytes": 155067,
+          "path": "food/FD-MT-0004/main/main-1-f2724ab1.jpg",
+          "sha256": "f2724ab1e16a171d4864cc06a2422ab847da7484c195cff66a36a92cf686e474",
+          "bytes": 193754,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2079,26 +2079,26 @@
         "ko": "한우 불고기용 1+",
         "en": "Grade 1+ Hanwoo Bulgogi Beef"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0005/main/main-1-2a6a4c72.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0005/main/main-1-11745b34.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0005/main/main-1-2a6a4c72.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0005/main/main-1-11745b34.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-BF-05-main-v2",
+          "job_id": "FD-MT-0005-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0005/main/main-1-2a6a4c72-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0005/main/main-1-2a6a4c72-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0005/main/main-1-11745b34-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0005/main/main-1-11745b34-w960.webp"
           },
-          "path": "food/FD-MT-0005/main/main-1-2a6a4c72.jpg",
-          "sha256": "2a6a4c72dc952b800d6809596faa7a24d5d8b91bd8f21fe9debe082cedfe589d",
-          "bytes": 220745,
+          "path": "food/FD-MT-0005/main/main-1-11745b34.jpg",
+          "sha256": "11745b344a692beee059932ed514d880b92bf714516f1db913fa61019c66a82f",
+          "bytes": 198448,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2127,26 +2127,26 @@
         "ko": "한우 국거리 1등급",
         "en": "Grade 1 Hanwoo Beef Stew Meat"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0006/main/main-1-0786d0d6.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0006/main/main-1-06726e46.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0006/main/main-1-0786d0d6.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0006/main/main-1-06726e46.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-BF-06-main-v2",
+          "job_id": "FD-MT-0006-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0006/main/main-1-0786d0d6-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0006/main/main-1-0786d0d6-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0006/main/main-1-06726e46-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0006/main/main-1-06726e46-w960.webp"
           },
-          "path": "food/FD-MT-0006/main/main-1-0786d0d6.jpg",
-          "sha256": "0786d0d6d10955f5d82e845a9bcda7f908f56e564e68d9f1c1c6bfce4873d5f5",
-          "bytes": 164308,
+          "path": "food/FD-MT-0006/main/main-1-06726e46.jpg",
+          "sha256": "06726e4661b8840226dba48a246b6f0cdb7b135f7e859b31274bb0bea83d2fcd",
+          "bytes": 161983,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2175,26 +2175,26 @@
         "ko": "한우 우둔 1등급 장조림용",
         "en": "Grade 1 Hanwoo Beef Round for Braising"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0007/main/main-1-68abac60.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0007/main/main-1-a539a137.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0007/main/main-1-68abac60.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0007/main/main-1-a539a137.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-BF-09-main-v2",
+          "job_id": "FD-MT-0007-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0007/main/main-1-68abac60-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0007/main/main-1-68abac60-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0007/main/main-1-a539a137-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0007/main/main-1-a539a137-w960.webp"
           },
-          "path": "food/FD-MT-0007/main/main-1-68abac60.jpg",
-          "sha256": "68abac60077b132121a07b7079ce1968a506fc2408571ed5b1cddc561daed471",
-          "bytes": 145865,
+          "path": "food/FD-MT-0007/main/main-1-a539a137.jpg",
+          "sha256": "a539a13778f876e64e32ad564d256f78c4366c5c22ea9a614e718256123e6923",
+          "bytes": 149368,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2223,26 +2223,26 @@
         "ko": "한우 다짐육 1등급 다짐용",
         "en": "Grade 1 Hanwoo Ground Beef"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0008/main/main-1-ffc6658e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0008/main/main-1-a324e682.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0008/main/main-1-ffc6658e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0008/main/main-1-a324e682.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-BF-11-main-v2",
+          "job_id": "FD-MT-0008-tray-r1-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0008/main/main-1-ffc6658e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0008/main/main-1-ffc6658e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0008/main/main-1-a324e682-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0008/main/main-1-a324e682-w960.webp"
           },
-          "path": "food/FD-MT-0008/main/main-1-ffc6658e.jpg",
-          "sha256": "ffc6658e2b41342b309f5ce14ab69f90e1e1a0c93d0965ce9f63d1af68666c63",
-          "bytes": 225063,
+          "path": "food/FD-MT-0008/main/main-1-a324e682.jpg",
+          "sha256": "a324e68291e87547aee7cc3ac5f3798e517179219bf77d9e6f69f5eb678393e0",
+          "bytes": 167213,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2271,26 +2271,26 @@
         "ko": "제주 돼지 목살 1+ 구이용",
         "en": "Grade 1+ Jeju Pork Collar for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0009/main/main-1-cef5a2d1.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0009/main/main-1-06fa06fa.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0009/main/main-1-cef5a2d1.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0009/main/main-1-06fa06fa.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-PK-02-main-v2",
+          "job_id": "FD-MT-0009-tray-r1-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0009/main/main-1-cef5a2d1-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0009/main/main-1-cef5a2d1-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0009/main/main-1-06fa06fa-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0009/main/main-1-06fa06fa-w960.webp"
           },
-          "path": "food/FD-MT-0009/main/main-1-cef5a2d1.jpg",
-          "sha256": "cef5a2d14a04cd5ae0e7fb15662177f3fa6af4755653024b8422721a82a83196",
-          "bytes": 164860,
+          "path": "food/FD-MT-0009/main/main-1-06fa06fa.jpg",
+          "sha256": "06fa06faa0a522737106d0df98fe60153d96863f4ece23706cfb90aea1f1642c",
+          "bytes": 143507,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2319,26 +2319,26 @@
         "ko": "제주 돼지 앞다리살 1등급 수육용",
         "en": "Grade 1 Jeju Pork Shoulder for Simmering"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0010/main/main-1-563f881c.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0010/main/main-1-26724710.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0010/main/main-1-563f881c.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0010/main/main-1-26724710.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-PK-03-main-v2",
+          "job_id": "FD-MT-0010-tray-r1-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0010/main/main-1-563f881c-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0010/main/main-1-563f881c-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0010/main/main-1-26724710-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0010/main/main-1-26724710-w960.webp"
           },
-          "path": "food/FD-MT-0010/main/main-1-563f881c.jpg",
-          "sha256": "563f881c098815d7c0256f37795260fb997fa53ba5d25802cd9083c1f7f286ec",
-          "bytes": 138203,
+          "path": "food/FD-MT-0010/main/main-1-26724710.jpg",
+          "sha256": "26724710c5617b643c60dea98afb6bc8cb5495fd379bbdb6b5ba7d180b454515",
+          "bytes": 141401,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2367,26 +2367,26 @@
         "ko": "제주 돼지 뒷다리살 1등급 볶음용",
         "en": "Grade 1 Jeju Pork Leg for Stir-Frying"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0011/main/main-1-3d875974.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0011/main/main-1-b63a1468.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0011/main/main-1-3d875974.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0011/main/main-1-b63a1468.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-PK-04-main-v2",
+          "job_id": "FD-MT-0011-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0011/main/main-1-3d875974-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0011/main/main-1-3d875974-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0011/main/main-1-b63a1468-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0011/main/main-1-b63a1468-w960.webp"
           },
-          "path": "food/FD-MT-0011/main/main-1-3d875974.jpg",
-          "sha256": "3d8759749764a0fdbde0acfa3dd956ab406d0e9ab061bf7895cfbda094041c26",
-          "bytes": 137851,
+          "path": "food/FD-MT-0011/main/main-1-b63a1468.jpg",
+          "sha256": "b63a146831b64fcca6e08204a603c47f2af139553bcf33ac68d38e8498730abf",
+          "bytes": 184237,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2415,26 +2415,26 @@
         "ko": "제주 돼지 구이 모둠 1+",
         "en": "Grade 1+ Jeju Pork Barbecue Assortment"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0012/main/main-1-520f13ac.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0012/main/main-1-97356a81.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0012/main/main-1-520f13ac.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0012/main/main-1-97356a81.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-PK-10-main-v2",
+          "job_id": "FD-MT-0012-tray-r2-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0012/main/main-1-520f13ac-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0012/main/main-1-520f13ac-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0012/main/main-1-97356a81-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0012/main/main-1-97356a81-w960.webp"
           },
-          "path": "food/FD-MT-0012/main/main-1-520f13ac.jpg",
-          "sha256": "520f13ac1648389d9baf992faf888f0c4826d747fb9e5d1e7bae3cca13cbee24",
-          "bytes": 143523,
+          "path": "food/FD-MT-0012/main/main-1-97356a81.jpg",
+          "sha256": "97356a81c0c898d95cd24c1d6a9bd16d151f135b32f4f10b8faae91a3d243c0f",
+          "bytes": 210391,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2463,26 +2463,26 @@
         "ko": "강원 닭가슴살",
         "en": "Gangwon Chicken Breast"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0013/main/main-1-3be80fe1.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0013/main/main-1-903df2c2.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0013/main/main-1-3be80fe1.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0013/main/main-1-903df2c2.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-CK-01-main-v2",
+          "job_id": "FD-MT-0013-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0013/main/main-1-3be80fe1-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0013/main/main-1-3be80fe1-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0013/main/main-1-903df2c2-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0013/main/main-1-903df2c2-w960.webp"
           },
-          "path": "food/FD-MT-0013/main/main-1-3be80fe1.jpg",
-          "sha256": "3be80fe153bf5f31a21055d9f789fcbda564fde2897d90825c4d3d3f7d5be159",
-          "bytes": 98979,
+          "path": "food/FD-MT-0013/main/main-1-903df2c2.jpg",
+          "sha256": "903df2c28819285cfc05ccf6981ccc07da542b3a5189657513fdc185ddab9d92",
+          "bytes": 97174,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2607,26 +2607,26 @@
         "ko": "국내산 유정란 특란",
         "en": "Extra Large Korean Fertile Eggs"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0016/main/main-1-cb7cba9f.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0016/main/main-1-9fcba281.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0016/main/main-1-cb7cba9f.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0016/main/main-1-9fcba281.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-EG-02-main-v2",
+          "job_id": "FD-MT-0016-tray-r1-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0016/main/main-1-cb7cba9f-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0016/main/main-1-cb7cba9f-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0016/main/main-1-9fcba281-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0016/main/main-1-9fcba281-w960.webp"
           },
-          "path": "food/FD-MT-0016/main/main-1-cb7cba9f.jpg",
-          "sha256": "cb7cba9fd5712f948d2e8bd2327aa804246f6266ab61e92ef8ebc9a525ce304f",
-          "bytes": 103925,
+          "path": "food/FD-MT-0016/main/main-1-9fcba281.jpg",
+          "sha256": "9fcba281103e95e0c8d016934e59c6d54ece52741c3ce4522af00c6374e1d9f0",
+          "bytes": 151160,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2655,26 +2655,26 @@
         "ko": "한우 등심 1+ 구이용",
         "en": "Grade 1+ Hanwoo Beef Sirloin for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0017/main/main-1-76ee26a7.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0017/main/main-1-e361101e.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0017/main/main-1-76ee26a7.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0017/main/main-1-e361101e.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-BF-01-main-E-meat_raw_tray-s1",
+          "job_id": "FD-MT-0017-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0017/main/main-1-76ee26a7-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0017/main/main-1-76ee26a7-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0017/main/main-1-e361101e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0017/main/main-1-e361101e-w960.webp"
           },
-          "path": "food/FD-MT-0017/main/main-1-76ee26a7.jpg",
-          "sha256": "76ee26a7e581e398ddcb32e17d8640f5f9fba49be73284df64d25b6722106fa7",
-          "bytes": 286594,
+          "path": "food/FD-MT-0017/main/main-1-e361101e.jpg",
+          "sha256": "e361101ed5bf8e3dd374c9581bf501b0a8ed4bda43bb7e86ee16b8e345e968be",
+          "bytes": 182424,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2703,26 +2703,26 @@
         "ko": "한우 채끝 1++ 구이용",
         "en": "Grade 1++ Hanwoo Beef Striploin for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0018/main/main-1-b606642c.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0018/main/main-1-c0224cf2.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0018/main/main-1-b606642c.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0018/main/main-1-c0224cf2.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-BF-03-main-v2",
+          "job_id": "FD-MT-0018-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0018/main/main-1-b606642c-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0018/main/main-1-b606642c-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0018/main/main-1-c0224cf2-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0018/main/main-1-c0224cf2-w960.webp"
           },
-          "path": "food/FD-MT-0018/main/main-1-b606642c.jpg",
-          "sha256": "b606642c97ce03cd0eb1bc32713e5783842a486635bc8e2582b67fa00043f9ff",
-          "bytes": 155067,
+          "path": "food/FD-MT-0018/main/main-1-c0224cf2.jpg",
+          "sha256": "c0224cf2b2d2113e9bad90e4f18ce5c3bb51ad3824b056d5d7a56115768b09b4",
+          "bytes": 195741,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2751,26 +2751,26 @@
         "ko": "한우 불고기용 1등급",
         "en": "Grade 1 Hanwoo Bulgogi Beef"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0019/main/main-1-2a6a4c72.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0019/main/main-1-9f29c28a.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0019/main/main-1-2a6a4c72.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0019/main/main-1-9f29c28a.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-BF-05-main-v2",
+          "job_id": "FD-MT-0019-tray-r1-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0019/main/main-1-2a6a4c72-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0019/main/main-1-2a6a4c72-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0019/main/main-1-9f29c28a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0019/main/main-1-9f29c28a-w960.webp"
           },
-          "path": "food/FD-MT-0019/main/main-1-2a6a4c72.jpg",
-          "sha256": "2a6a4c72dc952b800d6809596faa7a24d5d8b91bd8f21fe9debe082cedfe589d",
-          "bytes": 220745,
+          "path": "food/FD-MT-0019/main/main-1-9f29c28a.jpg",
+          "sha256": "9f29c28aee4709e315edc2e6642fa11ead99ae2833bece2ffeef3efee1cbe7f0",
+          "bytes": 177603,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2799,26 +2799,26 @@
         "ko": "한우 국거리 1+",
         "en": "Grade 1+ Hanwoo Beef Stew Meat"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0020/main/main-1-0786d0d6.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0020/main/main-1-609ea81e.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0020/main/main-1-0786d0d6.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0020/main/main-1-609ea81e.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-BF-06-main-v2",
+          "job_id": "FD-MT-0020-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0020/main/main-1-0786d0d6-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0020/main/main-1-0786d0d6-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0020/main/main-1-609ea81e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0020/main/main-1-609ea81e-w960.webp"
           },
-          "path": "food/FD-MT-0020/main/main-1-0786d0d6.jpg",
-          "sha256": "0786d0d6d10955f5d82e845a9bcda7f908f56e564e68d9f1c1c6bfce4873d5f5",
-          "bytes": 164308,
+          "path": "food/FD-MT-0020/main/main-1-609ea81e.jpg",
+          "sha256": "609ea81ea91b98e9fa3f26dec1053d4f94a1a4c7eebf450e8dde0280535c57e6",
+          "bytes": 170710,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2847,26 +2847,26 @@
         "ko": "제주 돼지 삼겹살 1+ 구이용",
         "en": "Grade 1+ Jeju Pork Belly for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0021/main/main-1-7a9528af.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0021/main/main-1-cb6d156c.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0021/main/main-1-7a9528af.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0021/main/main-1-cb6d156c.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-PK-01-main-v2",
+          "job_id": "FD-MT-0021-tray-r1-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0021/main/main-1-7a9528af-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0021/main/main-1-7a9528af-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0021/main/main-1-cb6d156c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0021/main/main-1-cb6d156c-w960.webp"
           },
-          "path": "food/FD-MT-0021/main/main-1-7a9528af.jpg",
-          "sha256": "7a9528af7cdab08d50a95cbaaf097582566e9eed5aaff15c5428b04aa094b4a8",
-          "bytes": 150379,
+          "path": "food/FD-MT-0021/main/main-1-cb6d156c.jpg",
+          "sha256": "cb6d156ce36b2e53d635869950c846eee0106a8e6e86ad9e2b5ea91900795154",
+          "bytes": 151513,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2895,26 +2895,26 @@
         "ko": "제주 돼지 목살 1등급 구이용",
         "en": "Grade 1 Jeju Pork Collar for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0022/main/main-1-cef5a2d1.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0022/main/main-1-14ba7bfe.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0022/main/main-1-cef5a2d1.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0022/main/main-1-14ba7bfe.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-PK-02-main-v2",
+          "job_id": "FD-MT-0022-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0022/main/main-1-cef5a2d1-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0022/main/main-1-cef5a2d1-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0022/main/main-1-14ba7bfe-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0022/main/main-1-14ba7bfe-w960.webp"
           },
-          "path": "food/FD-MT-0022/main/main-1-cef5a2d1.jpg",
-          "sha256": "cef5a2d14a04cd5ae0e7fb15662177f3fa6af4755653024b8422721a82a83196",
-          "bytes": 164860,
+          "path": "food/FD-MT-0022/main/main-1-14ba7bfe.jpg",
+          "sha256": "14ba7bfeb487f969856c3efe214375dd98625caa8846eff105ffb524a3511cd2",
+          "bytes": 149294,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -2943,26 +2943,26 @@
         "ko": "국내산 계란 대란",
         "en": "Large Korean Eggs"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0023/main/main-1-60930e24.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0023/main/main-1-6f5e6792.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0023/main/main-1-60930e24.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0023/main/main-1-6f5e6792.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-MT-EG-01-main-v2",
+          "job_id": "FD-MT-0023-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0023/main/main-1-60930e24-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0023/main/main-1-60930e24-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0023/main/main-1-6f5e6792-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0023/main/main-1-6f5e6792-w960.webp"
           },
-          "path": "food/FD-MT-0023/main/main-1-60930e24.jpg",
-          "sha256": "60930e24b75bbc377181596cfd7900a3f037cbd47508f8e05ac58ff0f3f848a1",
-          "bytes": 120589,
+          "path": "food/FD-MT-0023/main/main-1-6f5e6792.jpg",
+          "sha256": "6f5e6792b0e568587417c30849bd22286189001e5a6a30c458ae50ed69995498",
+          "bytes": 127776,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -3097,27 +3097,27 @@
         "ko": "충북 도톰 삼겹살 1+ 구이용",
         "en": "Grade 1+ Chungbuk Thick-Cut Pork Belly for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0027/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0027/main/main-1-8625429e.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0027/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0027/main/main-1-8625429e.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0027-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0027-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0027/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0027/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0027/main/main-1-8625429e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0027/main/main-1-8625429e-w960.webp"
           },
-          "path": "food/FD-MT-0027/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0027/main/main-1-8625429e.jpg",
+          "sha256": "8625429e74bb0710392c18c7fc7e591f95a1062f3cc4d9ae4ec98fcd18dab521",
+          "bytes": 133027,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3126,27 +3126,27 @@
         "ko": "강원 돼지 삼겹살 1+ 구이용",
         "en": "Grade 1+ Gangwon Pork Belly for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0028/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0028/main/main-1-4ac6f044.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0028/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0028/main/main-1-4ac6f044.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0028-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0028-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0028/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0028/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0028/main/main-1-4ac6f044-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0028/main/main-1-4ac6f044-w960.webp"
           },
-          "path": "food/FD-MT-0028/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0028/main/main-1-4ac6f044.jpg",
+          "sha256": "4ac6f0444030bfa0a4067df411c2f0e0d83f3cd0ee480a3326aef9d5cc96af77",
+          "bytes": 122443,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3155,27 +3155,27 @@
         "ko": "강원 돼지 삼겹살 1등급 구이용",
         "en": "Grade 1 Gangwon Pork Belly for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0029/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0029/main/main-1-45f21b2b.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0029/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0029/main/main-1-45f21b2b.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0029-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0029-tray-r1-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0029/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0029/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0029/main/main-1-45f21b2b-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0029/main/main-1-45f21b2b-w960.webp"
           },
-          "path": "food/FD-MT-0029/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0029/main/main-1-45f21b2b.jpg",
+          "sha256": "45f21b2baa599547e6a6c3e486406493ece69612a0946de95a29adbbf8c57a63",
+          "bytes": 210541,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3184,27 +3184,27 @@
         "ko": "경북 돼지 삼겹살 1+ 구이용",
         "en": "Grade 1+ Gyeongbuk Pork Belly for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0030/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0030/main/main-1-41e1a5cd.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0030/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0030/main/main-1-41e1a5cd.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0030-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0030-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0030/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0030/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0030/main/main-1-41e1a5cd-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0030/main/main-1-41e1a5cd-w960.webp"
           },
-          "path": "food/FD-MT-0030/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0030/main/main-1-41e1a5cd.jpg",
+          "sha256": "41e1a5cd95d6d6aab35984b9897a8cd6b9c053d6967d9b544fc66246e55feb4e",
+          "bytes": 141124,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3213,27 +3213,27 @@
         "ko": "경북 돼지 삼겹살 1등급 구이용",
         "en": "Grade 1 Gyeongbuk Pork Belly for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0031/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0031/main/main-1-cce65aeb.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0031/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0031/main/main-1-cce65aeb.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0031-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0031-tray-r2-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0031/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0031/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0031/main/main-1-cce65aeb-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0031/main/main-1-cce65aeb-w960.webp"
           },
-          "path": "food/FD-MT-0031/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0031/main/main-1-cce65aeb.jpg",
+          "sha256": "cce65aeb91c74db7b37f456aac85be103ce63d84e76c0d0a48c850c1be7f32ad",
+          "bytes": 141469,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3242,27 +3242,27 @@
         "ko": "충남 돼지 삼겹살 1+ 구이용",
         "en": "Grade 1+ Chungnam Pork Belly for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0032/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0032/main/main-1-33b8f339.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0032/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0032/main/main-1-33b8f339.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0032-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0032-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0032/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0032/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0032/main/main-1-33b8f339-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0032/main/main-1-33b8f339-w960.webp"
           },
-          "path": "food/FD-MT-0032/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0032/main/main-1-33b8f339.jpg",
+          "sha256": "33b8f3394a49268ea5e0fc24772ed76dd3240c25efe0a50e4990f55796e33bbc",
+          "bytes": 128255,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3271,27 +3271,27 @@
         "ko": "전남 돼지 삼겹살 1등급 구이용",
         "en": "Grade 1 Jeonnam Pork Belly for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0033/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0033/main/main-1-96c2a83e.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0033/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0033/main/main-1-96c2a83e.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0033-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0033-tray-r2-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0033/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0033/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0033/main/main-1-96c2a83e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0033/main/main-1-96c2a83e-w960.webp"
           },
-          "path": "food/FD-MT-0033/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0033/main/main-1-96c2a83e.jpg",
+          "sha256": "96c2a83e773e8e94fde8a7eafc86275b9fbb34667afd2662a2682fdda2646fc7",
+          "bytes": 163919,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3300,27 +3300,27 @@
         "ko": "강원 도톰 삼겹살 1+ 구이용",
         "en": "Grade 1+ Gangwon Thick-Cut Pork Belly for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0034/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0034/main/main-1-f325e643.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0034/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0034/main/main-1-f325e643.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0034-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0034-tray-r2-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0034/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0034/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0034/main/main-1-f325e643-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0034/main/main-1-f325e643-w960.webp"
           },
-          "path": "food/FD-MT-0034/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0034/main/main-1-f325e643.jpg",
+          "sha256": "f325e6435f443cd0d1a99d0953c550f1d8821a0904fee82a73b4c2ed28d2a1dd",
+          "bytes": 165682,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3329,27 +3329,27 @@
         "ko": "경북 도톰 삼겹살 1등급 구이용",
         "en": "Grade 1 Gyeongbuk Thick-Cut Pork Belly for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0035/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0035/main/main-1-a6ccc5b3.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0035/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0035/main/main-1-a6ccc5b3.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0035-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0035-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0035/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0035/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0035/main/main-1-a6ccc5b3-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0035/main/main-1-a6ccc5b3-w960.webp"
           },
-          "path": "food/FD-MT-0035/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0035/main/main-1-a6ccc5b3.jpg",
+          "sha256": "a6ccc5b37e157c03e8415b266d7649b6f10a1f4e207ee79d1386f5032f92aa1f",
+          "bytes": 139120,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3358,27 +3358,27 @@
         "ko": "충남 도톰 삼겹살 1+ 구이용",
         "en": "Grade 1+ Chungnam Thick-Cut Pork Belly for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0036/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0036/main/main-1-45d88b0a.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0036/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0036/main/main-1-45d88b0a.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0036-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0036-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0036/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0036/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0036/main/main-1-45d88b0a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0036/main/main-1-45d88b0a-w960.webp"
           },
-          "path": "food/FD-MT-0036/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0036/main/main-1-45d88b0a.jpg",
+          "sha256": "45d88b0ae79b5c63eae24bf0398e994ad883cef53890bbabfba64f7f20a3e455",
+          "bytes": 140873,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3387,27 +3387,27 @@
         "ko": "전북 도톰 삼겹살 1등급 구이용",
         "en": "Grade 1 Jeonbuk Thick-Cut Pork Belly for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0037/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0037/main/main-1-9de6982e.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0037/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0037/main/main-1-9de6982e.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0037-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0037-tray-r2-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0037/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0037/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0037/main/main-1-9de6982e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0037/main/main-1-9de6982e-w960.webp"
           },
-          "path": "food/FD-MT-0037/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0037/main/main-1-9de6982e.jpg",
+          "sha256": "9de6982e46f7299b73eef2ac68cc0cac7418e589ad3ce42c2dd9152a28902367",
+          "bytes": 122124,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3416,27 +3416,27 @@
         "ko": "한우 우둔 1+ 장조림용",
         "en": "Grade 1+ Hanwoo Beef Round for Braising"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0038/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0038/main/main-1-90e7e36c.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0038/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0038/main/main-1-90e7e36c.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0038-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0038-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0038/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0038/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0038/main/main-1-90e7e36c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0038/main/main-1-90e7e36c-w960.webp"
           },
-          "path": "food/FD-MT-0038/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0038/main/main-1-90e7e36c.jpg",
+          "sha256": "90e7e36c9530e5e757f89e23be3ea83e08f8705d15031f82d848e6fa162a74ef",
+          "bytes": 150527,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3445,27 +3445,27 @@
         "ko": "한우 우둔 1++ 장조림용",
         "en": "Grade 1++ Hanwoo Beef Round for Braising"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0039/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0039/main/main-1-843f4d6c.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0039/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0039/main/main-1-843f4d6c.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0039-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0039-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0039/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0039/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0039/main/main-1-843f4d6c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0039/main/main-1-843f4d6c-w960.webp"
           },
-          "path": "food/FD-MT-0039/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0039/main/main-1-843f4d6c.jpg",
+          "sha256": "843f4d6ceaa66ce61aeb2738ea3a7203965f625b870226a77d182e3a56ac9f08",
+          "bytes": 193967,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3474,27 +3474,27 @@
         "ko": "한우 다짐육 1+ 다짐용",
         "en": "Grade 1+ Hanwoo Ground Beef"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0040/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0040/main/main-1-6b2b3419.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0040/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0040/main/main-1-6b2b3419.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0040-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0040-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0040/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0040/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0040/main/main-1-6b2b3419-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0040/main/main-1-6b2b3419-w960.webp"
           },
-          "path": "food/FD-MT-0040/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0040/main/main-1-6b2b3419.jpg",
+          "sha256": "6b2b341919db83e04c2782e447f4194bd6df4b08dd2f4881109cc2fc38e988d3",
+          "bytes": 150125,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3503,27 +3503,27 @@
         "ko": "한우 다짐육 1++ 다짐용",
         "en": "Grade 1++ Hanwoo Ground Beef"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0041/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0041/main/main-1-844b7aec.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0041/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0041/main/main-1-844b7aec.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0041-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0041-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0041/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0041/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0041/main/main-1-844b7aec-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0041/main/main-1-844b7aec-w960.webp"
           },
-          "path": "food/FD-MT-0041/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0041/main/main-1-844b7aec.jpg",
+          "sha256": "844b7aec1ffa96959306cb9290f78fa4fa3a06481e72b2e4f29c3ba500818915",
+          "bytes": 154364,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3532,27 +3532,27 @@
         "ko": "한우 불고기용 1++",
         "en": "Grade 1++ Hanwoo Bulgogi Beef"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0042/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0042/main/main-1-47edcf31.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0042/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0042/main/main-1-47edcf31.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0042-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0042-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0042/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0042/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0042/main/main-1-47edcf31-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0042/main/main-1-47edcf31-w960.webp"
           },
-          "path": "food/FD-MT-0042/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0042/main/main-1-47edcf31.jpg",
+          "sha256": "47edcf313df2b79d9a206d49e4b02af518d5e58456a546b437f5004e95b51c55",
+          "bytes": 170511,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3561,27 +3561,27 @@
         "ko": "한우 국거리 1++",
         "en": "Grade 1++ Hanwoo Beef Stew Meat"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0043/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0043/main/main-1-ee7ea401.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0043/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0043/main/main-1-ee7ea401.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0043-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0043-tray-r1-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0043/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0043/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0043/main/main-1-ee7ea401-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0043/main/main-1-ee7ea401-w960.webp"
           },
-          "path": "food/FD-MT-0043/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0043/main/main-1-ee7ea401.jpg",
+          "sha256": "ee7ea4016fbaf96360102cfaa937f1d3a04ba7d2273b059655ea820060c32d9b",
+          "bytes": 158179,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3735,27 +3735,27 @@
         "ko": "한우 등심 1등급 구이용",
         "en": "Grade 1 Hanwoo Beef Sirloin for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0049/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0049/main/main-1-54da574d.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0049/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0049/main/main-1-54da574d.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0049-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0049-tray-r1-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0049/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0049/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0049/main/main-1-54da574d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0049/main/main-1-54da574d-w960.webp"
           },
-          "path": "food/FD-MT-0049/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0049/main/main-1-54da574d.jpg",
+          "sha256": "54da574d2a4c07ad4d7c24300bce6d8e926136289a3de4a06a6a5f6ed8ce7d19",
+          "bytes": 149650,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3764,27 +3764,27 @@
         "ko": "한우 채끝 1등급 구이용",
         "en": "Grade 1 Hanwoo Beef Striploin for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0050/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0050/main/main-1-2c3c7445.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0050/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0050/main/main-1-2c3c7445.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0050-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0050-tray-r1-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0050/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0050/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0050/main/main-1-2c3c7445-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0050/main/main-1-2c3c7445-w960.webp"
           },
-          "path": "food/FD-MT-0050/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0050/main/main-1-2c3c7445.jpg",
+          "sha256": "2c3c744518c3a72df2535173fbf36d0145ad9c80bb49306345c8899321503497",
+          "bytes": 116347,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -3793,27 +3793,27 @@
         "ko": "한우 차돌박이 1+ 구이용",
         "en": "Grade 1+ Hanwoo Beef Brisket for Grilling"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0051/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0051/main/main-1-d4e19eee.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0051/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0051/main/main-1-d4e19eee.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-MT-0051-main-v0",
+          "temporary": false,
+          "job_id": "FD-MT-0051-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0051/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0051/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0051/main/main-1-d4e19eee-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-MT-0051/main/main-1-d4e19eee-w960.webp"
           },
-          "path": "food/FD-MT-0051/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-MT-0051/main/main-1-d4e19eee.jpg",
+          "sha256": "d4e19eee9f336bba4713de9ed57f0e79965dd60df7afc022ea89e28874711782",
+          "bytes": 166080,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -5300,26 +5300,26 @@
         "ko": "노르웨이 고등어 통마리",
         "en": "Norwegian Whole Mackerel"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0001/main/main-1-8a7a0a2f.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0001/main/main-1-fbf50695.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0001/main/main-1-8a7a0a2f.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0001/main/main-1-fbf50695.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-SF-FS-01-main-v2",
+          "job_id": "FD-SF-0001-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0001/main/main-1-8a7a0a2f-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0001/main/main-1-8a7a0a2f-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0001/main/main-1-fbf50695-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0001/main/main-1-fbf50695-w960.webp"
           },
-          "path": "food/FD-SF-0001/main/main-1-8a7a0a2f.jpg",
-          "sha256": "8a7a0a2fbdf459da60edc82decd879d355c785ea9e34f71206cd1eac344797e7",
-          "bytes": 159839,
+          "path": "food/FD-SF-0001/main/main-1-fbf50695.jpg",
+          "sha256": "fbf506955435deab15fceed44bae46615e4639fccad0e22311095620ad96d283",
+          "bytes": 118987,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -5348,26 +5348,26 @@
         "ko": "노르웨이 연어 필렛",
         "en": "Norwegian Salmon Fillet"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0002/main/main-1-26278963.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0002/main/main-1-db98e47a.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0002/main/main-1-26278963.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0002/main/main-1-db98e47a.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-SF-FS-06-main-E-fillet_ice-s0",
+          "job_id": "FD-SF-0002-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0002/main/main-1-26278963-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0002/main/main-1-26278963-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0002/main/main-1-db98e47a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0002/main/main-1-db98e47a-w960.webp"
           },
-          "path": "food/FD-SF-0002/main/main-1-26278963.jpg",
-          "sha256": "26278963fc0417c6a6d0d8a7cdf600adf355ece7a192b885ebc0c5beac3bffaf",
-          "bytes": 257906,
+          "path": "food/FD-SF-0002/main/main-1-db98e47a.jpg",
+          "sha256": "db98e47a41aaceacda5e8e78a03c8ff25798823dd315d882b8b177d6be87d15c",
+          "bytes": 208449,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -5396,26 +5396,26 @@
         "ko": "국내산 조기 통마리",
         "en": "Korean Whole Yellow Croaker"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0004/main/main-1-f572c070.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0004/main/main-1-aa44bbd6.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0004/main/main-1-f572c070.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0004/main/main-1-aa44bbd6.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-SF-FS-04-main-E-fish_whole_white-r2-s1",
+          "job_id": "FD-SF-0004-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0004/main/main-1-f572c070-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0004/main/main-1-f572c070-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0004/main/main-1-aa44bbd6-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0004/main/main-1-aa44bbd6-w960.webp"
           },
-          "path": "food/FD-SF-0004/main/main-1-f572c070.jpg",
-          "sha256": "f572c07017ac669dcd4dc627711c143ac2ccff09991d6e4df3918cbcf403987d",
-          "bytes": 162038,
+          "path": "food/FD-SF-0004/main/main-1-aa44bbd6.jpg",
+          "sha256": "aa44bbd642421e7fbb5186786652dbdb412a859a414aa54188d959bcdc070753",
+          "bytes": 162903,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -5444,26 +5444,26 @@
         "ko": "국내산 새우 손질",
         "en": "Korean Cleaned Shrimp"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0006/main/main-1-c3047b78.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0006/main/main-1-14ba0c3d.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0006/main/main-1-c3047b78.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0006/main/main-1-14ba0c3d.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-SF-SH-01-main-v2",
+          "job_id": "FD-SF-0006-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0006/main/main-1-c3047b78-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0006/main/main-1-c3047b78-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0006/main/main-1-14ba0c3d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0006/main/main-1-14ba0c3d-w960.webp"
           },
-          "path": "food/FD-SF-0006/main/main-1-c3047b78.jpg",
-          "sha256": "c3047b78666aae9c9026001d70dc5158b88282fed0811ab5382e56c1bae03ca7",
-          "bytes": 271201,
+          "path": "food/FD-SF-0006/main/main-1-14ba0c3d.jpg",
+          "sha256": "14ba0c3deed2ec7bdafc2b6da71515306d1ee89a361725ab46ada25e295470ca",
+          "bytes": 171914,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -5732,26 +5732,26 @@
         "ko": "국내산 대게",
         "en": "Korean Snow Crab"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0012/main/main-1-f822a4d0.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0012/main/main-1-40f38705.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0012/main/main-1-f822a4d0.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0012/main/main-1-40f38705.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-SF-SH-07-main-v2",
+          "job_id": "FD-SF-0012-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0012/main/main-1-f822a4d0-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0012/main/main-1-f822a4d0-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0012/main/main-1-40f38705-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0012/main/main-1-40f38705-w960.webp"
           },
-          "path": "food/FD-SF-0012/main/main-1-f822a4d0.jpg",
-          "sha256": "f822a4d0d7cff7e41b891c166c43a8f03848490025bb85535f0e9907044bf416",
-          "bytes": 156188,
+          "path": "food/FD-SF-0012/main/main-1-40f38705.jpg",
+          "sha256": "40f387054e8ac81b07bd658a2892f1bf69c93dc73a3c8e34cff4420ffc9923df",
+          "bytes": 207841,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -5780,26 +5780,26 @@
         "ko": "국내산 홍합 손질",
         "en": "Korean Cleaned Mussels"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0013/main/main-1-afbb5d2b.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0013/main/main-1-64970259.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0013/main/main-1-afbb5d2b.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0013/main/main-1-64970259.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-SF-SH-09-main-v2",
+          "job_id": "FD-SF-0013-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0013/main/main-1-afbb5d2b-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0013/main/main-1-afbb5d2b-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0013/main/main-1-64970259-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0013/main/main-1-64970259-w960.webp"
           },
-          "path": "food/FD-SF-0013/main/main-1-afbb5d2b.jpg",
-          "sha256": "afbb5d2ba0da2f42aea88573d95ae8c211766eb9b68a760965574f43e103f07d",
-          "bytes": 233216,
+          "path": "food/FD-SF-0013/main/main-1-64970259.jpg",
+          "sha256": "64970259d2111439c37e4808011b925d81b32160996173d9949594f62d156229",
+          "bytes": 156830,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -5828,26 +5828,26 @@
         "ko": "국내산 바지락 해감",
         "en": "Korean Sand-Purged Manila Clams"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0014/main/main-1-b2fc3fa9.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0014/main/main-1-5d8facef.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0014/main/main-1-b2fc3fa9.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0014/main/main-1-5d8facef.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-SF-SH-10-main-v2",
+          "job_id": "FD-SF-0014-tray-r1-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0014/main/main-1-b2fc3fa9-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0014/main/main-1-b2fc3fa9-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0014/main/main-1-5d8facef-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0014/main/main-1-5d8facef-w960.webp"
           },
-          "path": "food/FD-SF-0014/main/main-1-b2fc3fa9.jpg",
-          "sha256": "b2fc3fa9c118c51cedf7ac5e0f13cd016fe0d1dfc3b6a7d0353bcd4a6e20ef5f",
-          "bytes": 180903,
+          "path": "food/FD-SF-0014/main/main-1-5d8facef.jpg",
+          "sha256": "5d8facefff440a846b89abb7550b0827cc84998ee4a496aa1a74a943d9d016ad",
+          "bytes": 150501,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -5924,26 +5924,26 @@
         "ko": "김서방 멸치",
         "en": "Gimseobang Dried Anchovies"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0016/main/main-1-8e65b70d.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0016/main/main-1-c3c155a7.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0016/main/main-1-8e65b70d.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0016/main/main-1-c3c155a7.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-SF-DR-01-main-E-dried_pouch-r2-s0",
+          "job_id": "FD-SF-0016-logo-r2-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0016/main/main-1-8e65b70d-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0016/main/main-1-8e65b70d-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0016/main/main-1-c3c155a7-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0016/main/main-1-c3c155a7-w960.webp"
           },
-          "path": "food/FD-SF-0016/main/main-1-8e65b70d.jpg",
-          "sha256": "8e65b70da33a2df0b2523f3d38ced99bbd3f38d0efed1dae0a18c4d74e2edaef",
-          "bytes": 178536,
+          "path": "food/FD-SF-0016/main/main-1-c3c155a7.jpg",
+          "sha256": "c3c155a75966f479d882dc7296252bc60a077087d5c10b7ee2ad09cd889333e8",
+          "bytes": 85352,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -5972,26 +5972,26 @@
         "ko": "김서방 황태",
         "en": "Gimseobang Dried Pollock"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0017/main/main-1-c49bda9f.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0017/main/main-1-bef9c00f.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0017/main/main-1-c49bda9f.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0017/main/main-1-bef9c00f.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-SF-DR-02-main-E-dried_chae-s1",
+          "job_id": "FD-SF-0017-logo-r1-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0017/main/main-1-c49bda9f-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0017/main/main-1-c49bda9f-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0017/main/main-1-bef9c00f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0017/main/main-1-bef9c00f-w960.webp"
           },
-          "path": "food/FD-SF-0017/main/main-1-c49bda9f.jpg",
-          "sha256": "c49bda9f14c28e9215ee47abc4401792a7f0c5e9e61137c159665c60ddc43b85",
-          "bytes": 202488,
+          "path": "food/FD-SF-0017/main/main-1-bef9c00f.jpg",
+          "sha256": "bef9c00f8513c8aa500d9784079df044b7fc34be4f98bb28ca91cbd493a6d461",
+          "bytes": 102142,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -6020,26 +6020,26 @@
         "ko": "김서방 건미역",
         "en": "Gimseobang Dried Wakame"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0018/main/main-1-fe2560c7.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0018/main/main-1-ec83c0c1.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0018/main/main-1-fe2560c7.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0018/main/main-1-ec83c0c1.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-SF-DR-05-main-v2",
+          "job_id": "FD-SF-0018-logo-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0018/main/main-1-fe2560c7-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0018/main/main-1-fe2560c7-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0018/main/main-1-ec83c0c1-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0018/main/main-1-ec83c0c1-w960.webp"
           },
-          "path": "food/FD-SF-0018/main/main-1-fe2560c7.jpg",
-          "sha256": "fe2560c7d0b92505bdd851b00086d98ef6114f39ad16be030cb5502845fd037a",
-          "bytes": 190086,
+          "path": "food/FD-SF-0018/main/main-1-ec83c0c1.jpg",
+          "sha256": "ec83c0c15c3bfc3858dbce2f2dfb07d633c6b18bcf4819158a77ffcfa23a64e7",
+          "bytes": 106585,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -6068,26 +6068,26 @@
         "ko": "김서방 건새우",
         "en": "Gimseobang Dried Shrimp"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0019/main/main-1-78b3d846.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0019/main/main-1-ceec112b.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0019/main/main-1-78b3d846.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0019/main/main-1-ceec112b.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-SF-DR-08-main-E-dried_pouch-r2-s2",
+          "job_id": "FD-SF-0019-logo-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0019/main/main-1-78b3d846-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0019/main/main-1-78b3d846-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0019/main/main-1-ceec112b-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0019/main/main-1-ceec112b-w960.webp"
           },
-          "path": "food/FD-SF-0019/main/main-1-78b3d846.jpg",
-          "sha256": "78b3d846d54523a7caf5c0ca7187e55a36edc6381d38ed1d0d1cdd8fe92d9ae7",
-          "bytes": 262822,
+          "path": "food/FD-SF-0019/main/main-1-ceec112b.jpg",
+          "sha256": "ceec112b2455cea1b9dba1ae26d976e27d148a7a556a8f04b1ac76720f7a0a8e",
+          "bytes": 108774,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -6116,26 +6116,26 @@
         "ko": "김서방 굴비",
         "en": "Gimseobang Salted Dried Yellow Croaker"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0020/main/main-1-860f0b30.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0020/main/main-1-86ec297c.jpg",
       "default_model": null,
       "slots": [
         {
           "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0020/main/main-1-860f0b30.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0020/main/main-1-86ec297c.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
           "temporary": false,
-          "job_id": "FS-SF-DR-09-main-v2",
+          "job_id": "FD-SF-0020-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0020/main/main-1-860f0b30-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0020/main/main-1-860f0b30-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0020/main/main-1-86ec297c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0020/main/main-1-86ec297c-w960.webp"
           },
-          "path": "food/FD-SF-0020/main/main-1-860f0b30.jpg",
-          "sha256": "860f0b30b3763d63241022a1c5947a7b188bd09a77e7c40f0569b545f56fad1d",
-          "bytes": 180618,
+          "path": "food/FD-SF-0020/main/main-1-86ec297c.jpg",
+          "sha256": "86ec297c1026276b948c087f7311c51ea72745eb4ae8c406c5f130c6beaa1c61",
+          "bytes": 187764,
           "digital_source_type": "trainedAlgorithmicMedia"
         },
         {
@@ -6164,27 +6164,27 @@
         "ko": "전남 조기 통마리",
         "en": "Jeonnam Whole Yellow Croaker"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0021/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0021/main/main-1-0a641edd.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0021/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0021/main/main-1-0a641edd.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-SF-0021-main-v0",
+          "temporary": false,
+          "job_id": "FD-SF-0021-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0021/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0021/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0021/main/main-1-0a641edd-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0021/main/main-1-0a641edd-w960.webp"
           },
-          "path": "food/FD-SF-0021/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-SF-0021/main/main-1-0a641edd.jpg",
+          "sha256": "0a641edd81e2da087605939f264802b98575402a001733e2902e75d2f557bc20",
+          "bytes": 220598,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6222,27 +6222,27 @@
         "ko": "충남 꽃게 손질",
         "en": "Chungnam Cleaned Blue Crab"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0023/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0023/main/main-1-44310b97.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0023/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0023/main/main-1-44310b97.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-SF-0023-main-v0",
+          "temporary": false,
+          "job_id": "FD-SF-0023-tray-r2-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0023/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0023/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0023/main/main-1-44310b97-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0023/main/main-1-44310b97-w960.webp"
           },
-          "path": "food/FD-SF-0023/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-SF-0023/main/main-1-44310b97.jpg",
+          "sha256": "44310b97f36a951cb510258852f40c8f437175ada6f2425106d21390bf025c20",
+          "bytes": 193620,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6251,27 +6251,27 @@
         "ko": "경남 홍합 손질",
         "en": "Gyeongnam Cleaned Mussels"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0024/tmp-main/main-1-b6a2d52e.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0024/main/main-1-d9fbc709.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0024/tmp-main/main-1-b6a2d52e.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0024/main/main-1-d9fbc709.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-SF-0024-main-v0",
+          "temporary": false,
+          "job_id": "FD-SF-0024-tray-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0024/tmp-main/main-1-b6a2d52e-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0024/tmp-main/main-1-b6a2d52e-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0024/main/main-1-d9fbc709-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SF-0024/main/main-1-d9fbc709-w960.webp"
           },
-          "path": "food/FD-SF-0024/tmp-main/main-1-b6a2d52e.jpg",
-          "sha256": "b6a2d52e4d517dadb8156cc0870b070506ff7c176e9fc9a1190a84854a756bbc",
-          "bytes": 66245,
-          "digital_source_type": null
+          "path": "food/FD-SF-0024/main/main-1-d9fbc709.jpg",
+          "sha256": "d9fbc7093579089f5ce2f8187b38b0a8866b67f58d42460408bc0ffbd31fff15",
+          "bytes": 194048,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6328,27 +6328,27 @@
         "ko": "소풍 볶은 땅콩 과자",
         "en": "Sopung Roasted Peanut Crackers"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0002/tmp-main/main-1-35e20c3c.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0002/main/main-1-f6af3107.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0002/tmp-main/main-1-35e20c3c.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0002/main/main-1-f6af3107.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-SN-0002-main-v0",
+          "temporary": false,
+          "job_id": "FD-SN-0002-logo-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0002/tmp-main/main-1-35e20c3c-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0002/tmp-main/main-1-35e20c3c-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0002/main/main-1-f6af3107-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0002/main/main-1-f6af3107-w960.webp"
           },
-          "path": "food/FD-SN-0002/tmp-main/main-1-35e20c3c.jpg",
-          "sha256": "35e20c3ccde6206f735aa13e20ae04531b307a698dfeb0b59b25fc1dd5906edd",
-          "bytes": 71785,
-          "digital_source_type": null
+          "path": "food/FD-SN-0002/main/main-1-f6af3107.jpg",
+          "sha256": "f6af31076007a3981bf9dae8fb840527df3d5ceb854ace24c4428266102133ed",
+          "bytes": 142545,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6357,27 +6357,27 @@
         "ko": "단비 단호박 아이 쌀과자",
         "en": "Danbi Pumpkin Kids Rice Puffs"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0003/tmp-main/main-1-d505d9c5.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0003/main/main-1-0ceb23ca.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0003/tmp-main/main-1-d505d9c5.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0003/main/main-1-0ceb23ca.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-SN-0003-main-v0",
+          "temporary": false,
+          "job_id": "FD-SN-0003-logo-r1-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0003/tmp-main/main-1-d505d9c5-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0003/tmp-main/main-1-d505d9c5-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0003/main/main-1-0ceb23ca-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0003/main/main-1-0ceb23ca-w960.webp"
           },
-          "path": "food/FD-SN-0003/tmp-main/main-1-d505d9c5.jpg",
-          "sha256": "d505d9c57d55c091029a2423e5e4d2796e1744468a718e259d99deed74f7d44e",
-          "bytes": 74914,
-          "digital_source_type": null
+          "path": "food/FD-SN-0003/main/main-1-0ceb23ca.jpg",
+          "sha256": "0ceb23cae68c7e219eb61227cca43feabe6f3d551d4bf5b2dc0547f5b353d413",
+          "bytes": 106754,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6415,27 +6415,27 @@
         "ko": "단비 볶은 땅콩 과자",
         "en": "Danbi Roasted Peanut Crackers"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0005/tmp-main/main-1-d505d9c5.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0005/main/main-1-d5ee3ee3.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0005/tmp-main/main-1-d505d9c5.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0005/main/main-1-d5ee3ee3.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-SN-0005-main-v0",
+          "temporary": false,
+          "job_id": "FD-SN-0005-logo-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0005/tmp-main/main-1-d505d9c5-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0005/tmp-main/main-1-d505d9c5-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0005/main/main-1-d5ee3ee3-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0005/main/main-1-d5ee3ee3-w960.webp"
           },
-          "path": "food/FD-SN-0005/tmp-main/main-1-d505d9c5.jpg",
-          "sha256": "d505d9c57d55c091029a2423e5e4d2796e1744468a718e259d99deed74f7d44e",
-          "bytes": 74914,
-          "digital_source_type": null
+          "path": "food/FD-SN-0005/main/main-1-d5ee3ee3.jpg",
+          "sha256": "d5ee3ee3398a1b869e70f2b836e30fd8278c67336e441321478ca856ca30edfe",
+          "bytes": 134240,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6444,27 +6444,27 @@
         "ko": "소풍 허니 땅콩 과자",
         "en": "Sopung Honey Peanut Crackers"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0006/tmp-main/main-1-35e20c3c.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0006/main/main-1-077ba129.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0006/tmp-main/main-1-35e20c3c.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0006/main/main-1-077ba129.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-SN-0006-main-v0",
+          "temporary": false,
+          "job_id": "FD-SN-0006-logo-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0006/tmp-main/main-1-35e20c3c-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0006/tmp-main/main-1-35e20c3c-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0006/main/main-1-077ba129-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0006/main/main-1-077ba129-w960.webp"
           },
-          "path": "food/FD-SN-0006/tmp-main/main-1-35e20c3c.jpg",
-          "sha256": "35e20c3ccde6206f735aa13e20ae04531b307a698dfeb0b59b25fc1dd5906edd",
-          "bytes": 71785,
-          "digital_source_type": null
+          "path": "food/FD-SN-0006/main/main-1-077ba129.jpg",
+          "sha256": "077ba12903cfb72dc756ddf4ee0566d5e9c177eac740f5259c90cb97c33ec47b",
+          "bytes": 130781,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6473,27 +6473,27 @@
         "ko": "단비 허니 땅콩 과자",
         "en": "Danbi Honey Peanut Crackers"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0007/tmp-main/main-1-d505d9c5.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0007/main/main-1-e243ce34.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0007/tmp-main/main-1-d505d9c5.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0007/main/main-1-e243ce34.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-SN-0007-main-v0",
+          "temporary": false,
+          "job_id": "FD-SN-0007-logo-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0007/tmp-main/main-1-d505d9c5-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0007/tmp-main/main-1-d505d9c5-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0007/main/main-1-e243ce34-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0007/main/main-1-e243ce34-w960.webp"
           },
-          "path": "food/FD-SN-0007/tmp-main/main-1-d505d9c5.jpg",
-          "sha256": "d505d9c57d55c091029a2423e5e4d2796e1744468a718e259d99deed74f7d44e",
-          "bytes": 74914,
-          "digital_source_type": null
+          "path": "food/FD-SN-0007/main/main-1-e243ce34.jpg",
+          "sha256": "e243ce34659c9c80360f1eed80499c97467ad9bcc249be686ca3d2205054235e",
+          "bytes": 132689,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6502,27 +6502,27 @@
         "ko": "단비 현미 쌀과자",
         "en": "Danbi Brown Rice Crackers"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0008/tmp-main/main-1-d505d9c5.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0008/main/main-1-8688504d.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0008/tmp-main/main-1-d505d9c5.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0008/main/main-1-8688504d.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-SN-0008-main-v0",
+          "temporary": false,
+          "job_id": "FD-SN-0008-logo-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0008/tmp-main/main-1-d505d9c5-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0008/tmp-main/main-1-d505d9c5-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0008/main/main-1-8688504d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0008/main/main-1-8688504d-w960.webp"
           },
-          "path": "food/FD-SN-0008/tmp-main/main-1-d505d9c5.jpg",
-          "sha256": "d505d9c57d55c091029a2423e5e4d2796e1744468a718e259d99deed74f7d44e",
-          "bytes": 74914,
-          "digital_source_type": null
+          "path": "food/FD-SN-0008/main/main-1-8688504d.jpg",
+          "sha256": "8688504dadec9e8b7152b29a1f605413e9e9e009dfe9b6fd628f066f4deec55c",
+          "bytes": 121700,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6531,27 +6531,27 @@
         "ko": "소풍 현미 쌀과자",
         "en": "Sopung Brown Rice Crackers"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0009/tmp-main/main-1-35e20c3c.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0009/main/main-1-98affdb7.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0009/tmp-main/main-1-35e20c3c.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0009/main/main-1-98affdb7.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-SN-0009-main-v0",
+          "temporary": false,
+          "job_id": "FD-SN-0009-logo-r1-s0",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0009/tmp-main/main-1-35e20c3c-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0009/tmp-main/main-1-35e20c3c-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0009/main/main-1-98affdb7-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0009/main/main-1-98affdb7-w960.webp"
           },
-          "path": "food/FD-SN-0009/tmp-main/main-1-35e20c3c.jpg",
-          "sha256": "35e20c3ccde6206f735aa13e20ae04531b307a698dfeb0b59b25fc1dd5906edd",
-          "bytes": 71785,
-          "digital_source_type": null
+          "path": "food/FD-SN-0009/main/main-1-98affdb7.jpg",
+          "sha256": "98affdb7430cd35e916417ee3c2c16d99320c60805034a908401f56b11297519",
+          "bytes": 134236,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
@@ -6618,27 +6618,27 @@
         "ko": "소풍 호두 쿠키",
         "en": "Sopung Walnut Cookies"
       },
-      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0012/tmp-main/main-1-35e20c3c.jpg",
+      "default_main": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0012/main/main-1-68e0a1cb.jpg",
       "default_model": null,
       "slots": [
         {
-          "group": "tmp-main",
+          "group": "main",
           "kind": "main",
           "seq": 1,
-          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0012/tmp-main/main-1-35e20c3c.jpg",
+          "url": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0012/main/main-1-68e0a1cb.jpg",
           "w": 1200,
           "h": 1200,
           "placeholder": false,
-          "temporary": true,
-          "job_id": "FD-SN-0012-main-v0",
+          "temporary": false,
+          "job_id": "FD-SN-0012-logo-r1-s1",
           "variants": {
-            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0012/tmp-main/main-1-35e20c3c-w640.webp",
-            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0012/tmp-main/main-1-35e20c3c-w960.webp"
+            "640": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0012/main/main-1-68e0a1cb-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/food/FD-SN-0012/main/main-1-68e0a1cb-w960.webp"
           },
-          "path": "food/FD-SN-0012/tmp-main/main-1-35e20c3c.jpg",
-          "sha256": "35e20c3ccde6206f735aa13e20ae04531b307a698dfeb0b59b25fc1dd5906edd",
-          "bytes": 71785,
-          "digital_source_type": null
+          "path": "food/FD-SN-0012/main/main-1-68e0a1cb.jpg",
+          "sha256": "68e0a1cbc813ce8ab415e95629fc99a3c6325a3904688f6f76c468bd3b6e4e73",
+          "bytes": 133244,
+          "digital_source_type": "trainedAlgorithmicMedia"
         }
       ]
     },
