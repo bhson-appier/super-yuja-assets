@@ -1,0 +1,1319 @@
+{
+  "base_url": "https://bhson-appier.github.io/super-yuja-assets/",
+  "url_form": "promo/<promoId>/<role>-<seq>-<sha8>.jpg (role intro | slide | banner)",
+  "note": "AI-generated promotion pictures of a demo shop (수퍼유자), not a real store. Files never change in place.",
+  "promotions": {
+    "PR-FA-26FW-NEW": {
+      "name": {
+        "ko": "PR-FA-26FW-NEW",
+        "en": "PR-FA-26FW-NEW"
+      },
+      "slots": [
+        {
+          "group": "intro",
+          "kind": "intro",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-NEW/intro-1-b24dc7ea.jpg",
+          "w": 832,
+          "h": 1040,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-NEW/intro-1-b24dc7ea-w640.webp"
+          },
+          "path": "promo/PR-FA-26FW-NEW/intro-1-b24dc7ea.jpg",
+          "sha256": "b24dc7ea4b49ac25311e0e8bae581e880ddbe38c84868df4cbf4ba197a05bae3",
+          "bytes": 213389,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-NEW-I1-b24dc7ea4b49.jpg"
+        },
+        {
+          "group": "intro",
+          "kind": "intro",
+          "seq": 2,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-NEW/intro-2-25b05669.jpg",
+          "w": 832,
+          "h": 1040,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-NEW/intro-2-25b05669-w640.webp"
+          },
+          "path": "promo/PR-FA-26FW-NEW/intro-2-25b05669.jpg",
+          "sha256": "25b0566958072c17cd897934e55d84802a00c6ec8a2bd47741ffc26c9ca57ba8",
+          "bytes": 261878,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-NEW-I2-25b056695807.jpg"
+        },
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-NEW/slide-1-70e9a2a1.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-NEW/slide-1-70e9a2a1-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-NEW/slide-1-70e9a2a1-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-NEW/slide-1-70e9a2a1.jpg",
+          "sha256": "70e9a2a19ec91cf3211d33a43b5835b13860b51292bbdb62aa8e56c6f2eefecd",
+          "bytes": 168420,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-NEW-S1-70e9a2a19ec9.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-NEW/banner-1-55eec84c.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-NEW/banner-1-55eec84c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-NEW/banner-1-55eec84c-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-NEW/banner-1-55eec84c.jpg",
+          "sha256": "55eec84c22b29b1dc80fcdc951d55164e261f4c7b3ef583a906b3db9e7b1a0ee",
+          "bytes": 93100,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-NEW-W2-55eec84c22b2.jpg"
+        }
+      ]
+    },
+    "PR-FA-26FW-WELCOME": {
+      "name": {
+        "ko": "PR-FA-26FW-WELCOME",
+        "en": "PR-FA-26FW-WELCOME"
+      },
+      "slots": [
+        {
+          "group": "intro",
+          "kind": "intro",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WELCOME/intro-1-288a5dae.jpg",
+          "w": 832,
+          "h": 1040,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WELCOME/intro-1-288a5dae-w640.webp"
+          },
+          "path": "promo/PR-FA-26FW-WELCOME/intro-1-288a5dae.jpg",
+          "sha256": "288a5daee30cf576a8188e7490fe052702c12b68ac9e9c062998c223a9e3c51e",
+          "bytes": 269120,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-WELCOME-I1-288a5daee30c.jpg"
+        },
+        {
+          "group": "intro",
+          "kind": "intro",
+          "seq": 2,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WELCOME/intro-2-d51a745c.jpg",
+          "w": 832,
+          "h": 1040,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WELCOME/intro-2-d51a745c-w640.webp"
+          },
+          "path": "promo/PR-FA-26FW-WELCOME/intro-2-d51a745c.jpg",
+          "sha256": "d51a745c5c222a06d6c5bdaa42b828b244635b30089af44a1588e300ddeacdd0",
+          "bytes": 167646,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-WELCOME-I2-d51a745c5c22.jpg"
+        },
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WELCOME/slide-1-6dfa3ecc.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WELCOME/slide-1-6dfa3ecc-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WELCOME/slide-1-6dfa3ecc-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-WELCOME/slide-1-6dfa3ecc.jpg",
+          "sha256": "6dfa3ecc3f770dd74697ddadb985d649b681df397f91a76ab4709bbf2475569b",
+          "bytes": 107442,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-WELCOME-S1-6dfa3ecc3f77.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WELCOME/banner-1-50a75af9.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WELCOME/banner-1-50a75af9-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WELCOME/banner-1-50a75af9-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-WELCOME/banner-1-50a75af9.jpg",
+          "sha256": "50a75af99207a5121332bb376b6ac0e6249a154ed99b2a01a2e5cc5446387d7b",
+          "bytes": 62962,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-WELCOME-W2-50a75af99207.jpg"
+        }
+      ]
+    },
+    "PR-FA-26FW-OUTER": {
+      "name": {
+        "ko": "PR-FA-26FW-OUTER",
+        "en": "PR-FA-26FW-OUTER"
+      },
+      "slots": [
+        {
+          "group": "intro",
+          "kind": "intro",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-OUTER/intro-1-44dcd3f4.jpg",
+          "w": 832,
+          "h": 1040,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-OUTER/intro-1-44dcd3f4-w640.webp"
+          },
+          "path": "promo/PR-FA-26FW-OUTER/intro-1-44dcd3f4.jpg",
+          "sha256": "44dcd3f40b3f454df8c04f4525343b87cd66e6ebee1fe169ea801ee66bfae904",
+          "bytes": 245052,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-OUTER-I1-44dcd3f40b3f.jpg"
+        },
+        {
+          "group": "intro",
+          "kind": "intro",
+          "seq": 2,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-OUTER/intro-2-334e4087.jpg",
+          "w": 832,
+          "h": 1040,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-OUTER/intro-2-334e4087-w640.webp"
+          },
+          "path": "promo/PR-FA-26FW-OUTER/intro-2-334e4087.jpg",
+          "sha256": "334e4087b3cae744aac0d6d674f81fa5bfcd2bc97055a76d99f0ed49eef7006b",
+          "bytes": 149998,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-OUTER-I2-334e4087b3ca.jpg"
+        },
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-OUTER/slide-1-7cac4a65.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-OUTER/slide-1-7cac4a65-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-OUTER/slide-1-7cac4a65-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-OUTER/slide-1-7cac4a65.jpg",
+          "sha256": "7cac4a65ebe95346d9ee0e54d3acd24dd6b770738b5dc694751661f58b4db4df",
+          "bytes": 168413,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-OUTER-S1-7cac4a65ebe9.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-OUTER/banner-1-3ac91fca.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-OUTER/banner-1-3ac91fca-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-OUTER/banner-1-3ac91fca-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-OUTER/banner-1-3ac91fca.jpg",
+          "sha256": "3ac91fca482bdb3387a59518cf7bbb9acb5f6c46b3d8cdc47347c8e771b71e4d",
+          "bytes": 72960,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-OUTER-W2-3ac91fca482b.jpg"
+        }
+      ]
+    },
+    "PR-BT-26FW-MOIST": {
+      "name": {
+        "ko": "PR-BT-26FW-MOIST",
+        "en": "PR-BT-26FW-MOIST"
+      },
+      "slots": [
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-MOIST/slide-1-b7b2d150.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-MOIST/slide-1-b7b2d150-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-MOIST/slide-1-b7b2d150-w960.webp"
+          },
+          "path": "promo/PR-BT-26FW-MOIST/slide-1-b7b2d150.jpg",
+          "sha256": "b7b2d1500481d915896cc0573f5ff1413f233190192a181cc88f5ca45ef89a25",
+          "bytes": 136790,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-BT-26FW-MOIST-S1-b7b2d1500481.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-MOIST/banner-1-a8eeefb2.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-MOIST/banner-1-a8eeefb2-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-MOIST/banner-1-a8eeefb2-w960.webp"
+          },
+          "path": "promo/PR-BT-26FW-MOIST/banner-1-a8eeefb2.jpg",
+          "sha256": "a8eeefb24448975233796338ef511a2ed622c2aa5653337dc70b75d535163d19",
+          "bytes": 47901,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-BT-26FW-MOIST-W2-a8eeefb24448.jpg"
+        }
+      ]
+    },
+    "PR-FA-26FW-KNIT": {
+      "name": {
+        "ko": "PR-FA-26FW-KNIT",
+        "en": "PR-FA-26FW-KNIT"
+      },
+      "slots": [
+        {
+          "group": "intro",
+          "kind": "intro",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-KNIT/intro-1-8ace71d6.jpg",
+          "w": 832,
+          "h": 1040,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-KNIT/intro-1-8ace71d6-w640.webp"
+          },
+          "path": "promo/PR-FA-26FW-KNIT/intro-1-8ace71d6.jpg",
+          "sha256": "8ace71d6aa12188633a9ffbfc22d88372e8492a59d633ec8e0943ffe357b1d1f",
+          "bytes": 134614,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-KNIT-I1-8ace71d6aa12.jpg"
+        },
+        {
+          "group": "intro",
+          "kind": "intro",
+          "seq": 2,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-KNIT/intro-2-cc36837c.jpg",
+          "w": 832,
+          "h": 1040,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-KNIT/intro-2-cc36837c-w640.webp"
+          },
+          "path": "promo/PR-FA-26FW-KNIT/intro-2-cc36837c.jpg",
+          "sha256": "cc36837c216c1737bf68aee184f9262c4b0e1d238a376947b6ee851c641f23ba",
+          "bytes": 199229,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-KNIT-I2-cc36837c216c.jpg"
+        },
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-KNIT/slide-1-b18a681d.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-KNIT/slide-1-b18a681d-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-KNIT/slide-1-b18a681d-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-KNIT/slide-1-b18a681d.jpg",
+          "sha256": "b18a681d427fd7b1ad40b066e0a760be419d48a5f485ce8cf2ba8bec5635c792",
+          "bytes": 170607,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-KNIT-S1-b18a681d427f.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-KNIT/banner-1-cddbbc63.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-KNIT/banner-1-cddbbc63-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-KNIT/banner-1-cddbbc63-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-KNIT/banner-1-cddbbc63.jpg",
+          "sha256": "cddbbc638f5a902e4785c61d59f534529500d4b5a8610a0266af84c2a7f9ec1a",
+          "bytes": 90722,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-KNIT-W2-cddbbc638f5a.jpg"
+        }
+      ]
+    },
+    "PR-FA-26FW-1111": {
+      "name": {
+        "ko": "PR-FA-26FW-1111",
+        "en": "PR-FA-26FW-1111"
+      },
+      "slots": [
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-1111/slide-1-8a3035f6.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-1111/slide-1-8a3035f6-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-1111/slide-1-8a3035f6-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-1111/slide-1-8a3035f6.jpg",
+          "sha256": "8a3035f68c3868191cf3feb1e8275030974d72cef90e24ff842502a9a5b1fddb",
+          "bytes": 109956,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-1111-S1-8a3035f68c38.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-1111/banner-1-c837ed72.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-1111/banner-1-c837ed72-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-1111/banner-1-c837ed72-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-1111/banner-1-c837ed72.jpg",
+          "sha256": "c837ed72520242e58a1a0cc73701af0fd3cadcd4df07492146e0380299545e32",
+          "bytes": 50495,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-1111-W2-c837ed725202.jpg"
+        }
+      ]
+    },
+    "PR-FA-26FW-WINTER": {
+      "name": {
+        "ko": "PR-FA-26FW-WINTER",
+        "en": "PR-FA-26FW-WINTER"
+      },
+      "slots": [
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WINTER/slide-1-fa684578.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WINTER/slide-1-fa684578-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WINTER/slide-1-fa684578-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-WINTER/slide-1-fa684578.jpg",
+          "sha256": "fa6845787240ba3f9ba2a9ce51200596da002c21422d9f6210299df7a432bc24",
+          "bytes": 158950,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-WINTER-S1-fa6845787240.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WINTER/banner-1-073b24f6.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WINTER/banner-1-073b24f6-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-WINTER/banner-1-073b24f6-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-WINTER/banner-1-073b24f6.jpg",
+          "sha256": "073b24f6fd22725bc0659837a4974e6b3fe35047b90f14a4531ff4c48873c6ee",
+          "bytes": 67503,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-WINTER-W2-073b24f6fd22.jpg"
+        }
+      ]
+    },
+    "PR-FA-26FW-PARTY": {
+      "name": {
+        "ko": "PR-FA-26FW-PARTY",
+        "en": "PR-FA-26FW-PARTY"
+      },
+      "slots": [
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-PARTY/slide-1-2eeea981.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-PARTY/slide-1-2eeea981-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-PARTY/slide-1-2eeea981-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-PARTY/slide-1-2eeea981.jpg",
+          "sha256": "2eeea98174d000cdd729ea8ffac57df2d878798a67f140e18e85625510e3caa3",
+          "bytes": 162908,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-PARTY-S1-2eeea98174d0.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-PARTY/banner-1-63cd6e6a.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-PARTY/banner-1-63cd6e6a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-PARTY/banner-1-63cd6e6a-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-PARTY/banner-1-63cd6e6a.jpg",
+          "sha256": "63cd6e6a1a61d94960cf61ab7e1cde61f6cd0c35d6186c8c3df61cdb1941f201",
+          "bytes": 69768,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-PARTY-W2-63cd6e6a1a61.jpg"
+        }
+      ]
+    },
+    "PR-BT-26FW-1111": {
+      "name": {
+        "ko": "PR-BT-26FW-1111",
+        "en": "PR-BT-26FW-1111"
+      },
+      "slots": [
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-1111/slide-1-97a7e996.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-1111/slide-1-97a7e996-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-1111/slide-1-97a7e996-w960.webp"
+          },
+          "path": "promo/PR-BT-26FW-1111/slide-1-97a7e996.jpg",
+          "sha256": "97a7e99673700bd903c739df0d034b0ae218819cbc21163c3c47e7e13eeb9d27",
+          "bytes": 62434,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-BT-26FW-1111-S1-97a7e9967370.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-1111/banner-1-582d7c2a.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-1111/banner-1-582d7c2a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-1111/banner-1-582d7c2a-w960.webp"
+          },
+          "path": "promo/PR-BT-26FW-1111/banner-1-582d7c2a.jpg",
+          "sha256": "582d7c2a0067cc0fcf89d31cb1c140757f6186f9397027a0bb104afecac87411",
+          "bytes": 29909,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-BT-26FW-1111-W2-582d7c2a0067.jpg"
+        }
+      ]
+    },
+    "PR-BT-26FW-SUN": {
+      "name": {
+        "ko": "PR-BT-26FW-SUN",
+        "en": "PR-BT-26FW-SUN"
+      },
+      "slots": [
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-SUN/slide-1-366a442f.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-SUN/slide-1-366a442f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-SUN/slide-1-366a442f-w960.webp"
+          },
+          "path": "promo/PR-BT-26FW-SUN/slide-1-366a442f.jpg",
+          "sha256": "366a442f218b0cb0ae488cb83135a18e63817c2ce256299031f6328a0ee350b6",
+          "bytes": 80134,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-BT-26FW-SUN-S1-366a442f218b.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-SUN/banner-1-c458ffc0.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-SUN/banner-1-c458ffc0-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-SUN/banner-1-c458ffc0-w960.webp"
+          },
+          "path": "promo/PR-BT-26FW-SUN/banner-1-c458ffc0.jpg",
+          "sha256": "c458ffc09a3367025d68473570b7699b7055e5c4a95a00bb601d3b263678fc87",
+          "bytes": 40021,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-BT-26FW-SUN-W2-c458ffc09a33.jpg"
+        }
+      ]
+    },
+    "PR-BT-26FW-PINK": {
+      "name": {
+        "ko": "PR-BT-26FW-PINK",
+        "en": "PR-BT-26FW-PINK"
+      },
+      "slots": [
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-PINK/slide-1-368ae031.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-PINK/slide-1-368ae031-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-PINK/slide-1-368ae031-w960.webp"
+          },
+          "path": "promo/PR-BT-26FW-PINK/slide-1-368ae031.jpg",
+          "sha256": "368ae031885743e703b810ae6ef22d7a97bcbb0a5a9eb40ad871d201e6ff47b0",
+          "bytes": 87254,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-BT-26FW-PINK-S1-368ae0318857.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-PINK/banner-1-d059f3f5.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-PINK/banner-1-d059f3f5-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-PINK/banner-1-d059f3f5-w960.webp"
+          },
+          "path": "promo/PR-BT-26FW-PINK/banner-1-d059f3f5.jpg",
+          "sha256": "d059f3f50f4b66bc28af10e7dec8e10d78c8d62327e40ce811752fc1746226ff",
+          "bytes": 39389,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-BT-26FW-PINK-W2-d059f3f50f4b.jpg"
+        }
+      ]
+    },
+    "PR-FD-26FW-1111": {
+      "name": {
+        "ko": "PR-FD-26FW-1111",
+        "en": "PR-FD-26FW-1111"
+      },
+      "slots": [
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-1111/slide-1-761576a5.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-1111/slide-1-761576a5-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-1111/slide-1-761576a5-w960.webp"
+          },
+          "path": "promo/PR-FD-26FW-1111/slide-1-761576a5.jpg",
+          "sha256": "761576a5b2b8d12a3d49b5850305081220c03690ef7fb041c8282ec5a3ffc74c",
+          "bytes": 131182,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FD-26FW-1111-S1-761576a5b2b8.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-1111/banner-1-0700cea9.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-1111/banner-1-0700cea9-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-1111/banner-1-0700cea9-w960.webp"
+          },
+          "path": "promo/PR-FD-26FW-1111/banner-1-0700cea9.jpg",
+          "sha256": "0700cea9f147c06b22ba7463e7a544ccb65e2e2b44a0e01f00551f25f0b6988e",
+          "bytes": 89504,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FD-26FW-1111-W2-0700cea9f147.jpg"
+        }
+      ]
+    },
+    "PR-FD-26FW-CITRUS": {
+      "name": {
+        "ko": "PR-FD-26FW-CITRUS",
+        "en": "PR-FD-26FW-CITRUS"
+      },
+      "slots": [
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-CITRUS/slide-1-7230901f.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-CITRUS/slide-1-7230901f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-CITRUS/slide-1-7230901f-w960.webp"
+          },
+          "path": "promo/PR-FD-26FW-CITRUS/slide-1-7230901f.jpg",
+          "sha256": "7230901f9547b5256e5e3e8ea9ec4eae5cf66345d55329b66c6820942e467556",
+          "bytes": 111527,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FD-26FW-CITRUS-S1-7230901f9547.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-CITRUS/banner-1-4a246238.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-CITRUS/banner-1-4a246238-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-CITRUS/banner-1-4a246238-w960.webp"
+          },
+          "path": "promo/PR-FD-26FW-CITRUS/banner-1-4a246238.jpg",
+          "sha256": "4a246238c1b225a5e7ce34b3bafc1fa8d4611277ed2d8540ae75c49a095d2131",
+          "bytes": 86414,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FD-26FW-CITRUS-W2-4a246238c1b2.jpg"
+        }
+      ]
+    },
+    "PR-FD-26FW-KIDS": {
+      "name": {
+        "ko": "PR-FD-26FW-KIDS",
+        "en": "PR-FD-26FW-KIDS"
+      },
+      "slots": [
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-KIDS/slide-1-8df4a641.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-KIDS/slide-1-8df4a641-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-KIDS/slide-1-8df4a641-w960.webp"
+          },
+          "path": "promo/PR-FD-26FW-KIDS/slide-1-8df4a641.jpg",
+          "sha256": "8df4a6419689f93ec421deef6453e3f5a702a0274e9992de43230fa3ea1aea17",
+          "bytes": 91110,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FD-26FW-KIDS-S1-8df4a6419689.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-KIDS/banner-1-096e3e0a.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-KIDS/banner-1-096e3e0a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-KIDS/banner-1-096e3e0a-w960.webp"
+          },
+          "path": "promo/PR-FD-26FW-KIDS/banner-1-096e3e0a.jpg",
+          "sha256": "096e3e0aeec72a6746f05e2854082b51926b59f91d57806e9f9025d3ac5b4787",
+          "bytes": 42177,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FD-26FW-KIDS-W2-096e3e0aeec7.jpg"
+        }
+      ]
+    },
+    "PR-FD-26FW-BOYANG": {
+      "name": {
+        "ko": "PR-FD-26FW-BOYANG",
+        "en": "PR-FD-26FW-BOYANG"
+      },
+      "slots": [
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-BOYANG/slide-1-b2c8e33c.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-BOYANG/slide-1-b2c8e33c-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-BOYANG/slide-1-b2c8e33c-w960.webp"
+          },
+          "path": "promo/PR-FD-26FW-BOYANG/slide-1-b2c8e33c.jpg",
+          "sha256": "b2c8e33c3f88023d4f2b5b5c6f4b33d994e6ed247b288cb017f98c401212851b",
+          "bytes": 120841,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FD-26FW-BOYANG-S1-b2c8e33c3f88.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-BOYANG/banner-1-2e5b51d5.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-BOYANG/banner-1-2e5b51d5-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-BOYANG/banner-1-2e5b51d5-w960.webp"
+          },
+          "path": "promo/PR-FD-26FW-BOYANG/banner-1-2e5b51d5.jpg",
+          "sha256": "2e5b51d52f3f4c217896569553b28555b5ba842fe51ce2d1320fdca51730628d",
+          "bytes": 62284,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FD-26FW-BOYANG-W2-2e5b51d52f3f.jpg"
+        }
+      ]
+    },
+    "PR-FA-26FW-BLACKFRI": {
+      "name": {
+        "ko": "PR-FA-26FW-BLACKFRI",
+        "en": "PR-FA-26FW-BLACKFRI"
+      },
+      "slots": [
+        {
+          "group": "brand",
+          "kind": "brand",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/brand-1-a1a7b3ae.jpg",
+          "w": 832,
+          "h": 1040,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/brand-1-a1a7b3ae-w640.webp"
+          },
+          "path": "promo/PR-FA-26FW-BLACKFRI/brand-1-a1a7b3ae.jpg",
+          "sha256": "a1a7b3ae33054dec48b9e46bd2e09184762d46746fe25b7a3e17c4abda668c82",
+          "bytes": 138008,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-BLACKFRI-B1-a1a7b3ae3305.jpg"
+        },
+        {
+          "group": "brand",
+          "kind": "brand",
+          "seq": 2,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/brand-2-5af1d734.jpg",
+          "w": 832,
+          "h": 1040,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/brand-2-5af1d734-w640.webp"
+          },
+          "path": "promo/PR-FA-26FW-BLACKFRI/brand-2-5af1d734.jpg",
+          "sha256": "5af1d734d9aae348d7be2846d3993916295977d399fd88c769d847fddcd563ad",
+          "bytes": 99064,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-BLACKFRI-B2-5af1d734d9aa.jpg"
+        },
+        {
+          "group": "brand",
+          "kind": "brand",
+          "seq": 3,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/brand-3-ce55abe6.jpg",
+          "w": 832,
+          "h": 1040,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/brand-3-ce55abe6-w640.webp"
+          },
+          "path": "promo/PR-FA-26FW-BLACKFRI/brand-3-ce55abe6.jpg",
+          "sha256": "ce55abe69e7c10a4879552c02832210e12f1d0efc057d5f41ecd728c672c38df",
+          "bytes": 117012,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-BLACKFRI-B3-ce55abe69e7c.jpg"
+        },
+        {
+          "group": "brand",
+          "kind": "brand",
+          "seq": 4,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/brand-4-6ff10ed6.jpg",
+          "w": 832,
+          "h": 1040,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/brand-4-6ff10ed6-w640.webp"
+          },
+          "path": "promo/PR-FA-26FW-BLACKFRI/brand-4-6ff10ed6.jpg",
+          "sha256": "6ff10ed6ef3a9cde17d9e335acf2ce90dbc7345d645a5deb952c428b2977fdbe",
+          "bytes": 159066,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-BLACKFRI-B4-6ff10ed6ef3a.jpg"
+        },
+        {
+          "group": "brand",
+          "kind": "brand",
+          "seq": 5,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/brand-5-6d78f861.jpg",
+          "w": 832,
+          "h": 1040,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/brand-5-6d78f861-w640.webp"
+          },
+          "path": "promo/PR-FA-26FW-BLACKFRI/brand-5-6d78f861.jpg",
+          "sha256": "6d78f861e3223bd403e24fff285c7fde73c5e06cc929fca4df2da72ad45fa110",
+          "bytes": 184627,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-BLACKFRI-B5-6d78f861e322.jpg"
+        },
+        {
+          "group": "brand",
+          "kind": "brand",
+          "seq": 6,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/brand-6-56b0bb55.jpg",
+          "w": 832,
+          "h": 1040,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/brand-6-56b0bb55-w640.webp"
+          },
+          "path": "promo/PR-FA-26FW-BLACKFRI/brand-6-56b0bb55.jpg",
+          "sha256": "56b0bb5515f1c6ce08a865d0b44e1c585c96d4fc84289fdba6c13e1a967f1bf9",
+          "bytes": 133973,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-BLACKFRI-B6-56b0bb5515f1.jpg"
+        },
+        {
+          "group": "brand",
+          "kind": "brand",
+          "seq": 7,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/brand-7-d8c90f9e.jpg",
+          "w": 832,
+          "h": 1040,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/brand-7-d8c90f9e-w640.webp"
+          },
+          "path": "promo/PR-FA-26FW-BLACKFRI/brand-7-d8c90f9e.jpg",
+          "sha256": "d8c90f9e24c58ec5a187bb5db1853cd7f7ca6d2ff72cfde9e3abfc10b476ecfc",
+          "bytes": 164152,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-BLACKFRI-B7-d8c90f9e24c5.jpg"
+        },
+        {
+          "group": "brand",
+          "kind": "brand",
+          "seq": 8,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/brand-8-c4131e22.jpg",
+          "w": 832,
+          "h": 1040,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/brand-8-c4131e22-w640.webp"
+          },
+          "path": "promo/PR-FA-26FW-BLACKFRI/brand-8-c4131e22.jpg",
+          "sha256": "c4131e221971597d03d0b91efef58591eb7c13223ce6fd778a1977ed2a26c06a",
+          "bytes": 177588,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-BLACKFRI-B8-c4131e221971.jpg"
+        },
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/slide-1-c90bc084.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/slide-1-c90bc084-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/slide-1-c90bc084-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-BLACKFRI/slide-1-c90bc084.jpg",
+          "sha256": "c90bc0845e83c3fde0c6f57a5f7dd18e99485d2a3cc0877c05ab7c0fd0dcb946",
+          "bytes": 143948,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-BLACKFRI-S1-c90bc0845e83.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/banner-1-5b649d8e.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/banner-1-5b649d8e-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-BLACKFRI/banner-1-5b649d8e-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-BLACKFRI/banner-1-5b649d8e.jpg",
+          "sha256": "5b649d8ef702422b0f8f825ce438bd7641285ceca9ac620a92a56228caf23f64",
+          "bytes": 67488,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-BLACKFRI-W2-5b649d8ef702.jpg"
+        }
+      ]
+    },
+    "PR-BT-26FW-BLACKFRI": {
+      "name": {
+        "ko": "PR-BT-26FW-BLACKFRI",
+        "en": "PR-BT-26FW-BLACKFRI"
+      },
+      "slots": [
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-BLACKFRI/slide-1-83a9a661.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-BLACKFRI/slide-1-83a9a661-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-BLACKFRI/slide-1-83a9a661-w960.webp"
+          },
+          "path": "promo/PR-BT-26FW-BLACKFRI/slide-1-83a9a661.jpg",
+          "sha256": "83a9a661d6088a7aef1b03c3a9f45babee14f17d246feb7c78a12203c6a13ad5",
+          "bytes": 84448,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-BT-26FW-BLACKFRI-S1-83a9a661d608.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-BLACKFRI/banner-1-cecd48a0.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-BLACKFRI/banner-1-cecd48a0-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-BLACKFRI/banner-1-cecd48a0-w960.webp"
+          },
+          "path": "promo/PR-BT-26FW-BLACKFRI/banner-1-cecd48a0.jpg",
+          "sha256": "cecd48a0707a551778d212f2e6d06390b3c26a73ba2d636d859381259977d60e",
+          "bytes": 39989,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-BT-26FW-BLACKFRI-W2-cecd48a0707a.jpg"
+        }
+      ]
+    },
+    "PR-FD-26FW-BLACKFRI": {
+      "name": {
+        "ko": "PR-FD-26FW-BLACKFRI",
+        "en": "PR-FD-26FW-BLACKFRI"
+      },
+      "slots": [
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-BLACKFRI/slide-1-c6f07cbb.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-BLACKFRI/slide-1-c6f07cbb-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-BLACKFRI/slide-1-c6f07cbb-w960.webp"
+          },
+          "path": "promo/PR-FD-26FW-BLACKFRI/slide-1-c6f07cbb.jpg",
+          "sha256": "c6f07cbb72e996f3ecae491a68d983318b57bc86d82ea8bed051c678258f0b71",
+          "bytes": 147194,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FD-26FW-BLACKFRI-S1-c6f07cbb72e9.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-BLACKFRI/banner-1-15157997.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-BLACKFRI/banner-1-15157997-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-BLACKFRI/banner-1-15157997-w960.webp"
+          },
+          "path": "promo/PR-FD-26FW-BLACKFRI/banner-1-15157997.jpg",
+          "sha256": "15157997e7534bbbd6d760ba8d3fe6c52b3325bf1d771930d279ac50b3e44056",
+          "bytes": 70885,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FD-26FW-BLACKFRI-W2-15157997e753.jpg"
+        }
+      ]
+    },
+    "PR-BT-26FW-HOLIDAY": {
+      "name": {
+        "ko": "PR-BT-26FW-HOLIDAY",
+        "en": "PR-BT-26FW-HOLIDAY"
+      },
+      "slots": [
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-HOLIDAY/slide-1-094d8b05.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-HOLIDAY/slide-1-094d8b05-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-HOLIDAY/slide-1-094d8b05-w960.webp"
+          },
+          "path": "promo/PR-BT-26FW-HOLIDAY/slide-1-094d8b05.jpg",
+          "sha256": "094d8b05e01074f7eeea4c5c53e2a846dd4b6f8004f1e75a26269cb97c69ab10",
+          "bytes": 147271,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-BT-26FW-HOLIDAY-S1-094d8b05e010.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-HOLIDAY/banner-1-6b76898a.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-HOLIDAY/banner-1-6b76898a-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-BT-26FW-HOLIDAY/banner-1-6b76898a-w960.webp"
+          },
+          "path": "promo/PR-BT-26FW-HOLIDAY/banner-1-6b76898a.jpg",
+          "sha256": "6b76898a0d378f7ae6c8b5fabaf4bdd3ff36ee7b14b85937b3b6b2dfb5dfd01c",
+          "bytes": 59535,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-BT-26FW-HOLIDAY-W2-6b76898a0d37.jpg"
+        }
+      ]
+    },
+    "PR-FD-26FW-XMAS": {
+      "name": {
+        "ko": "PR-FD-26FW-XMAS",
+        "en": "PR-FD-26FW-XMAS"
+      },
+      "slots": [
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-XMAS/slide-1-e9eed636.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-XMAS/slide-1-e9eed636-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-XMAS/slide-1-e9eed636-w960.webp"
+          },
+          "path": "promo/PR-FD-26FW-XMAS/slide-1-e9eed636.jpg",
+          "sha256": "e9eed6369ed5f6f91437742b4077bf79862d200d33830b61f1ec624bfe3861b0",
+          "bytes": 135951,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FD-26FW-XMAS-S1-e9eed6369ed5.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-XMAS/banner-1-0c7a72c6.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-XMAS/banner-1-0c7a72c6-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FD-26FW-XMAS/banner-1-0c7a72c6-w960.webp"
+          },
+          "path": "promo/PR-FD-26FW-XMAS/banner-1-0c7a72c6.jpg",
+          "sha256": "0c7a72c651302528663f37ed4c2fca43c0a3cc32cc4903c3182b87c941d1f82a",
+          "bytes": 84969,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FD-26FW-XMAS-W2-0c7a72c65130.jpg"
+        }
+      ]
+    },
+    "PR-FA-26FW-THANKS": {
+      "name": {
+        "ko": "PR-FA-26FW-THANKS",
+        "en": "PR-FA-26FW-THANKS"
+      },
+      "slots": [
+        {
+          "group": "slide",
+          "kind": "slide",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-THANKS/slide-1-e362039f.jpg",
+          "w": 1024,
+          "h": 1024,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-THANKS/slide-1-e362039f-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-THANKS/slide-1-e362039f-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-THANKS/slide-1-e362039f.jpg",
+          "sha256": "e362039fadc36a0b2239ecb7d7385030c113497ae38092990f8ecf167f60db95",
+          "bytes": 114023,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-THANKS-S1-e362039fadc3.jpg"
+        },
+        {
+          "group": "banner",
+          "kind": "banner",
+          "seq": 1,
+          "url": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-THANKS/banner-1-c967e716.jpg",
+          "w": 1536,
+          "h": 384,
+          "placeholder": false,
+          "temporary": false,
+          "job_id": null,
+          "variants": {
+            "640": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-THANKS/banner-1-c967e716-w640.webp",
+            "960": "https://bhson-appier.github.io/super-yuja-assets/promo/PR-FA-26FW-THANKS/banner-1-c967e716-w960.webp"
+          },
+          "path": "promo/PR-FA-26FW-THANKS/banner-1-c967e716.jpg",
+          "sha256": "c967e716c161c6e27db300e3fbfcd35dc768c4d93f35e597e4609fd8ffe3b00b",
+          "bytes": 65771,
+          "digital_source_type": "trainedAlgorithmicMedia",
+          "local": "/img/promo/PR-FA-26FW-THANKS-W2-c967e716c161.jpg"
+        }
+      ]
+    }
+  }
+}
